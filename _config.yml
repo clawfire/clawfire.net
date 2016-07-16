@@ -25,8 +25,8 @@ defaults:
   values:
     layout: post
 name: 'Billets d''humeur, #lgbt, Geekeries et autres conneries.'
-description: 'Billets d''humeur, #lgbt, Geekeries et autres conneries. Un peu de moi
-  en somme.'
+description: "Billets d'humeur, #lgbt, Geekeries et autres conneries.  \nUn peu de
+  moi en somme."
 meta_description: 'Clawfire''s Blog : Billets d''humeur, #lgbt, Geekeries et autres
   conneries. Un peu de moi en somme.'
 aboutPage: true
