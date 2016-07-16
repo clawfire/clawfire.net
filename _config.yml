@@ -1,46 +1,59 @@
----
-title: Clawfire's Blog
-timezone: Europe/Paris
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-- scope:
-    path: ''
-    type: drafts
-  values:
-    layout: post
-name: 'Billets d''humeur, #lgbt, Geekeries et autres conneries.'
-description: |-
-  Billets d'humeur, #lgbt, Geekeries et autres conneries.
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
 
-  Un peu de moi en somme.
-meta_description: 'Clawfire''s Blog : Billets d''humeur, #lgbt, Geekeries et autres
-  conneries. Un peu de moi en somme.'
-aboutPage: true
-markdown: redcarpet
-highlighter: pygments
-paginate: 20
-baseurl: "/"
-domain_name: http://clawfire.net
-google_analytics: UA-XXXXXXXX-X
-disqus: false
-disqus_shortname: your-disqus-shortname
-url: http://clawfire.net
-author: Clawfire
-authorTwitter: clawfire
-permalink: "/:year/:title/"
+# Site settings
+title: "Mediator"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Medium inspired
+
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+# blog cover
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+
+name: 'Dirk Fabisch'
+author: 'Dirk Fabisch'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@dirkfabisch'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/dirkfabisch
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
