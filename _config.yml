@@ -24,9 +24,11 @@ defaults:
     type: drafts
   values:
     layout: post
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: Your New Jekyll Site, Blogging about stuffs
+name: 'Billets d''humeur, #lgbt, Geekeries et autres conneries. Un peu de moi en somme.'
+description: 'Billets d''humeur, #lgbt, Geekeries et autres conneries. Un peu de moi
+  en somme.'
+meta_description: 'Clawfire''s Blog : Billets d''humeur, #lgbt, Geekeries et autres
+  conneries. Un peu de moi en somme.'
 aboutPage: true
 markdown: redcarpet
 highlighter: pygments
