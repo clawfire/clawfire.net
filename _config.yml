@@ -1,6 +1,6 @@
 ---
-title: Clawfire.Net
-timezone: UTC
+title: Clawfire's Blog
+timezone: Europe/Paris
 collections:
   posts:
     title: Posts
@@ -32,11 +32,11 @@ markdown: redcarpet
 highlighter: pygments
 paginate: 20
 baseurl: "/"
-domain_name: http://yourblog-domain.com
+domain_name: http://clawfire.net
 google_analytics: UA-XXXXXXXX-X
 disqus: false
 disqus_shortname: your-disqus-shortname
-url: http://your-blog-url.example.com
-author: Your Name
-authorTwitter: YourTwitterUsername
+url: http://clawfire.net
+author: Clawfire
+authorTwitter: clawfire
 permalink: "/:year/:title/"
