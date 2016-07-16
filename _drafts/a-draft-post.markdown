@@ -1,7 +1,7 @@
 ---
-title:  "A Draft Post"
+title: A Draft Post
+date: 2016-07-16 22:28:58.374000000 Z
 description: Work in progress
-## date: add a date when publishing
 ---
 
 Drafts are posts without a date. They’re posts you’re still working on and don’t want to publish yet. To get up and running with drafts, check the _drafts folder in the site’s root.
