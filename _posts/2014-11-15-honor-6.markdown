@@ -1,0 +1,40 @@
+---
+layout: post
+title: Honor 6
+date: '2014-11-15 23:04:37'
+tags:
+- android
+- huawei
+- smartphone
+- honor-6
+---
+
+L'iPhone 6 est sortit depuis un petit moment mais il me reste 1 an à tirer chez mon opérateur téléphonique avant de pouvoir changer de téléphone à tarif préférenciel. Et qu'on s'entende bien, je ne suis pas pret à mettre 900 € dans un smartphone ...
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/va89FxMYZ8/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Il frétille d&#39;impatience</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une vidéo publiée par Thibault (@clawfire) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-11-15T12:55:26+00:00">Nov. 11, 2014 at 4:55 PST</time></p></div></blockquote><script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+Du coup je me suis dis qu'il était temps de revendre mon Nexus 5. Il a un an et peu se revendre assez facilement à 250€ sur PriceMinister / Amazon ( peut être que je tenterais la mise en vente sur Amazon tiens ... ). Ca me fera une opération de renouvellement pour 50€ même si ça n'est pas un Nexus. J'ai donc commandé il y a un peu plus d'une semaine sur **Amazon** mon nouveau téléphone qui a été **perdu par Amazon** pendant la livraison ( Amazon est responsable de la sous-traitance de la livraison ). Au bout de quelques jours ils ont bien voulu reconnaitre qu'un colis qui ne bouge pas depuis 4 jours c'est louche & m'envoyer une commande de remplacement.
+
+Et ce matin je reçois les deux en même temps. Procédure de retour du coup ... j'avoue que **cette expérience avec Amazon m'as un peu gavée**, j'ai été **extrémement déçu** de leur service niveau livraison et ce n'est pas la première fois ... leur qualité de service décroit depuis plusieurs mois je trouve. Dommage. 
+
+Bref revenons à nos moutons, reception du petit bijou :
+<iframe src="https://www.flickr.com/photos/cyberaxe/15174381833/in/set-72157649244239246/player/" width="240" height="320" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+# Matériel
+
+Précision necessaire, le **[Honor 6](http://hihonor.com/honor6)** est contruit par **Huawei** , un constructeur chinois. Mais le Honor 6 est un smartphone **haut de gamme** avec une belle finition. Ca ne fait pas plastique du tout, la face avant & arrière sont en verre et le tour en plastique mais sans pour autant faire cheap. Bonus : Huawei fournit gratuitement des films protecteurs pour chaque face en verre, avec tout les emplacements qui sont bien découpés pour haut-parleur, caméras, capteurs, ...
+
+L'écran de 5 pouces permet d'afficher des images en 1080p mais peu également, pour économiser l'énergie, ne fonctionner qu'en 720p. On est sur les mêles caractéristiques que mon Nexus 5. La caméra permet une capture en 0.6s en 13 Mpx alors que la caméra frontale est à 6 Mpx. Avec, fonction indispensable, la possibilité de faire des panoramiques sur la caméra frontale. Des selfies panoramiques !  
+
+La batterie n'est que de 3100mAh MAIS la gestion logicielle des ressources est sencé permettre de tenir 2 jours sans recharger. Hate de tester cela. De ce que j'ai deja pu voir c'est saisissant comment le téléphone gère les ressources de manière plus complète.
+
+Sinon pour le reste on est à 3Gb de RAM, un proc custom à 1.3 GHz octa-core, 16Gb de stockage mais avec un slot microSD (ce qui est super rare de nos jours), tout cela pour 130g. Je me disais bien que je le trouvais léger. La prise en main est géniale en tout cas, on le sent mieux en main que le Nexus 5.
+
+# Interfaces
+Coté interface, à première vue j'ai été choqué. Je suis habitué sur mon Nexus 5 à une ROM stock, simple, clean, surtout depuis Lolipop. Et là je retourne sur Kitkat avec, OMG, des milliards de menus, outils, trucs, bidules. Une impression de fouilli dans lequel je ne retrourverais rien. Tout cela est du au fonctionnement différent de [Emotion UI](http://emui.com) en version 2.x ( la version 3.0 améliore grandement les interfaces, leur offrant un coup de jeune ).
+
+Par exemple j'ai pas mal d'apps un peu gadget : miroir, notes, lampes ... c'est dû à la culture asiatique et on est pas super habitué à cela. Mais c'est vrai qu'en activant un petit menu toujours présent façon "_bulles facebook_" c'est pas mal du tout.
+
+Et surtout, il n'y a pas d'__App Tray__. Comme sur un iPhone, toutes les icones se retrouvent sur votre bureau. Il faut les organiser (là encore c'est très bien fait pas comme sur Android stock) en dossier au besoin et faire plusieures pages de bureau. Avec des widgets si on veut. Du coup je me suis rendu compte que y a pas mal d'apps un peu merdique que j'utilise une fois tout les deux mois et dont j'aimerais bien oublier l'existence le reste du temps :p.
+
+Reste plus qu'a télécharger Emotion UI 3.0, mais à 30ko/s ... les serveurs en chine oblige ...
