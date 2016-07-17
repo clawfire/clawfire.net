@@ -21,7 +21,7 @@ author: Thibault Milan
 author_image: "/assets/images/author.jpg"
 paginate: 5
 url: http://clawfire.net
-baseurl: ''
+baseurl: 
 twitter_handle: "@clawfire"
 social:
 - icon: twitter
