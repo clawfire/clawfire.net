@@ -1,6 +1,6 @@
 ---
 title: Clawfire's Blog
-timezone: UTC
+timezone: Europe/Brussels
 collections:
   posts:
     title: Posts
@@ -11,11 +11,10 @@ collections:
 gems:
 - jemoji
 - jekyll-paginate
-description: |
-  A Jekyll theme - Medium inspired
+description: Billets d'humeurs, LGBT, geek, ... un peu de moi en somme.
 email: clawfire@gmail.com
-logo: "/assets/images/df_logo.jpg"
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+logo_image: "/assets/images/df_logo.jpg"
+cover_image: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 name: Thibault Milan
 author: Thibault Milan
 author_image: "/assets/images/author.jpg"
