@@ -137,4 +137,8 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
+  gemoji
   github-pages
+
+BUNDLED WITH
+   1.12.5

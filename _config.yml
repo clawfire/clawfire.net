@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 gems:
-- jemoji
+- gemoji
 - jekyll-paginate
 description: Billets d'humeurs, LGBT, geek, ... un peu de moi en somme.
 email: clawfire@gmail.com
@@ -20,7 +20,7 @@ author: Thibault Milan
 author_image: "/assets/images/author.jpg"
 paginate: 5
 url: http://clawfire.net
-baseurl: 
+baseurl:
 twitter_handle: "@clawfire"
 social:
 - icon: twitter
@@ -32,6 +32,6 @@ social:
 - icon: github
   url: https://github.com/clawfire
   desc: Fork me on github
-  share_url: 
-  share_title: 
-  share_link: 
+  share_url:
+  share_title:
+  share_link:
