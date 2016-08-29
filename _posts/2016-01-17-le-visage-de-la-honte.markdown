@@ -4,7 +4,6 @@ title: Le visage de la honte
 date: '2016-01-17 21:38:40'
 tags:
 - politique
-- something else
 ---
 
 **Avant propos**  
