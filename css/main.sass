@@ -10,8 +10,8 @@
 
 $rs: 16px
 
-$font-serif: Linux Libertine
-$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-cursive: 'Sacramento', cursive
+$font-sans: 'Josefin Slab', serif
 
 
 @mixin respond-to($breakpoint)
@@ -146,6 +146,7 @@ body
       font-style: normal
       display: block
       font-size: 28px
+      font-family: $font-cursive
       line-height: 1.1
       margin: 0 0
       a
@@ -359,10 +360,10 @@ body
       text-overflow: ellipsis
   .post-content
     width: 100%
-    font-family: $font-serif
+    font-family: $font-sans
     color: #333
     h1, h2, h3
-      font-family: $font-sans
+      font-family: $font-cursive
     h3, h4, h5, h6
       letter-spacing: -0.02em
       font-weight: 700
@@ -370,7 +371,7 @@ body
       font-size: 24px
       line-height: 1.3
       margin: 0
-      font-family: $font-sans
+      font-family: $font-cursive
       margin-bottom: 4px
     h2, h1
       letter-spacing: -0.02em
