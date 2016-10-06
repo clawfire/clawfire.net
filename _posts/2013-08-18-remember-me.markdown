@@ -27,6 +27,7 @@ Dernier jeu acquis par mon futur mari, Remember me est très prometteur sur la p
 * Le thème : le remix de la mémoire humaine, l'implantation de souvenir, le commerce de ses souvenirs ... J'y vois une belle anticipation des technologies de l'information toujours plus intrusives aujourd'hui.
 
 ## J'ai aimé
+
 L'histoire est bonne. Le concept de l'héroïne qui perds la mémoire ( dans le futur on te retire tes souvenirs pour que ta peine de prison soit bien mauvaise. N'espère pas t'évader grâce à ton esprit, tu ne sais même plus ce que c'est l'extérieur ) et qui cherche à la retrouver. Qui s'évade de prison et qui à la haine contre ceux qui l'ont jetée là et qui va leur faire morfler leur race ... La vengeance c'est toujours un bon motif pour castagner du péon.
 
 En parlant de combat, on en viens à l'expérience tout autour de cette activité. Autre concept novateur : tu débloque des séquences de combos mais tu mais ce que tu veux dedans : Tabasser , régénérer ta vie, ton esprit ( mana ), ... Et tout ceci modifiable à n'importe quel moment du jeu. Parfait pour adapter ses tactiques à chaque boss que tu dois affronter.
@@ -62,6 +63,7 @@ En plus tu aurais pus faire un truc méga malsain et inter-espèce avec le "frè
 La durée de vie du jeu. Même si on a des trucs à collectionner pour débloquer des pouvoirs ou autre, tu es tellement bloqué dans ta progression dans le jeu que tu ne peux presque jamais revenir sur tes pas et tout explorer. Il faut faire les choses bien du premier coup ou ne pas les faire. Donc tu fini le jeu en 1 sem ( 12 / 15h). Mais bon la fin du jeu rattrape pas mal avec de décors à couper le souffle et un cheminement de dénouement en dénouement qui est vraiment top :)
 
 ##Bonus
+
 Le studio avait organisé un<a href="http://www.remembermeremix.com" target="_blank"> concours de remix d'un des titres de la B.O</a> et vous pouvez trouver toutes les participations, les deux grands gagnants et télécharger le tout gratuitement.
 
 <a href="https://plus.google.com/+remembermegame/posts" target="_blank">Page Google+</a> avec des tonnes d'artwork
