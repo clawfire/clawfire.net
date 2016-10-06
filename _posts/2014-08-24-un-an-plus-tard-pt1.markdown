@@ -11,7 +11,7 @@ tags:
 ---
 
 Le [Grand Est Numérique](http://grandestnumerique.org) lance la [seconde édition](http://grandestnumerique.org/gen2) de son rendez-vous annuel consacré au numérique dans la Grande région autour de tables rondes & conférences d'acteurs locaux. Réussissant le pari de réunir ses derniers autour des journalistes et des politiques, mais aussi d'experts & d'entrepreneurs d'une plus grande portée, d'un plu grand rayonnement.
-![#GEN2](/content/images/2014/Aug/10355763_258656840993333_8282077741968580059_n.jpg)
+![#GEN2](/assets/article_images/2014/Aug/10355763_258656840993333_8282077741968580059_n.jpg)
 
 Cela fait donc un an que je n'ai pas écris. Pour diverses raisons tant personelles que technico-geek. Je ne m'attarderais pas trop sur les raisons personelles, du moins pas pour le moment.
 

@@ -9,7 +9,7 @@ tags:
 
 Le quoi ? [L'éthifrice][éthifrice]. C'est un dentifrice solide, en pastille, commercialisé par [Lush][lush]. 
 
-![](/content/images/2014/09/BREATHOFGOD-500x500.jpg)
+![](/assets/article_images/2014/09/BREATHOFGOD-500x500.jpg)
 
 ## C'est quoi ?
 Penchons nous un instant sur la définition du produit sur le site de la marque :
