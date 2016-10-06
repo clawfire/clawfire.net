@@ -62,7 +62,7 @@ En plus tu aurais pus faire un truc méga malsain et inter-espèce avec le "frè
 
 La durée de vie du jeu. Même si on a des trucs à collectionner pour débloquer des pouvoirs ou autre, tu es tellement bloqué dans ta progression dans le jeu que tu ne peux presque jamais revenir sur tes pas et tout explorer. Il faut faire les choses bien du premier coup ou ne pas les faire. Donc tu fini le jeu en 1 sem ( 12 / 15h). Mais bon la fin du jeu rattrape pas mal avec de décors à couper le souffle et un cheminement de dénouement en dénouement qui est vraiment top :)
 
-##Bonus
+## Bonus
 
 Le studio avait organisé un<a href="http://www.remembermeremix.com" target="_blank"> concours de remix d'un des titres de la B.O</a> et vous pouvez trouver toutes les participations, les deux grands gagnants et télécharger le tout gratuitement.
 
