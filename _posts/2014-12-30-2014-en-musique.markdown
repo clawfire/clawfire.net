@@ -4,13 +4,12 @@ title: 2014 en Musique
 date: '2014-12-30 22:50:53'
 tags:
 - music
+image: /assets/article_images/2014/12/794a5072cb3d66d7a29ccdef65bf90bc.png
 ---
-
-![](/assets/article_images/2014/12/794a5072cb3d66d7a29ccdef65bf90bc.png)
 Spotify a lancé ~~cette semaine~~ y a quelques semaines [une page dédiée à 2014](https://www.spotify-yearinmusic.com) en musique et offre la possibilité de composer votre année 2014 en musique. Ni une ni deux je saute sur l'occasion et voila les résultats.
 
 ## Le top
-  
+
 ### Type de musique
 - 36% de Pop
 - 25% de Dance Pop
