@@ -16,6 +16,11 @@ $Padua : #7bbc9b
 $Moss-Green : #a9daaa
 $Reef : #d0efa2
 
+$bc-twitter: #1da1f2
+$bc-github: #333
+$bc-facebook: #3b5998
+$bc-lastfm: #d51007
+
 $font-cursive: 'Sacramento', cursive
 $font-sans: 'Josefin Slab', serif
 
@@ -131,8 +136,15 @@ body
     a
       text-decoration: none
       color: #999
+      transition: all ease-in-out 0.5s
       &:hover
         color: #333
+      &.icon-twitter:hover
+        color: $bc-twitter
+      &.icon-github:hover
+        color: $bc-github
+      &.icon-lastfm:hover
+        color: $bc-lastfm
 
 .content
   width: 100%

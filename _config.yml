@@ -35,3 +35,9 @@ social:
   share_url:
   share_title:
   share_link:
+- icon: "lastfm"
+  url: "http://www.last.fm/user/clawfire"
+  desc: "What you see is what I listen"
+  share_url:
+  share_title:
+  share_link:
