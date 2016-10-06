@@ -20,9 +20,12 @@ $bc-twitter: #1da1f2
 $bc-github: #333
 $bc-facebook: #3b5998
 $bc-lastfm: #d51007
+$bc-rss: #f26522
 
 $font-cursive: 'Sacramento', cursive
 $font-sans: 'Josefin Slab', serif
+
+$transition-config : all ease-in-out 0.5s
 
 
 @mixin respond-to($breakpoint)
@@ -136,7 +139,7 @@ body
     a
       text-decoration: none
       color: #999
-      transition: all ease-in-out 0.5s
+      transition: $transition-config
       &:hover
         color: #333
       &.icon-twitter:hover
@@ -248,6 +251,9 @@ body
   a
     color: #666
     text-decoration: none
+    transition: $transition-config
+    &.subscribe
+      color: $bc-rss !important
     &:hover
       color: #333
 .post
@@ -414,7 +420,7 @@ body
       color: $Paradiso
       border-bottom: 1px solid $Paradiso
       text-decoration: none
-      transition: all ease-in-out 0.5s
+      transition: $transition-config
       &:hover
         background-color: $Paradiso
         color: white
@@ -553,6 +559,9 @@ body
     text-decoration: none
     color: #bbb
     padding-left: 12px
+    transition: $transition-config
+    &.icon-twitter:hover
+      color: $bc-twitter
     .hidden
       display: none
     &:hover
