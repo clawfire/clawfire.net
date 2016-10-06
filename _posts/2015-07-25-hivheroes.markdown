@@ -27,7 +27,7 @@ Avec l'édition [#HIVHeros](http://www.hivheroes.org/), Vangardist a fait le cho
 
 3000 tirages emballés dans des packagins scellés. Il faudra au lecteur ouvrir l'emballage hermétique et retirer un numéro imprimé à l'encre rouge. Se confronter à ses apprioris. Ses peurs. Ses doutes. Ses idées préconçues.
 
-![](/assets/article_images/2015/07/Press_6-1--C--Julian-Behrenbeck-1.jpg)
+![](/assets/article_images/2015/07/Press_6-1--C--Julian-Behrenbeck.jpg)
 
 Le sang des donneur a été infusé, mélangé avec l'encre celon un procédé mis au point par Harvard & l'université de Innsbruck garantissant que les exemplaires sont complétement sans risque de transmission du virus.
 
