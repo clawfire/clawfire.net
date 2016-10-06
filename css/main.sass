@@ -10,11 +10,11 @@
 
 $rs: 16px
 
-$Midnight-Blue : rgba(0.062745, 0.286275, 0.415686, 1.000000)
-$Paradiso : rgba(0.243137, 0.525490, 0.521569, 1.000000)
-$Padua : rgba(0.482353, 0.737255, 0.607843, 1.000000)
-$Moss-Green : rgba(0.662745, 0.854902, 0.666667, 1.000000)
-$Reef : rgba(0.815686, 0.937255, 0.635294, 1.000000)
+$Midnight-Blue : #10496a
+$Paradiso : #3e8685
+$Padua : #7bbc9b
+$Moss-Green : #a9daaa
+$Reef : #d0efa2
 
 $font-cursive: 'Sacramento', cursive
 $font-sans: 'Josefin Slab', serif
@@ -157,7 +157,7 @@ body
       margin: 0 0
       a
         text-decoration: none
-        color: $Paradiso
+        color: $Midnight-Blue
         &:hover
           text-decoration: none
     .post-excerpt
@@ -339,7 +339,7 @@ body
       letter-spacing: -0.04em
       font-size: 50px
       line-height: 1.1
-      color: $Paradiso
+      color: $Midnight-Blue
       margin-bottom: 16px
     .author-image
       display: inline-block
@@ -399,8 +399,13 @@ body
       -moz-hyphens: auto
       hyphens: auto
     a
-      color: #333
-      text-decoration: underline
+      color: $Paradiso
+      border-bottom: 1px solid $Paradiso
+      text-decoration: none
+      transition: all ease-in-out 0.5s
+      &:hover
+        background-color: $Paradiso
+        color: white
     img
       max-width: 100%
       margin: 0 auto
