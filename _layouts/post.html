@@ -68,23 +68,26 @@
         </footer>
         <div class="bottom-teaser cf">
           <div class="isLeft">
-            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <h5 class="index-headline featured"><span>Ecrit par</span></h5>
             <section class="author">
               <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
               <h4>{{ site.author }}</h4>
               <p class="bio">{{author.bio}}</p>
               <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+              <p class="published">Publié le <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
             </section>
           </div>
           <div class="isRight">
-            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <h5 class="index-headline featured"><span>Blablabla</span></h5>
             <footer class="site-footer">
-              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
               <div class="inner">
-                <section class="copyright">All content copyright <a href="{{ site.url }}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+                <section class="copyright">
+                  <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Clawfire's Blog</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="{{ site.url }}" property="cc:attributionName" rel="cc:attributionURL">{{site.author}}</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.<br />Fondé(e) sur une oeuvre disponible sur <a xmlns:dct="http://purl.org/dc/terms/" href="{{ site.url }}" rel="dct:source">{{ site.url }}</a>.
+                </section>
               </div>
+              <hr>
+              <section class="poweredby">Publié avec 🦄 &amp; <a href="http://jekyllrb.com"> Jekyll</a></section>
+              <a class="subscribe" href='{{ "/feed.xml" | prepend: site.baseurl }}'> <span class="tooltip"> <i class="fa fa-rss"></i> Vous devriez vous abonner à mon flux.</span></a>
             </footer>
           </div>
         </div>
