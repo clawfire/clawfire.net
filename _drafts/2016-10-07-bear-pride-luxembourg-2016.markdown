@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bear Pride Luxembourg 2016"
+title: "Bear Pride Luxembourg 2016 - La Genèse"
 date: "2016-10-07 15:16:30 +0200"
 tags:
   - bears
@@ -8,6 +8,8 @@ tags:
   - Pride
   - Mr Bear
 ---
+
+**📡INFORMATION** Initialement ce post était unique mais je me suis vite rendu compte qu'il prenait énormément de place et que cela aller être un peu indigeste pour certains lecteurs, je l'ai donc scindé en plusieurs.
 
 Faisant suite à mon élection en tant que [Mr Bear Luxembourg 2016][Mr Bear 2016 FB] en juillet dernier, et après m'être lancé dans l'organisation de soirées **Woof : the men-only , bears & Fetish Party** avec mon husbear, on a trouvé logique de continuer sur notre lancé et de proposer quelquechose de plus.
 
@@ -21,7 +23,10 @@ Bon c'était un bon début, mais comment lier cela ? Car juste proposer des soir
 
 On avait les soirées, une activité en journée ... bon ok mais quoi ? On va juste balancer cela comme ça ? L'idée nous est donc venu de voir un peu plus grand et d'ajouter la partie découverte de Luxembourg avec ses bars & de son patrimoine (visite guidée de Luxembourg, Apéros & Brunch dans des bars locaux, gay-friendly ou gay, ... ). Ca commençait méchamment à ressembler à ce qu'on connais ailleurs, en plus petit certes, mais à l'échelle de notre équipe de deux personnes et de notre pays, surtout pour une première.
 
-On a donc 
+C'est comme ça qu'on a donc renommé le Bear week-end en [Bear Pride Luxembourg][Bear Pride Luxembourg] ! Forcément, organiser une Bear Pride lorsqu'on est pas nous même une association LGBT, c'est un peu crier à la face du monde "on existe, et on puisque vous ne vous interessez pas à nous, on fera sans vous !". Alors ça n'as pas plus à tout le monde évidemment. Certain on vu à cela une volontée de concurencer la gaypride (oui oui, carrément), d'autres une volontée de mettre à l'écart des gens qui, lorsqu'on a souhaité les inclures dans le projets, n'ont simplement rien fait. 0. Nada. Un peu comme notre main tendu à **Rosa Luxembourg** pour qu'il parlent un peu de notre évènement dans leur newsletter. On attends toujours. Même en prémachant le boulot de fournir textes et images dans différentes dimensions et langues.
 
-[Mr Bear 2016 FB]:https://www.facebook.com/mr.bear.luxembourg/
-[Sauna #1]:http://
+Il ne nous restait plus qu'a nous lancer dans la communication à partir de cela :) 
+
+[Mr Bear 2016 FB]: https://www.facebook.com/mr.bear.luxembourg/
+[Sauna #1]: http://
+[Bear Pride Luxembourg]:
