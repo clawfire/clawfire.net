@@ -37,7 +37,7 @@ Merci Facebook pour ta censure aveugle et stupide, automatisée sans aucun recul
 
 [alex]: https://www.instagram.com/alexmartexxx/
 
-[photo]: https://www.dropbox.com/s/owu4iz0jep0ocsd/Facebook%20Ad.png?dl=0
+[photo]: https://www.dropbox.com/s/mwcrmh5vobdu8zi/DSC_9286.jpg?dl=0
 
 [bearpride]: http://bears.lu/post/148895481048/fierte-ours-luxembourg-2016
 
