@@ -2,6 +2,9 @@
 layout: post
 title: What's next ?
 date: '2017-09-06 18:57:07 +0200'
+tags:
+  - me
+  - couple
 ---
 
 C'est fait. Je me suis coupé du monde ou presque. Il me reste les SMS et le téléphone. Mais c'est tout. Je suis toujours en Espagne jusqu'au 17, mais je ressens le besoin irréfragable d'être seul, de partir, d'être loin de tout et de tout le monde. J'ai besoin d'être seul. Il me faudrait sans doute une retraite dans un monastère. Je sais que Pierroblog l'a déjà fait... peut-être que cela m'aiderait.
