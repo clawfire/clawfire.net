@@ -1,0 +1,50 @@
+---
+layout: post
+title: Kamoulox
+date: '2017-11-21 20:04:28 +0100'
+---
+
+Je clone un lave-vaisselle et je détourne un hamster américain. Si vous n'êtes pas familier du Kamoulox, sachez que c'est un [pseudo jeu télévisuel francais](https://fr.wikipedia.org/wiki/Kamoulox) diffusé sur Canal+ bien que d'abord créé pour la radio par Kad & Olivier, deux comiques francophones. Et bien que ce jeu ne soit que pretexte à faire des sketchs, dont les répliques ne sont jamais préparés à l'avance.
+
+# Je déballe une bibliothèque explosive et je déneige un allemand.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/44bud9HhDW0" frameborder="0" allowfullscreen="">
+</iframe>
+
+# Je roule sur Eddy Mitchell et j'hypnotise une brebis.
+
+Ce jeu complétement loufoque et son interjection "Kamoulox !" sont passés dans la culture populaire, à tel point que des fédérations de Kamoulox ont vu le jour un peu partout en France, que des sites internets avec des générateurs de phrases lui soient consacrés. Et c'est l'un d'entre eux dont je voulais vous partager l'éxistence aujourd'hui.
+
+[KML Project](http://kmlproject.com/)
+
+# Je ramasse une pantoufle et j'aplatis une autruche.
+
+Le site, ne se contente pas que de proposer un générateur de phrase des plus poussé que j'ai vu (avec usage de dictionnaire et tout et tout) mais il va plus loin en proposant :
+
+- [Un Kamouscope](http://kmlproject.com/kamouscope), horoscope loufoque, où les signes astrologiques sont revus et corrigé, qui vous donne une prédiction journalière de ce qui va vous arriver et vous donne un indicateur concernant votre travail, santé et amour sur des échelles comme les perceuses-visseuses, les fourchettes, les lapins, les tracteurs, ...
+- [Un Kamouscuse](http://kmlproject.com/kamouscuse) générateur d'excuse improbable
+- [Kamousulte](http://kmlproject.com/kamousulte), un générateur d'insulte qui va sans doute plus déstabilisé votre ennemi que l'outrer
+- [Kamouculum vitae](http://kmlproject.com/kamouculum), un générateur de CV pour réussir à coup sur dans la vie
+- [Kamounon](http://kmlproject.com/kamounom), un générateur de nom parfait pour vos personnas en UX/UI
+- [Kamougroupe](http://kmlproject.com/kamougroupe), un générateur de groupe de musique, que je couplerais bien avec l'API de [unsplash](http://unsplash.com) pour générer des pochettes automagiquement
+- [Kamouvrai](http://kmlproject.com/kamouvrai), genre de générateur de thème pour l'émission _C'est mon choix_ ou _Ca va se savoir_
+- [Kamounoel](http://kmlproject.com/kamounoel), un générateur de liste au père Noël
+- et enfin [Kamoutaclic](http://kmlproject.com/kamoutaclic), un générateur de titre putaclic pour tout wanabee journaliste d'investigation
+
+A noter qu'en plus de tout ses services, [une application Android](https://play.google.com/store/apps/details?id=kmlproject.kml) (moche, mais bon c'est une application Android hein ... C'est dans le nom) existe ainsi que ... surprise ! Des outils ligne de commande (CLI) ! Si ça vous interesse de mater le disctionnaire, comprendre comment les phrases sont générées ou que vous voyez déjà les possibilités de scripting, [clonez, forkez, réutilisez](https://github.com/Lex2xS/kml-c)
+
+# Je rends visite à un rateau et je séquestre une louche.
+
+Bonus pour les utilisateurs OSX, voici comment faire pour installer l'utilitaire en ligne de commande :
+
+1. Téléchargez les sources et naviguez vers le répertoire dans un terminal
+2. Si ce n'est pas déjà fait, installez les extensions développeurs `xcode-select --install`
+3. Lancez la commande suivante
+
+  ```
+  gcc -I./includes/ `xml2-config --cflags` -W -Wall -Werror -Wstrict-prototypes -pedantic -o kamoulox srcs/kml.o srcs/init.o srcs/xml.o srcs/end.o srcs/kamoulox.o srcs/error.o srcs/utils.o `xml2-config --libs`
+  ```
+
+Ce qu'on a fait ici c'est qu'on a viré de la commande originale contenue dans le `./install` la partie `- ainsi` pas supportée sur osx .
+
+Voila vous pouvez lancer un `./kamoulox` et toutes les autres commandes indiquées.
