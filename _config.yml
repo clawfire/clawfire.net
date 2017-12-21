@@ -22,7 +22,7 @@ paginate: 5
 url: "http://clawfire.net"
 baseurl:
 twitter_handle: "@clawfire"
-flatter_id: "8dx10l"
+flattr_id: "8dx10l"
 social:
 - icon: "twitter"
   url: "https://twitter.com/clawfire"
