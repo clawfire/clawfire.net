@@ -2,6 +2,10 @@
 layout: post
 title: Visite de Warsaw
 date: '2017-12-16 00:06:21 +0100'
+tags:
+  - voyage
+  - boulot
+  - découverte
 ---
 
 Cette semaine, j'étais à [Varsovie](https://fr.wikipedia.org/wiki/Varsovie) (que l'on nomme Warsaw en Anglais, ou encore Warszawa en Polonais) pour le boulot, plus précisément pour célébrer ma promotion en tant que manager, mais aussi, et surtout me donner les clés pour réussir dans ce nouveau rôle. Loin des bourrages de cranes et autres lavages de cerveaux qu'on aurait pus avoir, cette formation payée par l'entité globale de mon employeur a été l'occasion d'apprendre à mieux me connaître, à apprendre pas mal de frameworks de management (mais rien de trop rigide non plus, plutôt des trucs & astuces pour gérer des meetings clients de différents types, ou avoir une meilleure relation avec mon équipe en communiquant mieux ...).

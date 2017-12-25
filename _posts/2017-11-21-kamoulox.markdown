@@ -2,6 +2,10 @@
 layout: post
 title: Kamoulox
 date: '2017-11-21 20:04:28 +0100'
+tags:
+  - nerd
+  - geek
+  - fun
 ---
 
 Je clone un lave-vaisselle et je détourne un hamster américain. Si vous n'êtes pas familier du Kamoulox, sachez que c'est un [pseudo jeu télévisuel francais](https://fr.wikipedia.org/wiki/Kamoulox) diffusé sur Canal+ bien que d'abord créé pour la radio par Kad & Olivier, deux comiques francophones. Et bien que ce jeu ne soit que pretexte à faire des sketchs, dont les répliques ne sont jamais préparés à l'avance.
