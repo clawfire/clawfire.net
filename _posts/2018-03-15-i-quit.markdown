@@ -1,0 +1,20 @@
+---
+layout: post
+title: I quit
+date: '2018-03-15 16:55:34 +0100'
+tags:
+  - boulot
+image: https://unsplash.com/photos/gzhyKEo_cbU/download
+---
+
+J'ai franchi le cap. J'ai sauté dans le précipice. J'ai fermé les yeux et fait un pas en avant. Bref. J'ai démissionné.
+
+Et ca m'as fait le plus grand bien. Même si j'ai du faire une scéance de méditation juste avant de l'annoncer à mon nouveau boss qui m'as sortit de mon département qui part totalement en sucette, j'ai démissionné. Et ca valait le coup. Fini le pas qui traine, fini le coeur lourd pour aller au boulot le matin.
+
+Mais attention, je suis pas devenu un branleur pour autant. Je suis loyal et intègre professionellement. Du coup je pousse pour que les projets en cours sortent avant mon départ, j'ai même pondu plus de 170 pages de documentation avec capture d'écran et vidéos :D Je viens tout les jours, je ne part pas à 16h en arrivant à 10h, ... loin de moi ces clichés. Mon mec m'avais dit de prendre mon pré-avis en maladie. Pour burning out. Ce que j'aurais pus allégrement faire en fait. Mais non, je ne suis pas de cette trempe. Principalement parceque j'aime ce que je fais pour gagner ma vie. C'est pas un job alimentaire (et je mesure la chance que j'ai), alors je me défonce.
+
+Encore une semaine et demie de préavis, demain je vais passer toute la journée à faire de l'installation / déploiement de l'application. Pour cela j'ai du réquisitionner 1 ou 2 mecs dans chacun des 4 services qui doivent causer ensemble pour que mon projet avance mais qui sont ... orienté problème d'ordinaire. J'ai l'arogance de croire que j'ai une facon pragmatique d'aborder les projets qui fait que on avance. Même si cela peut parfois être au détriment des procédures (enfin beaucoup moins que mon collègue qui m'épaule sur ce projet ^^).
+
+Je vais donc rejoindre [SMILE](https://smile.eu) qui est un fournisseur de service (et de éditeurs de solutions) open-source basé en France principalement mais avec des entités un peu partout en Europe. Je les rejoins en tant que Innovation Evangelist pour la direction Innovation du groupe. Je serais en charge du [Product Design](https://en.wikipedia.org/wiki/Product_design) / [Design Thinking](https://fr.wikipedia.org/wiki/Design_thinking), de la veille technologique, d'identifier les tendances et technologies porteuses, de produire du contenu en rapport avec cela et de gérer en partie l'image de la direction Innovation.
+
+Cerise sur le gateau, le leaser de KPMG veut bien que je transfert le contrat au même prix ;)
