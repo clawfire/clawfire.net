@@ -1,0 +1,21 @@
+backend:
+  name:        git-gateway
+  branch:      master # Branch to update (optional; defaults to master)
+
+media_folder:  "assets/article_images" # Media files will be stored in the repo under images/uploads
+
+collections:
+  - label:     "Blog"
+    name:      "blog"
+    folder:    "_posts"
+    extension: "markdown"
+    slug:      "{{year}}-{{month}}-{{day}}-{{title}}"
+    summary:   "{{year}}/{{month}}/{{day}} {{title}}"
+    create:    true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime",default: "now"}
+      - {label: "Featured Image", name: "image", widget: "image", required:false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", default: ["news"], required: false }
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
