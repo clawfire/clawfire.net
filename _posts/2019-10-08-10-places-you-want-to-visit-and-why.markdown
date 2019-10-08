@@ -5,8 +5,6 @@ tags:
   - Edison10
 layout: post
 ---
-10 places you want to visit and why 
-
 1. Grand Canyon : because of the magnificent of the place, the glass ring, the view ...
 2. Venise : Even if I went for one day, I want to have more time to enjoy the city and also have like my hotel in the city 😁 
 3. Copenhagen : Because northern countries rules. Also, the Scandinavian design and lifestyle
