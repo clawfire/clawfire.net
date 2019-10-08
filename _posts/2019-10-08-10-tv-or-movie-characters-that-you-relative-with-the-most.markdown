@@ -1,6 +1,7 @@
 ---
 title: 10 TV or movie characters that you relative with the most
 date: 2019-07-22T22:00:00.000Z
+image: /assets/article_images/image-jpeg-28d72911a344-1.jpeg
 tags:
   - Edison10
 layout: post
