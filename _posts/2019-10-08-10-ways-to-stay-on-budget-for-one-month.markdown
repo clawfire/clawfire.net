@@ -3,7 +3,7 @@ title: 10 ways to stay on budget for one month
 date: 2019-07-24T22:00:00.000Z
 image: /assets/article_images/image-jpeg-d59b277fcde3-1.jpeg
 tags:
-  - news
+  - Edison10
 layout: post
 ---
 1. Cuisiner des repas soit même le soir, pour les repas du soir ET du midi. Suffit d’amener sa gamelle au bureau
