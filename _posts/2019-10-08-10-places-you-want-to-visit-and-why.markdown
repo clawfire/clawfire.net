@@ -1,6 +1,7 @@
 ---
 title: '10 places you want to visit and why '
 date: 2019-07-21T22:00:00.000Z
+image: /assets/article_images/image-jpeg-880e1f53dde7-1.jpeg
 tags:
   - Edison10
 layout: post
