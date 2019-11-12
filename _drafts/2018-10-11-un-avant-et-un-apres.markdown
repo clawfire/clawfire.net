@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Un avant et un après"
-date: "2018-10-11 23:37:48 +0200"
+title: Un avant et un après
+date: '2018-10-11 23:37:48 +0200'
+published: true
 ---
 
 > "Il y aura un avant et un après"
@@ -47,7 +48,8 @@ Sauf que des avant et des après, on en a déjà eu tant, que j'en ai perdu le c
 
 Alors oui, sans doute que pour toi, il y aura un avant et un après ce jour où j'ai été passer un weekend à Bruxelles avec des amis et que tu ne pouvais pas venir à cause du boulot et de ton obligation électorale. Mais je ne pense pas que tu ne puisse ne serais ce que éfleurer du bout des doigts la multitude des avants et des après que j'ai traversé.
 
-Cela fait 1 an maintenant qu'on est plus ensemble. On vis ensemble.Mais on n'est plus ensemble. On ne fait plus de projets. Je ne fais plus de projets. 2 mois c'est le bout du monde pour moi. Impossible de me projeter. Ce n'est pas un hasard si ca fait un an qu'on a pas couché ensemble. On s'est séparé. Et on a continué a juste trainer ensemble. Comme si de rien n'étais.
+Cela fait 1 an maintenant qu'on est plus ensemble. On vis ensemble. Mais on n'est plus ensemble. On ne fait plus de projets. Je ne fais plus de projets. 2 mois c'est le bout du monde pour moi. Impossible de me projeter. Ce n'est pas un hasard si ca fait un an qu'on a pas couché ensemble. On s'est séparé. Et on a continué a juste trainer ensemble. Comme si de rien n'étais.
 
 Maintenant on est deux personnes qui partageons un appartement. Des meubles. Des aménagements d'intérieur.
+
 Moi à l'intérieur je me sens mort. J'ai l'impression que tu me vois comme un mec qui te dégoute. Comme une grosse salope à jus. Comme un détraqué sexuel qui te coupe toute envie dès que l'idée de coucher avec t'éffleure l'esprit. Je ne peux plus vivre en ressentant cela à propos de moi, tout les jours. J'en arrive à me dégouter moi même. Me dire qu'après tout t'as ptet raison. Peut être que j'ai mérité tout cela. Personne ne devrais avoir à se sentir comme ça. A intérioriser ça.
