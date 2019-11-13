@@ -47,34 +47,34 @@ talkyard_server_url:  https://comments-for-clawfire-net.talkyard.net
 talkyard_script_url:  https://c1.ty-cdn.net/-/talkyard-comments.min.js
 
 prose:
-	siteurl: "https://clawfire.net"
-    media: /assets/images/article_images
-    metadata:
-    	_posts:
-        - name: "title"
-          field:
-          	element: "text"
-            label: "Blog post title"
-            placeholder: "My awesome title"
-            type: "text"
-        - name: "date"
-          field: 
-          	element: "text"
-            label: "Date"
-            type: "datetime-local"
-            value: CURRENT_DATETIME
-        - name: "tags"
-          field:
-          	element: "multiselect"
-            label: "Add Tag(s)"
-            placeholder: "Choose tag(s)"
-            alterable: true
-        - name: "layout"
-          field:
-          	element: "hidden"
-            value: "post"
-       - name: "image"
-         field:
-         	element: "text"
-            label: "Put here the URL of your picture"
-            placeholder: "/assets/article_images/whatever.png"
+  siteurl: "https://clawfire.net"
+  media: /assets/images/article_images
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Blog post title"
+          placeholder: "My awesome title"
+          type: "text"
+      - name: "date"
+        field: 
+          element: "text"
+          label: "Date"
+          type: "datetime-local"
+          value: CURRENT_DATETIME
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tag(s)"
+          placeholder: "Choose tag(s)"
+          alterable: true
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Put here the URL of your picture"
+          placeholder: "/assets/article_images/whatever.png"
