@@ -48,6 +48,7 @@ talkyard_script_url:  https://c1.ty-cdn.net/-/talkyard-comments.min.js
 
 prose:
   siteurl: "https://clawfire.net"
+  rooturl: "_posts"
   media: /assets/images/article_images
   metadata:
     _posts:
