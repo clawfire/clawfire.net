@@ -9,7 +9,7 @@ tags:
 - nicolas-cage
 ---
 
-<p><img src="http://farm4.static.flickr.com/3093/3162604842_0587c590db.jpg" alt="IMG_0512 de joelogon, sur Flickr" />
+<p><img src="https://farm4.static.flickr.com/3093/3162604842_0587c590db.jpg" alt="IMG_0512 de joelogon, sur Flickr" />
 Hier soir, je voulais me détendre un peu et comme on fait maintenant chambre à part, je me suis dis que me poser devant une vidéo sur mon 27'', alors que j'ai tout viré de la TimeCapsule pour les mettre sur l'HDD de la bécane, c'est juste une bonne idée non ? Sélection rapide, je voulais un truc léger à voir.</p>
 
 Oh un Nicolas Cage, chouette ! Ah oui mais non pas de bol. Lord of War ça fait partit des film où cet acteur ne campais pas des rôles à la con et où le scénario du film n'avais pas été pompé par un pré-ado boutonneux en mal de gros nichons , où de binoclard shooté aux anxiolytiques qui voient des conspirations partout.
