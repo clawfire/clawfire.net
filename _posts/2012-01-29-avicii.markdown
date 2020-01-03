@@ -32,7 +32,7 @@ Les deux sont dispo sur iTune
 <p style="text-align: justify;">ou sur Amazon MP3</p>
 
 <ul>
-	<li><a href="http://www.amazon.fr/gp/product/B005CKUIK0/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005CKUIK0">Fade Into Darkness (Radio Vocal Mix)</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005CKUIK0" alt="" width="1" height="1" border="0" /></li>
-	<li><a href="http://www.amazon.fr/gp/product/B005ZV8ZDI/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005ZV8ZDI">Levels</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005ZV8ZDI" alt="" width="1" height="1" border="0" /></li>
+	<li><a href="http://www.amazon.fr/gp/product/B005CKUIK0/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005CKUIK0">Fade Into Darkness (Radio Vocal Mix)</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005CKUIK0" alt="" width="1" height="1" border="0" /></li>
+	<li><a href="http://www.amazon.fr/gp/product/B005ZV8ZDI/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005ZV8ZDI">Levels</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005ZV8ZDI" alt="" width="1" height="1" border="0" /></li>
 </ul>
 <p style="text-align: justify;"></p>

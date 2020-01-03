@@ -22,5 +22,5 @@ Bref J'ai donné 6/10 sur SensCritique car le film m'as vraiment mis mal a l'ais
 
 <p><a href="http://www.senscritique.com/film/lord-of-war/5881229937006982/critique/clawfire/">Ma critique</a> sur SensCritique
 <a href="http://www.senscritique.com/film/lord-of-war/5881229937006982/critique/leyeti/">Celle du Yéti</a>
-<a href="http://www.amazon.fr/gp/product/B000QEDXE0/ref=as_li_ss_tl?ie=UTF8&tag=clasblo-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000QEDXE0">Le film, pour meme pas 5€ en dvd</a><img src="http://www.assoc-amazon.fr/e/ir?t=&l=as2&o=8&a=B000QEDXE0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.fr/gp/product/B000QEDXE0/ref=as_li_ss_tl?ie=UTF8&tag=clasblo-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000QEDXE0">Le film, pour meme pas 5€ en dvd</a><img src="https://www.assoc-amazon.fr/e/ir?t=&l=as2&o=8&a=B000QEDXE0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.flickr.com/photos/joelogon/3162604842/">Credit Photo</a></p>
