@@ -1,81 +1,58 @@
 ---
-title:                "Clawfire's Blog"
-timezone:             "Europe/Brussels"
+site: "Clawfire's Blog"
+
+url: http://clawfire.net
+baseurl: 
+timezone: "Europe/Brussels"
+
 collections:
+  pages:
+    output: true
+    permalink: /:name
   posts:
-    title:            "Posts"
-    output:           true
-  uploads:
-    title:            "Uploads"
-    output:           true
-gems:
-- gemoji
-- jekyll-paginate
-description:          "Billets d'humeurs, LGBT, geek, ... un peu de moi en somme."
-email:                "clawfire@gmail.com"
-logo_image:           "/assets/images/me.jpg"
-cover_image:          "/assets/images/otqvwecws8o-dan-carlson.jpg"
-name:                 "Thibault Milan"
-author:               "Thibault Milan"
-author_image:         "/assets/images/me.jpg"
-paginate:             5
-url:                  "http://clawfire.net"
-baseurl:
-twitter_handle:       "@clawfire"
-flattr_id:            "8dx10l"
-social:
-- icon:               "twitter"
-  url:                "https://twitter.com/clawfire"
-  desc:               "Follow me on twitter"
-  share_url:          "http://twitter.com/share"
-  share_title:        "?text="
-  share_link:         "&amp;url="
-- icon:               "github"
-  url:                "https://github.com/clawfire"
-  desc:               "Fork me on github"
-  share_url:
-  share_title:
-  share_link:
-- icon:               "lastfm"
-  url:                "http://www.last.fm/user/clawfire"
-  desc:               "What you see is what I listen"
-  share_url:
-  share_title:
-  share_link:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
-talkyard_server_url:  https://comments-for-clawfire-net.talkyard.net
-talkyard_script_url:  https://c1.ty-cdn.net/-/talkyard-comments.min.js
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
-prose:
-  siteurl: "https://clawfire.net"
-  rooturl: "_posts"
-  media: /assets/images/article_images
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Blog post title"
-          placeholder: "My awesome title"
-          type: "text"
-      - name: "date"
-        field: 
-          element: "text"
-          label: "Date"
-          type: "datetime-local"
-          value: CURRENT_DATETIME
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tag(s)"
-          placeholder: "Choose tag(s)"
-          alterable: true
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "image"
-        field:
-          element: "text"
-          label: "Put here the URL of your picture"
-          placeholder: "/assets/article_images/whatever.png"
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
