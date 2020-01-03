@@ -4,7 +4,7 @@ title: Pain de mie Dukan
 date: '2011-02-24 22:31:42'
 ---
 
-<p><img src="http://farm6.static.flickr.com/5097/5475005034_301f83d15e.jpg" alt="Pain de mie Dukan" />
+<p><img src="https://farm6.static.flickr.com/5097/5475005034_301f83d15e.jpg" alt="Pain de mie Dukan" />
 Le pire quand on fait le régime Dukan, c'est l’absence de pain (et de gras, faut le dire aussi ...). Pour palier à cela on à tout un choix d'artifices : gâteaux, crêpes, galettes ... mais rien qui ressemble vraiment à du pain. Et l'autre jour, joie immense : Une recette de pain m'est apparue. D'abord perplexe je me suis dit "pourquoi ne pas tenter" ...<!--more--></p>
 
 Voici donc avec quelques ajustements la recette de pain de mie dukan.

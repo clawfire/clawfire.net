@@ -4,7 +4,7 @@ title: Cake saumon fumé et poireaux
 date: '2011-02-19 13:19:51'
 ---
 
-<p><img src="http://farm6.static.flickr.com/5132/5458507526_e512433776.jpg" alt="Cake saumon fumé et poireaux de clawfire, sur Flickr" /><br />
+<p><img src="https://farm6.static.flickr.com/5132/5458507526_e512433776.jpg" alt="Cake saumon fumé et poireaux de clawfire, sur Flickr" /><br />
 A réaliser en phase de protéines légères ( protéines + légumes ) voici une petite recette qui m'as permis d'écouler les deux poireaux dont je ne savais que faire (à part une soupe).</p>
 
 <strong>Ingrédients</strong>
