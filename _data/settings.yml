@@ -1,16 +1,17 @@
 basic_settings:
   site_title: "Clawfire's blog"
-  site_tagline: "Billets d'humeurs, LGBT, geek, ... un peu de moi en somme."
+  site_tagline: "Humeurs, LGBT, geek, ... un peu de moi en somme."
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
+  background_image: /images/2018-Clawfire-39.jpg
   overlay_opacity: 0.7
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
     # - title: 'Projects'
     #   url: '/projects/'
@@ -154,7 +155,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  ajax_loading: true
+  ajax_loading: false
   analytics_code: ""
   custom_styles: ""
   header_js: ""

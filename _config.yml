@@ -2,7 +2,7 @@
 site: "Clawfire's Blog"
 
 url: http://clawfire.net
-baseurl: 
+baseurl:
 timezone: "Europe/Brussels"
 
 collections:
@@ -11,7 +11,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blog/:year/:month/:day/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -55,4 +55,4 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
