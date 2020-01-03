@@ -1,7 +1,7 @@
 ---
 title: Thérapie
 date: 2019-04-28T01:55:00.000Z
-image: /assets/article_images/nik-shuliahin-251237-unsplash.jpg
+featured_image: /images/article_images/nik-shuliahin-251237-unsplash.jpg
 tags:
   - mentalhealth
   - me

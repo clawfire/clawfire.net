@@ -7,7 +7,7 @@ tags:
   - LGBTQ
   - Pride
   - Mr Bear
-image: https://www.dropbox.com/s/ivnin7noj2bk8gt/Tumblr%20Cover.png?dl=1
+featured_image: https://www.dropbox.com/s/ivnin7noj2bk8gt/Tumblr%20Cover.png?dl=1
 ---
 
 **INFORMATION**

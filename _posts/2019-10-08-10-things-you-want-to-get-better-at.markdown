@@ -1,7 +1,7 @@
 ---
 title: 10 things you want to get better at
 date: 2019-07-25T22:00:00.000Z
-image: /assets/article_images/image-jpeg-416c1931ed9e-1.jpeg
+featured_image: /images/article_images/image-jpeg-416c1931ed9e-1.jpeg
 tags:
   - Edison10
 layout: post

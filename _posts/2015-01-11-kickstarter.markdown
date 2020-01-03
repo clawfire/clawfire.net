@@ -6,7 +6,7 @@ tags:
 - jeux-video
 - crowdfunding
 - kickstarter
-image: /assets/article_images/2015/01/kickstarter-logo-dark.png
+featured_image: /images/article_images/2015/01/kickstarter-logo-dark.png
 ---
 
 En 2014 j'ai essayé de supporter des projets via du [financement participatif](http://fr.wikipedia.org/wiki/Financement_participatif) (crowdfunding) sur la plateforme [Kickstarter](http://kickstarter.com) & [IndieGogo](https://www.indiegogo.com/i). Petite retour d'expérience.

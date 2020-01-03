@@ -4,7 +4,7 @@ title: "13sem : Jour 19"
 date: "2017-08-25 18:02:06 +0200"
 tags:
   - 13sem
-image: https://unsplash.com/photos/fMD_Cru6OTk/download?force=true
+featured_image: https://unsplash.com/photos/fMD_Cru6OTk/download?force=true
 ---
 
 19 jours plus tard où est ce que j'en suis ? J'ai noirci les pages du journal presque quotidiennement. Un peu moins assidu les weekends (surtout parceque la party daily agenda est un peu vide du coup. Je prévois que dalle mes week-ends :D). Coté moral c'est assez bas, malgrès les vacances qui arrive, je me sens épuisé, mentalement.

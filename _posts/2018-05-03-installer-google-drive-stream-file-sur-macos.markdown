@@ -5,7 +5,7 @@ date: "2018-05-03 11:38:23 +0200"
 tags:
   - Astuce
   - Nerdz
-image: https://unsplash.com/photos/2wFRkQFDxS0/download
+featured_image: https://unsplash.com/photos/2wFRkQFDxS0/download
 ---
 J'ai récemment eu un nouveau mac pour le taf, et bien que j'utilise homebrew pour tout installer rapidement sur mon mac, en plus qu'un petit dépot de code avec mes dotfiles, j'ai eu un petit soucis quand il est venu le temps de lancer l'outil de synchronisation Google Drive : Google Drive Stream File.
 

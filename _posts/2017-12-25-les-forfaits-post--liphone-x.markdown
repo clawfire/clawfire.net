@@ -2,7 +2,7 @@
 layout: post
 title: Les forfaits POST & l'iPhone X
 date: '2017-12-25 17:39:48 +0100'
-image: /assets/article_images/2017/12/iPhoneX.png
+featured_image: /images/article_images/2017/12/iPhoneX.png
 tags:
   - geek
   - apple
