@@ -20,4 +20,4 @@ Jusqu'à présent, l'orientation de la sécurité intérieure de notre pays tend
 
 Enfin trèves de blabla, la video en question.
 
-http://www.youtube.com/watch?v=KoD7L1FCtqE
+https://www.youtube.com/watch?v=KoD7L1FCtqE
