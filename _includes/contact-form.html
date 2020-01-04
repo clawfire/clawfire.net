@@ -1,6 +1,6 @@
 <div class="contact-form">
 
-	<form name="contact" method="POST" id="contact-form" action="{{ site.data.settings.contact_settings.confirmation_url }}" data-netlify-recaptcha="true" netlify>
+	<form name="contact" method="POST" id="contact-form" action="{{ site.data.settings.contact_settings.confirmation_url }}" netlify>
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Email Address *</label>
@@ -16,8 +16,6 @@
 			<label class="contact-form__label">Message *</label>
 			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
 		</div>
-
-		<div data-netlify-recaptcha="true"></div>
 
 		<div class="contact-form__item">
 			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
