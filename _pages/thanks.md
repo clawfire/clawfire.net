@@ -1,10 +1,10 @@
 ---
 title: Thank you
 subtitle: Your message was sent successfully.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+description:
 ---
 
-![](/images/demo/about.jpg)
+Thanks for your message.  
+<i class="far fa-watch"></i> I typically answers under 48h but when travelling or holidays I can get lazy a little bit. Don't hesitate to poke me on <i class="fab fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/clawfire) if needed.
 
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+<a href="/" class="button"><i class="fas fa-house-return"></i>  Go back home</a>
