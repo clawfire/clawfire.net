@@ -5,11 +5,11 @@ date: "2017-03-26 19:52:39 -0700"
 tags:
   - élection
   - spam
-image: /assets/article_images/2017/03/elliott-stallion-105205.jpg
+featured_image: /images/article_images/2017/03/elliott-stallion-105205.jpg
 ---
 Faisant suite à mon post sur [le spam envoyé par François Fillon via la Liste Électorale Consulaire](/2017/03/18/cher-francois.html) voici une réponse que j'avais envoyé bien avant, à Emmanuel Macron. J'avais en effet reçu son spam au moment de [sa déclaration gerbante concernant les opposants au mariage homosexuel](http://www.huffingtonpost.fr/2017/02/16/les-anti-mariage-gay-ont-ete-humilies-durant-le-quinquennat-re/) qui auraient été humilié durant le quinquénat Hollande. 
 
-![Ma réponse à Emmanuel Macron](/assets/article_images/2017/03/Capture d’écran 2017-02-19 à 13.36.13.png)
+![Ma réponse à Emmanuel Macron](/images/article_images/2017/03/Capture d’écran 2017-02-19 à 13.36.13.png)
 
 Cher Emmanuel,
 

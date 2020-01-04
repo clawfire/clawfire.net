@@ -7,7 +7,7 @@ tags:
   - Mr. Bear
   - Voyage
   - Allemagne
-image: /assets/article_images/2017/02/Photo-83.jpg
+featured_image: /images/article_images/2017/02/Photo-83.jpg
 ---
 
 C'est officiel, les organisateurs de MR Bear Germany & Mr B.I.G (Bear Internet Germany) se lancent dans l'aventure d'organiser MR. Bear Europe ! Ils ont contacté les Mr Bear de toute l'Europe pour leur proposer de participer. En effet, comme pour Miss Univers, seul les élus de chaque pays peuvent participer. Nous avons donc jusqu'au 15 de ce mois, si je ne me trompe pas, pour remplir le dossier de candidature, sélectionner des photos et envoyer le tout.

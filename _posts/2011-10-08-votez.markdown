@@ -8,7 +8,7 @@ tags:
 - primaire
 ---
 
-<img src="http://clawfire.net/wp-content/uploads/6161775015_7f1b5033e2_b.jpg" alt="Vote Primaires" />
+<img src="https://clawfire.net/wp-content/uploads/6161775015_7f1b5033e2_b.jpg" alt="Vote Primaires" />
 
 <p style="text-align: justify;">Demain c'est le premier tour des primaires citoyennes. Le choix est vaste, mais pas trop cornélien. Bien que j'ai douté entre voter "utile" (voter pour un candidat ayant le plus de chance face à la concurrence) et voter pour le candidat qui exprime le plus mon opinion et mon point de vue j'ai choisi.</p>
 

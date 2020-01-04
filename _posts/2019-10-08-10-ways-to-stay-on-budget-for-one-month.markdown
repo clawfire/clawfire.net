@@ -1,7 +1,7 @@
 ---
 title: 10 ways to stay on budget for one month
 date: 2019-07-24T22:00:00.000Z
-image: /assets/article_images/image-jpeg-d59b277fcde3-1.jpeg
+featured_image: /images/article_images/image-jpeg-d59b277fcde3-1.jpeg
 tags:
   - Edison10
 layout: post

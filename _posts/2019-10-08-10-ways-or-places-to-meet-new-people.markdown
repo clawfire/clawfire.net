@@ -1,7 +1,7 @@
 ---
 title: 10 ways or places to meet new people
 date: 2019-07-29T07:24:00.000Z
-image: /assets/article_images/image-jpeg-251bace28395-1.jpeg
+featured_image: /images/article_images/image-jpeg-251bace28395-1.jpeg
 tags:
   - Edison10
 layout: post

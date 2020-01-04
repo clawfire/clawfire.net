@@ -9,7 +9,7 @@ tags:
 - nicolas-cage
 ---
 
-<p><img src="http://farm4.static.flickr.com/3093/3162604842_0587c590db.jpg" alt="IMG_0512 de joelogon, sur Flickr" />
+<p><img src="https://farm4.static.flickr.com/3093/3162604842_0587c590db.jpg" alt="IMG_0512 de joelogon, sur Flickr" />
 Hier soir, je voulais me détendre un peu et comme on fait maintenant chambre à part, je me suis dis que me poser devant une vidéo sur mon 27'', alors que j'ai tout viré de la TimeCapsule pour les mettre sur l'HDD de la bécane, c'est juste une bonne idée non ? Sélection rapide, je voulais un truc léger à voir.</p>
 
 Oh un Nicolas Cage, chouette ! Ah oui mais non pas de bol. Lord of War ça fait partit des film où cet acteur ne campais pas des rôles à la con et où le scénario du film n'avais pas été pompé par un pré-ado boutonneux en mal de gros nichons , où de binoclard shooté aux anxiolytiques qui voient des conspirations partout.
@@ -22,5 +22,5 @@ Bref J'ai donné 6/10 sur SensCritique car le film m'as vraiment mis mal a l'ais
 
 <p><a href="http://www.senscritique.com/film/lord-of-war/5881229937006982/critique/clawfire/">Ma critique</a> sur SensCritique
 <a href="http://www.senscritique.com/film/lord-of-war/5881229937006982/critique/leyeti/">Celle du Yéti</a>
-<a href="http://www.amazon.fr/gp/product/B000QEDXE0/ref=as_li_ss_tl?ie=UTF8&tag=clasblo-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000QEDXE0">Le film, pour meme pas 5€ en dvd</a><img src="http://www.assoc-amazon.fr/e/ir?t=&l=as2&o=8&a=B000QEDXE0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.fr/gp/product/B000QEDXE0/ref=as_li_ss_tl?ie=UTF8&tag=clasblo-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=B000QEDXE0">Le film, pour meme pas 5€ en dvd</a><img src="https://www.assoc-amazon.fr/e/ir?t=&l=as2&o=8&a=B000QEDXE0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a href="http://www.flickr.com/photos/joelogon/3162604842/">Credit Photo</a></p>

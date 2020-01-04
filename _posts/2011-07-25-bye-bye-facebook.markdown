@@ -13,11 +13,11 @@ date: '2011-07-25 06:23:07'
 <p style="text-align: justify;"></p>
 
 
-[caption id="attachment_520" align="aligncenter" width="786" caption="Demande d&#39;export de données - Aller dans mon compte et cliquer sur &quot;en savoir plus&quot;"]<a href="http://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-07.15.19.png"><img class="size-full wp-image-520" title="Capture d’écran 2011-07-25 à 07.15.19" src="http://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-07.15.19.png" alt="Facebook - Mon compte - Demande d'export de données" width="786" height="671" /></a>[/caption]
+[caption id="attachment_520" align="aligncenter" width="786" caption="Demande d&#39;export de données - Aller dans mon compte et cliquer sur &quot;en savoir plus&quot;"]<a href="https://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-07.15.19.png"><img class="size-full wp-image-520" title="Capture d’écran 2011-07-25 à 07.15.19" src="https://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-07.15.19.png" alt="Facebook - Mon compte - Demande d'export de données" width="786" height="671" /></a>[/caption]
 <p style="text-align: justify;">Attention cette archive n'est pas disponible instantanément mais Facebook vous enverra un email vous indiquant sa disponibilité.</p>
 
 
-[caption id="attachment_518" align="aligncenter" width="584" caption="Récupération de l&#39;archive une fois disponible"]<a href="http://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-06.05.19.png"><img class="size-large wp-image-518" title="Facebook Archive" src="http://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-06.05.19-1024x991.png" alt="Facebook Archive : récupération de l'archive" width="584" height="565" /></a>[/caption]
+[caption id="attachment_518" align="aligncenter" width="584" caption="Récupération de l&#39;archive une fois disponible"]<a href="https://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-06.05.19.png"><img class="size-large wp-image-518" title="Facebook Archive" src="https://clawfire.net/wp-content/uploads/Capture-d’écran-2011-07-25-à-06.05.19-1024x991.png" alt="Facebook Archive : récupération de l'archive" width="584" height="565" /></a>[/caption]
 
 Vous obtenez un zip avec tout votre profil, les données, les amis, les évents à venir, photos, vidéos, messages ,... tout.
 

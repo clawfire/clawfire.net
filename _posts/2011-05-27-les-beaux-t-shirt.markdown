@@ -15,11 +15,11 @@ Ceux qui me connaissent savent que je fais rarement de la promo, mais il y a 
 
 Pilo-tee reprends donc ce petit coté humain et fun, avec <a href="http://www.flickr.com/photos/cyberaxe/4002372118/in/photostream/">des packaging plutôt sympa</a> et une <a href="http://www.pilo-tee.com/index.php?menu=boutique">collection de tee</a> qui grandit, grandit, grandiiiiit. personnellement voici le premier t-shirt commandé chez eux :
 
-<img src="http://farm4.static.flickr.com/3522/4002377642_549bc45a8c_z.jpg" alt="tee" />
+<img src="https://farm4.static.flickr.com/3522/4002377642_549bc45a8c_z.jpg" alt="tee" />
 
 Avec quelques photos que je voulais pseudo-macro (et qui sont loupées) :
 
-<img src="http://farm4.static.flickr.com/3502/4001616335_f91216dd59_z.jpg" alt="pseudo macro" />
+<img src="https://farm4.static.flickr.com/3502/4001616335_f91216dd59_z.jpg" alt="pseudo macro" />
 
 <a href="http://www.flickr.com/photos/cyberaxe/sets/72157622439124411/with/4001616335/">Voir l'album complet</a>
 
