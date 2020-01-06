@@ -7,7 +7,7 @@ tags:
 - geek
 - code
 - hackathon
-image: /assets/article_images/2014/10/icone.png
+featured_image: /images/article_images/2014/10/icone.png
 ---
 
 La semaine dernière je participais à mon premier [hackathon](https://fr.wikipedia.org/wiki/Hackathon) à Metz organisé par l'association [Grand Est Numérique](http://grandestnumerique.org) que je tiens à féliciter pour le travail de titan qu'ils ont abbatut et pour l'encadrement vraiment top de l'évènement.

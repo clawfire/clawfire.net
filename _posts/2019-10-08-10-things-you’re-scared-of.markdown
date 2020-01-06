@@ -1,7 +1,7 @@
 ---
 title: 10 things you’re scared of
 date: 2019-07-23T22:00:00.000Z
-image: /assets/article_images/image-jpeg-8d1cc2aa83f2-1.jpeg
+featured_image: /images/article_images/image-jpeg-8d1cc2aa83f2-1.jpeg
 tags:
   - Edison10
 layout: post

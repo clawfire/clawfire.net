@@ -7,7 +7,7 @@ tags:
 - huawei
 - smartphone
 - honor-6
-image: /assets/article_images/2014/11/1515511_651348634984214_1307488631_n.jpg
+featured_image: /images/article_images/2014/11/1515511_651348634984214_1307488631_n.jpg
 ---
 
 L'iPhone 6 est sortit depuis un petit moment mais il me reste 1 an à tirer chez mon opérateur téléphonique avant de pouvoir changer de téléphone à tarif préférenciel. Et qu'on s'entende bien, je ne suis pas pret à mettre 900 € dans un smartphone ...

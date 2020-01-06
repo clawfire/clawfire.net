@@ -16,10 +16,10 @@ tags:
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/30159207&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 <p style="text-align: justify;">On commence évidemment par la plus connue je pense, surtout de part son clip qui envois du bois <strong>Levels - Avicii</strong></p>
-<p style="text-align: justify;"><iframe src="http://www.youtube-nocookie.com/embed/_ovdm2yX4MA?rel=0" frameborder="0" width="580" height="325"></iframe></p>
+<p style="text-align: justify;"><iframe src="https://www.youtube-nocookie.com/embed/_ovdm2yX4MA?rel=0" frameborder="0" width="580" height="325"></iframe></p>
 <p style="text-align: justify;">J'ai tout de suite accroché à la mélodie et au clip. Au passage je découvre que Twitter intègre les players de pré-écoute Apple dans les tweet :</p>
-<p style="text-align: justify;"><a href="http://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-16.44.19.png"><img class="aligncenter size-full wp-image-727" title="Mini-Player" src="http://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-16.44.19.png" alt="Mini-Player" width="531" height="314" /></a></p>
-<a href="http://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-19.45.13.png"><img class="aligncenter  wp-image-728" title="Album Entier" src="http://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-19.45.13.png" alt="Album Entier" width="534" height="574" /></a>
+<p style="text-align: justify;"><a href="https://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-16.44.19.png"><img class="aligncenter size-full wp-image-727" title="Mini-Player" src="https://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-16.44.19.png" alt="Mini-Player" width="531" height="314" /></a></p>
+<a href="https://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-19.45.13.png"><img class="aligncenter  wp-image-728" title="Album Entier" src="https://clawfire.net/wp-content/uploads/2012/01/Capture-d’écran-2012-01-29-à-19.45.13.png" alt="Album Entier" width="534" height="574" /></a>
 Et deuxième morceau que je voudrais partager avec vous : **Fading to Darkness - Avicii**
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/17086538&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
@@ -32,7 +32,7 @@ Les deux sont dispo sur iTune
 <p style="text-align: justify;">ou sur Amazon MP3</p>
 
 <ul>
-	<li><a href="http://www.amazon.fr/gp/product/B005CKUIK0/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005CKUIK0">Fade Into Darkness (Radio Vocal Mix)</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005CKUIK0" alt="" width="1" height="1" border="0" /></li>
-	<li><a href="http://www.amazon.fr/gp/product/B005ZV8ZDI/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005ZV8ZDI">Levels</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005ZV8ZDI" alt="" width="1" height="1" border="0" /></li>
+	<li><a href="http://www.amazon.fr/gp/product/B005CKUIK0/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005CKUIK0">Fade Into Darkness (Radio Vocal Mix)</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005CKUIK0" alt="" width="1" height="1" border="0" /></li>
+	<li><a href="http://www.amazon.fr/gp/product/B005ZV8ZDI/ref=as_li_ss_tl?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=19458&amp;creativeASIN=B005ZV8ZDI">Levels</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B005ZV8ZDI" alt="" width="1" height="1" border="0" /></li>
 </ul>
 <p style="text-align: justify;"></p>

@@ -9,7 +9,7 @@ tags:
 - viande
 ---
 
-<img src="http://farm6.static.flickr.com/5219/5465879288_fb6b297c74.jpg" alt="Boulettes de viande carotte/cumin" />
+<img src="https://farm6.static.flickr.com/5219/5465879288_fb6b297c74.jpg" alt="Boulettes de viande carotte/cumin" />
 
 Donc maintenant qu'il reste des carottes et qu'on ne sait pas quoi en faire. Et qu'il faut bien manger de la viande de temps en temps parceque les légumes, même en cake, ca va 5 min. Et comme j'ai toujours adoré jouer avec la bouffe, on va faire des boulettes !<!--more-->
 

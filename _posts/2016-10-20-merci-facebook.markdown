@@ -7,7 +7,7 @@ tags:
   - Bear Pride
   - Events
   - Social Media
-image: https://www.dropbox.com/s/5wajizsl7b1kltc/Alex%20Marte%20-%20originale.jpg?dl=1
+featured_image: https://www.dropbox.com/s/5wajizsl7b1kltc/Alex%20Marte%20-%20originale.jpg?dl=1
 ---
 
 Récemment j'ai été banni d'utilisation de Facebook pendant 24h autre qu'en lecture seule. C'est ce qu'on apelle un soft-ban dans le jargon. On ne banni pas l'utilisateur pour toujours mais pour un temps suffisant pour qu'il "se calme" par rapport à l'affront qu'il a pus faire.

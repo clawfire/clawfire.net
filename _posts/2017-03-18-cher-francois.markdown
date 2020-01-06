@@ -5,13 +5,13 @@ date: "2017-03-18 13:59:28 +0100"
 tags:
   - élection
   - spam
-image: /assets/article_images/2017/03/elliott-stallion-105205.jpg
+featured_image: /images/article_images/2017/03/elliott-stallion-105205.jpg
 ---
 Comme je suis ce qu'on appelle pudiquement un "Français de l'étranger", je me ramasse une quantité assez incroyable de spam. Mon adresse email est publiée sur les _Listes consulaires électorales_ et les partis politiques n'hésitent pas à en abuser copieusement.
 
 Et ce matin c'est donc François - gros foutage de gueule - Fillon qui m'écris. Du coup, je lui ai répondu. 
 
-![spam de francois fillon](/assets/article_images/2017/03/Capture d’écran 2017-03-18 à 14.02.45.png)
+![spam de francois fillon](/images/article_images/2017/03/Capture d’écran 2017-03-18 à 14.02.45.png)
 
 Cher François,
 
@@ -33,4 +33,4 @@ Pour le gachi d'argent public, je te l'accorde, on aurait pus faire preuve de bo
 
 La paille, la poutre, l'oeuil ... tout ça tout ça ... 
 
-![ma réponse à F.F.](/assets/article_images/2017/03/Capture d’écran 2017-03-18 à 14.02.18.png)
+![ma réponse à F.F.](/images/article_images/2017/03/Capture d’écran 2017-03-18 à 14.02.18.png)

@@ -1,7 +1,7 @@
 ---
 title: Page vierge
 date: 2019-06-08T23:21:00.000Z
-image: /assets/article_images/jan-kahanek-184675-unsplash.jpg
+featured_image: /images/article_images/jan-kahanek-184675-unsplash.jpg
 tags:
   - me
   - moi

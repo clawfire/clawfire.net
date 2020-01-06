@@ -1,7 +1,7 @@
 ---
 title: Gay Pride Metz 2019
 date: 2019-06-09T17:41:00.000Z
-image: /assets/article_images/affiche-pride-2019.jpg
+featured_image: /images/article_images/affiche-pride-2019.jpg
 tags:
   - LGBT
   - Pride
@@ -10,19 +10,19 @@ layout: post
 ---
 Samedi prochain c'est le défilé de la [gaypride de Metz](http://rainbowweeks.fr/metz-pride-day/) et avec l'association des [ours de luxembourg](http://bears.lu) on y sera pour parler de l'association, des soirées, vendre quelques goodies et des pré-ventes pour notre [Luxembourg City Pride](http://weare.lu) qui aura lieux le 13 et 14 juillet prochain (d'ailleurs on a tout un programme cool à Luxembourg ville pour ceux qui préfèrent à Esch-sur-Alzette).
 
-![](/assets/article_images/drapeaux.png "Icone de drapeau en couleurs arc-en-ciel, titre \"drapeaux 7€\"")
-![](/assets/article_images/tshirts.png "Icone de t-shirt en couleur arc en ciel, texte \"t-shirt banana 20€\"")
-![](/assets/article_images/woof-cap.png "Logo Woof Luxembourg, men only party. Texte \"Woof Cap 25€\", 29€ barré en signe de réduction")
+![](/images/article_images/drapeaux.png "Icone de drapeau en couleurs arc-en-ciel, titre \"drapeaux 7€\"")
+![](/images/article_images/tshirts.png "Icone de t-shirt en couleur arc en ciel, texte \"t-shirt banana 20€\"")
+![](/images/article_images/woof-cap.png "Logo Woof Luxembourg, men only party. Texte \"Woof Cap 25€\", 29€ barré en signe de réduction")
 
 Du coup, aujourd'hui, c'était préparation des affiches pour le stand, calcul de la gamme de prix pour la vente des drapeaux (qu'on a prix en rainbow 8 bandes, bear, bi, trans), des babioles genre pendentifs et de nos super casquettes Woof avec broderie  effet 3D.
 
-![](/assets/article_images/00100sportrait_00100_burst20181020234601544_cover~2.jpg)
+![](/images/article_images/00100sportrait_00100_burst20181020234601544_cover~2.jpg)
 
-![](/assets/article_images/photo-17.jpg)
+![](/images/article_images/photo-17.jpg)
 
 Pour les t-shirts j'ai travaillé avec un imprimeur de Nancy qui fait cela super bien, qui a sut m'accompagner pour trouver le t-shirt qui correspondait bien à la couleur de ma marque et à monter l'ensemble du projet pour un prix vraiment raisonnable pour quelque chose fait localement.
 
-![](/assets/article_images/00000portrait_00000_burst20190601110934168.jpg "Photos de 3 personnes à Disneyland Paris. La personne en premier plan porte une casquette woof avec des oreilles de mickey et des lunettes de soleil.")
+![](/images/article_images/00000portrait_00000_burst20190601110934168.jpg "Photos de 3 personnes à Disneyland Paris. La personne en premier plan porte une casquette woof avec des oreilles de mickey et des lunettes de soleil.")
 
 Pour les casquettes, encore une fois on fait local, mais là, encore plus puisque c'est un luxembourgeois avec qui on travaille et qui nous a fait les casquettes au poil. Ca a encore une fois pris du temps et ça à certes un coût, mais la qualité est clairement au RDV.
 

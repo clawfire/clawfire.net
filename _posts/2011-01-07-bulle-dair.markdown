@@ -21,8 +21,8 @@ Je passe la soirée avec une pizza devant God of War II. J'en suis aux 2/3.
 
 Mon mec m'appelle en panique de son A.G au boulot. Crise d'angoisse. Je lui dit de rentrer en taxi, que ça va aller. Il se calme, mange un bout, puis viens le moment de discuter. Je lui dis ce qui c'est passé hier. Il se rappelle de 10% des trucs. Ca lui fait peur. Je la vois passer sur son visage. Sur ses larmes dans ses yeux. Je le réconforte. Il panique un peu puis se calme. On discute à coeur ouvert. Il réalise plein de chose. Changement à venir ? Espérons. On fait l'amour dans des positions improbables dans le canapé. C'est bon. Il se couche alors que je finis ce thème pour mon blog. J'irais me coucher vers 2h du matin.
 
-Point positif de la journée : pas de pensées suicidaires &#92;o/
+Point positif de la journée : pas de pensées suicidaires \\o/
 
-<a href="http://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2">Robyn sur Spotify</a> (pas de Body Talk pt2 &amp; 3 :( )
+<a href="http://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2">Robyn sur Spotify</a> (pas de Body Talk pt2 & 3 :( )
 
-<a href="http://www.amazon.fr/gp/product/B0049JMDA8?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=6746&amp;creativeASIN=B0049JMDA8">Robyn Body Talk Pt.3 on Amz</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B0049JMDA8" border="0" alt="" width="1" height="1" />
+<a href="http://www.amazon.fr/gp/product/B0049JMDA8?ie=UTF8&amp;tag=clasblo-21&amp;linkCode=as2&amp;camp=1642&amp;creative=6746&amp;creativeASIN=B0049JMDA8">Robyn Body Talk Pt.3 on Amz</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.fr/e/ir?t=clasblo-21&amp;l=as2&amp;o=8&amp;a=B0049JMDA8" border="0" alt="" width="1" height="1" />

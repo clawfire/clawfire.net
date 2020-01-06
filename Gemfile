@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-# 'github-pages' includes 'jekyll' gem
-gem 'github-pages', group: :jekyll_plugins
-gem 'bourbon'
-gem 'jemoji', group: :jekyll_plugins
+gem 'jekyll', '3.8.5'
+
+group :jekyll_plugins do
+  gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
+end
