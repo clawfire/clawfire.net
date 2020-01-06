@@ -7,7 +7,7 @@ layout: default
 	<div class="wrap">
 
 		<h1>{{ page.title }}</h1>
-		<p>{{ page.date | date_to_long_string }}</p>
+		<p><i class="fad fa-calendar"></i> {{ page.date | date_to_long_string }} <i class="fad fa-hashtag"></i> {{ page.tags | array_to_sentence_string }}</p>
 
 	</div>
 
