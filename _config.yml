@@ -5,6 +5,9 @@ url: http://clawfire.net
 baseurl:
 timezone: "Europe/Brussels"
 
+author:
+  twitter: clawfire
+
 collections:
   pages:
     output: true
@@ -54,6 +57,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-youtube
+  - jekyll-feed
 
 paginate: 6
 paginate_path: "/page:num/"
