@@ -157,36 +157,66 @@ fields:
   name: color_settings
   label: color_settings
   fields:
-  - type: text
-    name: background_color
+  - name: background_color
+    type: color
     label: background_color
-  - type: text
-    name: background_alt_color
+    config:
+      required: false
+      color_format: Hex
+  - name: background_alt_color
+    type: color
     label: background_alt_color
-  - type: text
-    name: text_dark_color
+    config:
+      required: false
+      color_format: Hex
+  - name: text_dark_color
+    type: color
     label: text_dark_color
-  - type: text
-    name: text_medium_color
+    config:
+      required: false
+      color_format: Hex
+  - name: text_medium_color
+    type: color
     label: text_medium_color
-  - type: text
-    name: text_light_color
+    config:
+      required: false
+      color_format: Hex
+  - name: text_light_color
+    type: color
     label: text_light_color
-  - type: text
-    name: accent_color
+    config:
+      required: false
+      color_format: Hex
+  - name: accent_color
+    type: color
     label: accent_color
-  - type: text
-    name: border_color
+    config:
+      required: false
+      color_format: Hex
+  - name: border_color
+    type: color
     label: border_color
-  - type: text
-    name: overlay_background_color
+    config:
+      required: false
+      color_format: Hex
+  - name: overlay_background_color
+    type: color
     label: overlay_background_color
-  - type: text
-    name: overlay_text_color
+    config:
+      required: false
+      color_format: Hex
+  - name: overlay_text_color
+    type: color
     label: overlay_text_color
-  - type: text
-    name: error_color
+    config:
+      required: false
+      color_format: Hex
+  - name: error_color
+    type: color
     label: error_color
+    config:
+      required: false
+      color_format: Hex
 - type: field_group
   name: font_settings
   label: font_settings
@@ -459,15 +489,39 @@ fields:
   - type: boolean
     name: ajax_loading
     label: ajax_loading
-  - type: text
-    name: analytics_code
+  - name: analytics_code
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: analytics_code
-  - type: text
-    name: custom_styles
+  - name: custom_styles
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: custom_styles
-  - type: text
-    name: header_js
+  - name: header_js
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: header_js
-  - type: text
-    name: footer_js
+  - name: footer_js
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
     label: footer_js
