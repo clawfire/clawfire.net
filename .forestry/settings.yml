@@ -11,7 +11,7 @@ sections:
   path: _pages
   label: Pages
   create: documents
-  match: "**/*"
+  match: "*"
 - type: heading
   label: Config
 - type: document
