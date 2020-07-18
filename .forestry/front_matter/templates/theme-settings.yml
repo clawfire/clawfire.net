@@ -525,3 +525,5 @@ fields:
       schema:
         format: markdown
     label: footer_js
+pages:
+- _data/settings.yml
