@@ -11,10 +11,17 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+- type: heading
+  label: Config
 - type: document
   path: _data/settings.yml
   label: Theme Settings
   match: "**/*"
+- type: document
+  path: _config.yml
+  label: Jekyll Settings
+  match: "**/*"
+  read_only: true
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
