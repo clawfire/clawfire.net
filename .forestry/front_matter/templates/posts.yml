@@ -5,15 +5,27 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+  default: now
 - type: file
   name: featured_image
   label: featured_image
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+    source:
+      type: documents
+      section: jekyll-posts
 - type: text
   name: layout
   label: layout
+  default: post
+  hidden: true
