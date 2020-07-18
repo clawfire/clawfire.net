@@ -1,0 +1,473 @@
+---
+label: Theme Settings
+hide_body: true
+fields:
+- type: field_group
+  name: basic_settings
+  label: basic_settings
+  fields:
+  - type: text
+    name: site_title
+    label: site_title
+  - type: text
+    name: site_tagline
+    label: site_tagline
+  - type: file
+    name: favicon_image
+    label: favicon_image
+- type: field_group
+  name: header_settings
+  label: header_settings
+  fields:
+  - type: text
+    name: logo_image
+    label: logo_image
+  - type: number
+    name: logo_width
+    label: logo_width
+  - type: file
+    name: background_image
+    label: background_image
+  - type: number
+    name: overlay_opacity
+    label: overlay_opacity
+- type: field_group
+  name: menu_settings
+  label: menu_settings
+  fields:
+  - type: field_group_list
+    name: menu_items
+    label: menu_items
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: url
+      label: url
+- type: field_group
+  name: grid_settings
+  label: grid_settings
+  fields:
+  - type: number
+    name: grid_spacing
+    label: grid_spacing
+- type: field_group
+  name: contact_settings
+  label: contact_settings
+  fields:
+  - type: text
+    name: form_action
+    label: form_action
+  - type: text
+    name: confirmation_url
+    label: confirmation_url
+  - type: text
+    name: email_subject
+    label: email_subject
+  - type: text
+    name: send_button_text
+    label: send_button_text
+- type: field_group
+  name: social_settings
+  label: social_settings
+  fields:
+  - type: text
+    name: facebook_url
+    label: facebook_url
+  - type: text
+    name: twitter_url
+    label: twitter_url
+  - type: text
+    name: instagram_url
+    label: instagram_url
+  - type: text
+    name: snapchat_url
+    label: snapchat_url
+  - type: text
+    name: youtube_url
+    label: youtube_url
+  - type: text
+    name: google-plus_url
+    label: google-plus_url
+  - type: text
+    name: vimeo_url
+    label: vimeo_url
+  - type: text
+    name: pinterest_url
+    label: pinterest_url
+  - type: text
+    name: medium_url
+    label: medium_url
+  - type: text
+    name: quora_url
+    label: quora_url
+  - type: text
+    name: amazon_url
+    label: amazon_url
+  - type: text
+    name: apple_url
+    label: apple_url
+  - type: text
+    name: android_url
+    label: android_url
+  - type: text
+    name: tumblr_url
+    label: tumblr_url
+  - type: text
+    name: dribbble_url
+    label: dribbble_url
+  - type: text
+    name: behance_url
+    label: behance_url
+  - type: text
+    name: deviantart_url
+    label: deviantart_url
+  - type: text
+    name: github_url
+    label: github_url
+  - type: text
+    name: reddit_url
+    label: reddit_url
+  - type: text
+    name: flickr_url
+    label: flickr_url
+  - type: text
+    name: etsy_url
+    label: etsy_url
+  - type: text
+    name: kickstarter_url
+    label: kickstarter_url
+  - type: text
+    name: soundcloud_url
+    label: soundcloud_url
+  - type: text
+    name: spotify_url
+    label: spotify_url
+  - type: text
+    name: bandcamp_url
+    label: bandcamp_url
+  - type: text
+    name: linkedin_url
+    label: linkedin_url
+  - type: text
+    name: mastodon_url
+    label: mastodon_url
+- type: field_group
+  name: color_settings
+  label: color_settings
+  fields:
+  - type: text
+    name: background_color
+    label: background_color
+  - type: text
+    name: background_alt_color
+    label: background_alt_color
+  - type: text
+    name: text_dark_color
+    label: text_dark_color
+  - type: text
+    name: text_medium_color
+    label: text_medium_color
+  - type: text
+    name: text_light_color
+    label: text_light_color
+  - type: text
+    name: accent_color
+    label: accent_color
+  - type: text
+    name: border_color
+    label: border_color
+  - type: text
+    name: overlay_background_color
+    label: overlay_background_color
+  - type: text
+    name: overlay_text_color
+    label: overlay_text_color
+  - type: text
+    name: error_color
+    label: error_color
+- type: field_group
+  name: font_settings
+  label: font_settings
+  fields:
+  - type: textarea
+    name: font_embed
+    label: font_embed
+  - type: text
+    name: title_font
+    label: title_font
+  - type: text
+    name: body_font
+    label: body_font
+  - type: number
+    name: regular_weight
+    label: regular_weight
+  - type: number
+    name: bold_weight
+    label: bold_weight
+  - type: field_group
+    name: site_title
+    label: site_title
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+  - type: field_group
+    name: site_tagline
+    label: site_tagline
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: menu
+    label: menu
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+  - type: field_group
+    name: h1
+    label: h1
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: h2
+    label: h2
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: h3
+    label: h3
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: h4
+    label: h4
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: h5
+    label: h5
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: h6
+    label: h6
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: p
+    label: p
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: blockquote
+    label: blockquote
+    fields:
+    - type: number
+      name: small_size
+      label: small_size
+    - type: number
+      name: medium_size
+      label: medium_size
+    - type: number
+      name: large_size
+      label: large_size
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+    - type: number
+      name: line_height
+      label: line_height
+  - type: field_group
+    name: buttons
+    label: buttons
+    fields:
+    - type: number
+      name: weight
+      label: weight
+    - type: number
+      name: letter_spacing
+      label: letter_spacing
+- type: field_group
+  name: advanced_settings
+  label: advanced_settings
+  fields:
+  - type: boolean
+    name: ajax_loading
+    label: ajax_loading
+  - type: text
+    name: analytics_code
+    label: analytics_code
+  - type: text
+    name: custom_styles
+    label: custom_styles
+  - type: text
+    name: header_js
+    label: header_js
+  - type: text
+    name: footer_js
+    label: footer_js
