@@ -1,11 +1,12 @@
 ---
 title: Improving out.lu
-date: 2020-04-26T20:09:04.865Z
-featured_image: /images/article_images/23622461_797773153764309_5261759074080373775_n.png
+date: 2020-04-26T20:09:04.865+00:00
+featured_image: "/images/article_images/23622461_797773153764309_5261759074080373775_n.png"
 tags:
-  - news
-  - LGBT+
+- news
+- LGBT+
 layout: post
+
 ---
 Certain·e·s d'entre vous savent peut être que je bosse sur le projet out.lu depuis que j'ai été élu Mr. Bear Luxembourg en ... 2016 😱 Shit c'est loin tout ça!
 
