@@ -1,7 +1,7 @@
 ---
 date: 2020-07-18 08:36:06 +0000
 layout: post
-title: "# La crise du Coronavirus au Luxembourg - EP 01"
+title: La crise du Coronavirus au Luxembourg - EP 01
 featured_image: "/images/article_images/2020/07/united-nations-covid-19-response-65z9_tx5es-unsplash.jpg"
 tags:
 - Luxembourg
