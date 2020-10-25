@@ -8,7 +8,7 @@ tags:
 - concert
 
 ---
-Vendredi dernier j'ai revu ma meilleure amie de l'université et ancienne colloc' pour aller voir Kompromat, association explosive de [Vitalic](https://fr.wikipedia.org/wiki/Vitalic) et [Rebeka Warrior](https://fr.wikipedia.org/wiki/Julia_Lano%C3%AB) (Sexy Sushi) qui avaient déjà travaillé ensemble sur le titre "La mort sur le Dancefloor" que j'aime tant.
+Samedi dernier j'ai revu ma meilleure amie de l'université et ancienne colloc' pour aller voir Kompromat, association explosive de [Vitalic](https://fr.wikipedia.org/wiki/Vitalic) et [Rebeka Warrior](https://fr.wikipedia.org/wiki/Julia_Lano%C3%AB) (Sexy Sushi) qui avaient déjà travaillé ensemble sur le titre "La mort sur le Dancefloor" que j'aime tant.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pimc2Wy1Sg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,3 +25,5 @@ La petite sauterie c'est faite à la Boite à Musique à Metz Borny, petite sall
 Je vous laisse avec une petite vidéo pour la route.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3ZiRJswuv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+P.S: Le concert était assis, masqué et avec une distance de 1m entre chaque personne pas du même groupe. 
