@@ -1,5 +1,6 @@
 ---
 site: "Clawfire's Blog"
+site: "Clawfire's Blog"
 
 url: http://clawfire.net
 baseurl:
@@ -64,3 +65,5 @@ paginate_path: "/page:num/"
 
 include:
   - _redirects
+feed:
+  tags: true
