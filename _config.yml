@@ -1,6 +1,7 @@
 ---
 site: "Clawfire's Blog"
-site: "Clawfire's Blog"
+title: "Clawfire's Blog"
+description: "Humeurs, LGBT, geek, ... un peu de moi en somme."
 
 url: http://clawfire.net
 baseurl:
