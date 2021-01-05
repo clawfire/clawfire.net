@@ -3,7 +3,8 @@ date: 2021-01-05 21:49:21 +0100
 layout: post
 title: Sega
 featured_image: "/images/article_images/2021/01/imag0003.jpg"
-tags: []
+tags:
+- chat
 
 ---
 On s’est rencontré, il y a 13 ans déjà, quand \[Hellgy\]([http://twitter.com/hellgy](http://twitter.com/hellgy "http://twitter.com/hellgy")) & \[Biou\]([https://twitter.com/biou](https://twitter.com/biou "https://twitter.com/biou")) t’on trouvé au bord de la route, abandonnée. Ne pouvant te garder ils t’on confié à moi, à l’époque encore à la FAC et en petit studio étudiant, avec un balcon que tu aimait tant et qui me rendez fou de te savoir pouvant tomber de plusieurs étages.
