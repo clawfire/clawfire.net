@@ -16,14 +16,10 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
-- type: list
-  name: tags
-  label: tags
-  config:
-    use_select: false
-    source:
-      type: documents
-      section: jekyll-posts
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags (will be used as categories)
 - type: text
   name: layout
   label: layout
