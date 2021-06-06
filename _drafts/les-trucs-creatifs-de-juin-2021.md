@@ -1,7 +1,9 @@
 ---
 date: 2021-06-30 13:24:48 +0200
 tags:
-- creatif
+- créatif
+- apps
+- vidéos
 layout: post
 title: Les trucs créatifs de Juin 2021
 featured_image: ''
