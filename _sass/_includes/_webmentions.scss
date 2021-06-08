@@ -1,4 +1,4 @@
-.webmentions {
+.webmentions-container {
   padding: 40px 60px 40px;
   margin-left: auto;
   margin-right: auto;
@@ -31,7 +31,6 @@
   font-size  : .8em;
   grid-column: 1;
   grid-row   : 1/2;
-  transition : all .15s ease-in-out;
 
   & img{
     filter: url(/images/duotone.svg#teal-white);
