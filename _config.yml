@@ -10,6 +10,9 @@ timezone:             "Europe/Brussels"
 author:
   twitter:            clawfire
 
+author:
+  twitter:            clawfire
+
 collections:
   pages:
     output:           true
