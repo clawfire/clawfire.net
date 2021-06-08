@@ -20,6 +20,7 @@
     position: absolute;
     top     : -.7em;
     left    : -.5em;
+    z-index: 1;
   }
 }
 
@@ -31,10 +32,12 @@
   grid-column: 1;
   grid-row   : 1/2;
   transition : all .15s ease-in-out;
-  filter: url(/images/duotone.svg#teal-white);
 
-  &:hover {
-    filer: none;
+  & img{
+    filter: url(/images/duotone.svg#teal-white);
+  }
+  &:hover img{
+    filter: none;
   }
 }
 
