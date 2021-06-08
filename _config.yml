@@ -1,63 +1,79 @@
 ---
-site: "Clawfire's Blog"
+site:                 "Clawfire's Blog"
+title:                "Clawfire's Blog"
+description:          "Humeurs, LGBT, geek, ... un peu de moi en somme."
 
-url: http://clawfire.net
+url:                  http://clawfire.net
 baseurl:
-timezone: "Europe/Brussels"
+timezone:             "Europe/Brussels"
 
 author:
-  twitter: clawfire
+  twitter:            clawfire
+
+author:
+  twitter:            clawfire
 
 collections:
   pages:
-    output: true
-    permalink: /:name
+    output:           true
+    permalink:        /:name
   posts:
-    output: true
-    permalink: /blog/:year/:month/:day/:slug
+    output:           true
+    permalink:        /blog/:year/:month/:day/:slug
   projects:
-    output: true
-    permalink: /project/:slug
+    output:           true
+    permalink:        /project/:slug
 
 defaults:
   -
     scope:
-      path: ""
+      path:           ""
     values:
-      layout: "default"
+      layout:         "default"
   -
     scope:
-      path: ""
-      type: "pages"
+      path:           ""
+      type:           "pages"
     values:
-      layout: "page"
+      layout:         "page"
   -
     scope:
-      path: ""
-      type: "posts"
+      path:           ""
+      type:           "posts"
     values:
-      layout: "post"
+      layout:         "post"
   -
     scope:
-      path: ""
-      type: "projects"
+      path:           ""
+      type:           "projects"
     values:
-      layout: "project"
+      layout:         "project"
 
-markdown: kramdown
+markdown:             kramdown
 
 kramdown:
-  input: GFM
+  input:              GFM
   syntax_highlighter: rouge
 
 sass:
-  style: compressed
+  style:              compressed
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-youtube
   - jekyll-feed
+  - jekyll-webmention_io
 
-paginate: 6
-paginate_path: "/page:num/"
+webmentions:
+  username:           clawfire.net
+  # skip bad URLs for 5 days
+  cache_bad_uris_for: 5
+
+paginate:             6
+paginate_path:        "/page:num/"
+
+include:
+  - _redirects
+feed:
+  tags:               true

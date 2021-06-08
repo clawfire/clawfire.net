@@ -1,0 +1,80 @@
+.webmentions {
+  padding: 40px 60px 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.webmentions__item {
+  list-style   : none;
+  margin-bottom: 40px;
+}
+
+.webmention {
+  position             : relative;
+  display              : grid;
+  grid-template-columns: 80px auto;
+  grid-template-rows   : minmax(80px, max-content) 10px;
+  column-gap           : 20px;
+
+  &::before {
+    position: absolute;
+    top     : -.7em;
+    left    : -.5em;
+    z-index: 1;
+  }
+}
+
+/**
+	WEBMENTION CONTENT
+**/
+.webmention__author {
+  font-size  : .8em;
+  grid-column: 1;
+  grid-row   : 1/2;
+  transition : all .15s ease-in-out;
+
+  & img{
+    filter: url(/images/duotone.svg#teal-white);
+  }
+  &:hover img{
+    filter: none;
+  }
+}
+
+.webmention__content {
+  grid-column: 2;
+  grid-row   : 1;
+}
+
+.webmention__meta {
+  grid-column: 2;
+  grid-row   : 2;
+  font-size  : .8em;
+  opacity    : .5;
+  transition : opacity .15s ease-in-out;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+/**
+	ICONS
+**/
+.webmention--like::before {
+  content: '❤️';
+}
+
+.webmention--repost::before {
+  content: '🔄';
+}
+
+.webmention--reply::before {
+  content: '💬';
+}
+/**
+	LIKES + REPOSTS hiding name (because of duplicate)
+**/
+:is(.webmention--like, .webmention--repost) .webmention__author .p-name {
+  display: none;
+}

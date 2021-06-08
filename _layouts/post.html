@@ -1,24 +1,31 @@
 ---
 layout: default
 ---
+<section class="h-entry">
+  <section class="intro">
 
-<section class="intro">
+    <div class="wrap">
 
-	<div class="wrap">
+      <h1 class="p-name">{{ page.title }}</h1>
+      <p><i class="fad fa-calendar"></i> <time class="dt-published" datetime="{{post.date}}">{{ page.date | date_to_long_string }}</time> <i class="fad fa-hashtag"></i> {{ page.tags | array_to_sentence_string }}</p>
 
-		<h1>{{ page.title }}</h1>
-		<p><i class="fad fa-calendar"></i> {{ page.date | date_to_long_string }} <i class="fad fa-hashtag"></i> {{ page.tags | array_to_sentence_string }}</p>
+    </div>
 
-	</div>
+  </section>
 
+  <section class="single">
+
+    <div class="wrap e-content">
+
+      {{ page.content }}
+
+    </div>
+
+  </section>
 </section>
-
-<section class="single">
-
-	<div class="wrap">
-
-		{{ page.content }}
-
-	</div>
-
+<section class="webmentions">
+  <h2>{% webmention_count page.url %} Webmentions</h2>
+  <small>There's no commenting software on my blog but you can post on Twitter or Mastodon with the link (or reply to a tweet/toot with the link) of this post and it will appears in the next build of the page.</small>
+  {% webmentions %}
 </section>
+{% webmentions_js %}
