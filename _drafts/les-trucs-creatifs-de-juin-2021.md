@@ -1,5 +1,5 @@
 ---
-date: 2021-06-30 13:24:48 +0200
+date: 2021-06-30T13:24:48.000+02:00
 tags:
 - créatif
 - apps
@@ -32,9 +32,23 @@ Pour le concours de [Miss Tourisme Luxembourg](https://www.misstourismeluxembour
 [Vous pouvez voir l'application ici](https://misstourismelux.glideapp.io/), avec seulement une candidate à l'heure où j'écris ce post
 
 <div class="gallery" data-columns="3">  
-  <img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-38-27.png">  
-  <img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-38-34.png">  
-  <img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-39-11.png">  
-  <img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-39-19.png">  
-  <img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-38-51.png">  
+<img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-38-27.png">  
+<img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-38-34.png">  
+<img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-39-11.png">  
+<img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-39-19.png">  
+<img src="/images/article_images/2021/06/capture-d-ecran-2021-06-06-a-13-38-51.png">  
 </div>
+
+***
+
+Je me suis aussi lancé à corps perdu dans la réalisation d'une application web, qui tourne complètement dans votre navigateur, pour lire votre certificat numérique européen COVID, déchiffrer les données et générer un passbook (une carte pour Apple Wallet): [covid19passbook](https://covid19passbook.netlify.app/).
+
+C'est open-source, n'importe qui peut voir le code qui tourne dans le navigateur et contrôler que c'est bien le code qui est déployé sur le serveur qui sert les pages pour votre smartphone / tablette / ordinateur.
+
+L'idée c'était d'avoir un vrai certificat numérique, et pas un papier, et de pouvoir l'avoir avec ses cartes d'embarquement & co. Toujours avec soi quoi.
+
+<div class="gallery" data-columns="2"> <img src="/images/article_images/2021/07/pxl_20210701_092633187.jpg"> <img src="/images/article_images/2021/07/pxl_20210701_092742716.jpg"> </div>
+
+Ma petite fierté c'est que ça ai été repris sur [le portail open-data du Grand Duché de Luxembourg](https://data.public.lu/) et aussi un peu dans la presse. 
+
+En plus, des gens sont venu se greffer sur ce projet open-source comme [@biou](https://twitter.com/biou?s=20) ou [@grichard](https://twitter.com/grischard?s=20) et je trouve cela trop méga super cool 😍
