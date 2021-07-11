@@ -6,7 +6,7 @@ tags:
 - vidéos
 layout: post
 title: Les trucs créatifs de Juin 2021
-featured_image: ''
+featured_image: "/images/article_images/2021/07/matthieu-comoy-koo_vyrlu_u-unsplash.jpeg"
 
 ---
 Complètement inspiré par [Hellgy](https://weblog.redisdead.net), je me suis dis que ça me ferait du bien de noter quelque-part tout les trucs un peu sympa que j'ai fait pour ne pas perdre de vue tout cela #journaling.
@@ -52,3 +52,5 @@ L'idée c'était d'avoir un vrai certificat numérique, et pas un papier, et de 
 Ma petite fierté c'est que ça ai été repris sur [le portail open-data du Grand Duché de Luxembourg](https://data.public.lu/) et aussi un peu dans la presse. 
 
 En plus, des gens sont venu se greffer sur ce projet open-source comme [@biou](https://twitter.com/biou?s=20) ou [@grichard](https://twitter.com/grischard?s=20) et je trouve cela trop méga super cool 😍
+
+Header photo by [Matthieu Comoy](https://unsplash.com/@alienwannabe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/creative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
