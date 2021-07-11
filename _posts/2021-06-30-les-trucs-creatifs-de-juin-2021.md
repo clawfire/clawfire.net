@@ -19,11 +19,11 @@ Des vidéos pour le Wicki Beach à Esch-sur-Alzette où [mon mec](http://djsanch
 
 Comme les soirées se font de 16h à 22h ou minuit, je voulais offrir la possibilité d'avoir des images qui accompagnent ses différentes phases et ne pas avoir des images trop brillantes le soir dans la pénombre qui feraient un effet "open air cinema" et rendrait moins sympa l'expérience des clients.
 
-<iframe width="640" height="360" src="[https://www.youtube-nocookie.com/embed/gpo7ol1pyvg](https://www.youtube-nocookie.com/embed/gpo7ol1pyvg "https://www.youtube-nocookie.com/embed/gpo7ol1pyvg")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gpo7ol1pyvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="[https://www.youtube-nocookie.com/embed/epN8_SgAyPo](https://www.youtube-nocookie.com/embed/epN8_SgAyPo "https://www.youtube-nocookie.com/embed/epN8_SgAyPo")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/epN8_SgAyPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="640" height="360" src="[https://www.youtube-nocookie.com/embed/9LFbd_-ATmk](https://www.youtube-nocookie.com/embed/9LFbd_-ATmk "https://www.youtube-nocookie.com/embed/9LFbd_-ATmk")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/9LFbd_-ATmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apps
 
