@@ -63,12 +63,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-youtube
   - jekyll-feed
-  - jekyll-webmention_io
-
-webmentions:
-  username:           clawfire.net
-  # skip bad URLs for 5 days
-  cache_bad_uris_for: 5
 
 paginate:             6
 paginate_path:        "/page:num/"

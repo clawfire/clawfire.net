@@ -21,13 +21,8 @@ layout: default
 
     </div>
 
+    <script defer src="https://c.thibau.lt/js/commento.js"></script>
+    <section id="commento"></section>
+
   </section>
 </section>
-<section class="webmentions-container">
-  <h2>{% webmention_count page.url %} Webmentions</h2>
-  <small>There's no commenting software on my blog but you can post on Twitter or Mastodon with the link (or reply to a tweet/toot with the link) of this post and it will appears in the next build of the page.</small>
-  <div class="webmentions">
-    {% webmentions %}
-  </div>
-</section>
-{% webmentions_js %}
