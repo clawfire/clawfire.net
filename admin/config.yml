@@ -1,6 +1,7 @@
 backend:
   name:        git-gateway
   use_large_media_transforms_in_media_library: false
+  squash_merges: true
   branch:      master # Branch to update (optional; defaults to master)
 
 locale: 'fr'
@@ -8,7 +9,8 @@ site_url:      https://clawfire.net
 media_folder:  "images/article_images" # Media files will be stored in the repo under images/uploads
 
 collections:
-  - label:     "Blog"
+  - label:     "Blog Posts"
+    label_singular: "Blog Post"
     name:      "blog"
     folder:    "_posts"
     extension: "md"
