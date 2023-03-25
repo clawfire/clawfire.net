@@ -1,7 +1,9 @@
 backend:
   name:        git-gateway
+  use_large_media_transforms_in_media_library: false
   branch:      master # Branch to update (optional; defaults to master)
 
+locale: 'fr'
 site_url:      https://clawfire.net
 media_folder:  "images/article_images" # Media files will be stored in the repo under images/uploads
 
@@ -9,10 +11,14 @@ collections:
   - label:     "Blog"
     name:      "blog"
     folder:    "_posts"
-    extension: "markdown"
+    extension: "md"
+    frontmatter: "frontmatter"
     slug:      "{{year}}-{{month}}-{{day}}-{{title}}"
     summary:   "{{year}}/{{month}}/{{day}} {{title}}"
+    preview_path: "blog/{{slug}}"
     create:    true
+    editor:
+      preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -20,3 +26,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", default: ["news"], required: false }
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+    view_groups:
+      - label: Year
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
