@@ -4,9 +4,11 @@ backend:
   squash_merges: true
   branch:      master # Branch to update (optional; defaults to master)
 
+
 locale: 'fr'
 site_url:      https://clawfire.net
 media_folder:  "images/article_images" # Media files will be stored in the repo under images/uploads
+publish_mode:  editorial_workflow
 
 collections:
   - label:     "Blog Posts"
