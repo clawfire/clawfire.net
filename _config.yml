@@ -77,21 +77,20 @@ prose:
   media: /images/article_images
 	ignore: 
     	- /_includes
-        - /_layouts
-        - /_sass
-        - /admin
-        - /css
-        - /images
-        - /js
-        - .editorconfig
-        - .gitignore
-        - Gemfile
-        - Gemfile.lock
-        - _LICENSE.md
-        - _README.md
-        - clawfires-blog.ghost.2016-07-16.json
-        _ /.forestry
-        
+      - /_layouts
+      - /_sass
+      - /admin
+      - /css
+      - /images
+      - /js
+      - .editorconfig
+      - .gitignore
+      - Gemfile
+      - Gemfile.lock
+      - _LICENSE.md
+      - _README.md
+      - clawfires-blog.ghost.2016-07-16.json
+      _ /.forestry
 	metadata:
       _posts:
           - name: "layout"
