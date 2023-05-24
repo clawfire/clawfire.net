@@ -73,8 +73,8 @@ feed:
   tags:               true
 
 prose:
-  siteurl: 'https://clawfire.net'
-  media: /images/article_images
+  siteurl: "https://clawfire.net"
+  media: "/images/article_images"
 	ignore: 
     	- /_includes
       - /_layouts
