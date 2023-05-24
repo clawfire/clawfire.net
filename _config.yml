@@ -1,118 +1,100 @@
 ---
-site:                 "Clawfire's Blog"
-title:                "Clawfire's Blog"
-description:          "Humeurs, LGBT, geek, ... un peu de moi en somme."
-
-url:                  http://clawfire.net
-baseurl:
-timezone:             "Europe/Brussels"
-
+site: Clawfire's Blog
+title: Clawfire's Blog
+description: Humeurs, LGBT, geek, ... un peu de moi en somme.
+url: http://clawfire.net
+baseurl: null
+timezone: Europe/Brussels
 author:
-  twitter:            clawfire
-
-author:
-  twitter:            clawfire
-
+  twitter: clawfire
 collections:
   pages:
-    output:           true
-    permalink:        /:name
+    output: true
+    permalink: /:name
   posts:
-    output:           true
-    permalink:        /blog/:year/:month/:day/:slug
+    output: true
+    permalink: /blog/:year/:month/:day/:slug
   projects:
-    output:           true
-    permalink:        /project/:slug
-
+    output: true
+    permalink: /project/:slug
 defaults:
-  -
-    scope:
-      path:           ""
+  - scope:
+      path: ""
     values:
-      layout:         "default"
-  -
-    scope:
-      path:           ""
-      type:           "pages"
+      layout: default
+  - scope:
+      path: ""
+      type: pages
     values:
-      layout:         "page"
-  -
-    scope:
-      path:           ""
-      type:           "posts"
+      layout: page
+  - scope:
+      path: ""
+      type: posts
     values:
-      layout:         "post"
-  -
-    scope:
-      path:           ""
-      type:           "projects"
+      layout: post
+  - scope:
+      path: ""
+      type: projects
     values:
-      layout:         "project"
-
-markdown:             kramdown
-
+      layout: project
+markdown: kramdown
 kramdown:
-  input:              GFM
+  input: GFM
   syntax_highlighter: rouge
-
 sass:
-  style:              compressed
-
+  style: compressed
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-youtube
   - jekyll-feed
-
-paginate:             6
-paginate_path:        "/page:num/"
-
+paginate: 6
+paginate_path: /page:num/
 include:
   - _redirects
 feed:
-  tags:               true
-
+  tags: true
 prose:
-  siteurl: "https://clawfire.net"
-  media: "/images/article_images"
-	ignore: 
-    	- /_includes
-      - /_layouts
-      - /_sass
-      - /admin
-      - /css
-      - /images
-      - /js
-      - .editorconfig
-      - .gitignore
-      - Gemfile
-      - Gemfile.lock
-      - _LICENSE.md
-      - _README.md
-      - clawfires-blog.ghost.2016-07-16.json
-      _ /.forestry
-	metadata:
-      _posts:
-          - name: "layout"
-            field: 
-              element: "hidden"
-              value: "post"
-          - name: "title"
-            field:
-              element: "text"
-              label: "Title"
-          - name: "date"
-            field:
-              element: "text"
-              label: "Publication date"
-              help: "If in the future, post will not be displayed until site has been rebult and date passed"
-              value: CURRENT_DATETIME
-          - name: "featured_image"
-            field:
-              element: "text"
-              label: "Featured Image"
-          - name: "tags"
-            field: 
-              element: "text"
-              label: "Tags"
-    	
+  siteurl: https://clawfire.net
+  media: /images/article_images
+  ignore:
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /admin
+    - /css
+    - /images
+    - /js
+    - .editorconfig
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - _LICENSE.md
+    - _README.md
+    - clawfires-blog.ghost.2016-07-16.json
+    - /.forestry
+  metadata:
+    _posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: title
+        field:
+          element: text
+          label: Title
+      - name: date
+        field:
+          element: text
+          label: Publication date
+          help: If in the future, post will not be displayed until site has been rebult
+            and date passed
+          value: CURRENT_DATETIME
+      - name: featured_image
+        field:
+          element: text
+          label: Featured Image
+      - name: tags
+        field:
+          element: text
+          label: Tags
