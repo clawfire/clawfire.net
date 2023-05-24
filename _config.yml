@@ -92,3 +92,28 @@ prose:
         - clawfires-blog.ghost.2016-07-16.json
         _ /.forestry
         
+	metadata:
+      _posts:
+          - name: "layout"
+            field: 
+              element: "hidden"
+              value: "post"
+          - name: "title"
+            field:
+              element: "text"
+              label: "Title"
+          - name: "date"
+            field:
+              element: "text"
+              label: "Publication date"
+              help: "If in the future, post will not be displayed until site has been rebult and date passed"
+              value: CURRENT_DATETIME
+          - name: "featured_image"
+            field:
+              element: "text"
+              label: "Featured Image"
+          - name: "tags"
+            field: 
+              element: "text"
+              label: "Tags"
+    	
