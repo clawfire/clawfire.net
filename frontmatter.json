@@ -1,0 +1,69 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "featured_image",
+          "name": "featured_image",
+          "type": "image"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "images/article_images",
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.website.host": "https://clawfire.net",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Drafts",
+      "path": "[[workspace]]/_drafts"
+    },
+    {
+      "title": "Posts",
+      "path": "[[workspace]]/_posts"
+    },
+    {
+      "title": "Pages",
+      "path": "[[workspace]]/_pages"
+    },
+    {
+      "title": "Projets",
+      "path": "[[workspace]]/_projects"
+    }
+  ]
+}
