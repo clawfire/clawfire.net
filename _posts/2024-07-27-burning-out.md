@@ -11,7 +11,7 @@ tags:
 categories: []
 layout: post
 slug: burning-out
-type: default
+type: Post
 ---
 
 Le burnout est un syndrome psychologique causé par un stress prolongé au travail, caractérisé par l'épuisement émotionnel, la dépersonnalisation et le manque d'accomplissement personnel. Il peut être influencé par des facteurs professionnels, personnels et de vie. La prise en charge du burnout implique souvent une approche combinée, incluant un soutien psychologique, des ajustements au travail et des pratiques de bien-être personnel.
@@ -23,6 +23,7 @@ Le burnout est un syndrome psychologique causé par un stress prolongé au trava
 Le burnout peut être identifié à travers divers symptômes émotionnels, cognitifs, physiques et comportementaux tels que l'épuisement émotionnel, l'attitude cynique envers le travail, la diminution de l'efficacité professionnelle, les troubles du sommeil, les problèmes de concentration, l'irritabilité et la baisse de l'estime de soi. Des tests en ligne comme l'Échelle de Maslach Burnout Inventory peuvent aider à évaluer la présence de burnout, mais ils ne sont pas infaillibles. Une expérience antérieure de burnout peut faciliter la reconnaissance des signes avant-coureurs.
 
 ---
+
 ## Mon premier burnout
 
 Mon premier burnout remonte à il y a quelques années, autour des années 2010-2011 si je me rappelle bien. C’était lors de mon premier emploi au Luxembourg 🇱🇺, fraîchement diplômé de l'université et travaillant pour une petite agence super nommée Empowebo. J'étais le seul développeur de l'équipe et je devais jongler entre des projets de développement pour des clients (du Wordpress ou du code sur mesure), la maintenance opérationnelle de nos sites (notamment la maintenance de Wordpress), et bien sûr les différents projets de design associés. Bref, pas mal de choses finalement, pas forcément hors de portée pour moi, mais qui nécessitaient beaucoup d'organisation.
