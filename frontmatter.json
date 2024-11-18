@@ -38,6 +38,44 @@
           "default": "post"
         }
       ]
+    },
+    {
+      "name": "Page",
+      "pageBundle": true,
+      "previewPath": "/",
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "subtitle",
+          "name": "subtitle",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "featured_image",
+          "name": "featured_image",
+          "type": "image"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string",
+          "default": "page"
+        },
+        {
+          "title": "permalink",
+          "name": "permalink",
+          "type": "string"
+        }
+      ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
@@ -61,5 +99,6 @@
       "title": "Projets",
       "path": "[[workspace]]/_projects"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }

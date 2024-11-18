@@ -1,7 +1,9 @@
 ---
 title: About
-permalink: "/about/"
+permalink: /about/
 layout: page
+fmContentType: Page
+slug: ""
 ---
 
 J'ai <span id="myAge">environ 30</span> ans.
@@ -16,22 +18,30 @@ J'aborde aussi les thématiques liées à l'homosexualité, les MST, en particul
 
 J'ai des affinités avec le Parti Pirate (France - Section Expat) mais je n'ai malheureusement pas assez de temps à leur consacrer pour être un membre actif. Le reste de mes activités et de mes passions me prends tout mon temps, sans compter les nombreux déplacements dans l'Europe tout au long de l'année.
 
-J'utilise PGP, ma clé est `AB98FAC4` et j'utilise également [Keybase]. Si vous n'utilisez rien de tout cela mais que vous voulez quand même m'écrire de façon sécurisée, vous pouvez utiliser le [formulaire de contact](/contact/) qui inclus une version web de GPG qui chifrera votre message avant son envoi.
+J'utilise PGP, ma clé est `AB98FAC4`. Si vous n'utilisez rien de tout cela mais que vous voulez quand même m'écrire de façon sécurisée, vous pouvez utiliser le [formulaire de contact](/contact/) qui inclus une version web de GPG qui chifrera votre message avant son envoi.
 
 J'utilise [FontAwesome] pour les icons de ce site, ma photo principale est de [Hellgy] et les fonts du projet [Google Fonts][google fonts] (désolé si cela leur permet de vous suivre en ligne).
 
 Je track le moins de choses possibles sur vous, c'est pour cela que je n'ai pas de service d'analytics. Malheuresement, les polices de caractères fournies par Google leur permettent de vous tracer. J'espère pouvoir résoudre cela un jour.
 
 <script type="text/javascript">
-function generateAge() {
-  var date = ( ( Date.now() - new Date(1988,07,02) ) / 1000 / (60*60*24 ) / 360 );
-  date = date.toString();
-  return date.substr(0,13);
+function calculateAge(birthDate) {
+  const now = new Date();
+  const birth = new Date(birthDate);
+  const diff = now - birth;
+  const years = diff / (1000 * 60 * 60 * 24 * 365.25);
+  return years.toFixed(10);
 }
-function writeAge() {
-  document.getElementById('myAge').innerHTML = generateAge();
+
+function updateAge() {
+  const birthDate = '1988-08-02'; // YYYY-MM-DD format
+  const age = calculateAge(birthDate);
+  document.getElementById('myAge').textContent = age;
 }
-window.setInterval(writeAge,1);
+
+// Update age immediately and then every 0.2 seconds
+updateAge();
+setInterval(updateAge, 100);
 </script>
 
 [mr bear 2016 fb]: https://www.facebook.com/mr.bear.luxembourg/
@@ -45,7 +55,5 @@ window.setInterval(writeAge,1);
 [google fonts]: https://fonts.google.com/
 
 [fontawesome]: https://fontawesome.com/
-
-[keybase]: https://keybase.io/clawfire
 
 [wr]: https://weare.lu
