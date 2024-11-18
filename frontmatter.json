@@ -36,6 +36,11 @@
           "name": "layout",
           "type": "string",
           "default": "post"
+        },
+        {
+          "title": "subtitle",
+          "name": "subtitle",
+          "type": "string"
         }
       ]
     },
