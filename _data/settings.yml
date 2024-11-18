@@ -25,7 +25,7 @@ contact_settings:
   send_button_text: Send Message
 social_settings:
   facebook_url: ''
-  twitter_url: https://twitter.com/clawfire
+  twitter_url: ''
   instagram_url: https://instagram.com/clawfire
   snapchat_url: ''
   youtube_url: ''
@@ -74,20 +74,20 @@ font_settings:
     medium_size: 30
     large_size: 35
     weight: 400
-    letter_spacing: 
+    letter_spacing:
   site_tagline:
     small_size: 16
     medium_size: 17
     large_size: 18
     weight: 400
-    letter_spacing: 
+    letter_spacing:
     line_height: 1.5
   menu:
     small_size: 30
     medium_size: 17
     large_size: 18
     weight: 400
-    letter_spacing: 
+    letter_spacing:
   h1:
     small_size: 25
     medium_size: 35
@@ -114,28 +114,28 @@ font_settings:
     medium_size: 22
     large_size: 22
     weight: 400
-    letter_spacing: 
+    letter_spacing:
     line_height: 1.6
   h5:
     small_size: 17
     medium_size: 20
     large_size: 20
     weight: 400
-    letter_spacing: 
+    letter_spacing:
     line_height: 1.6
   h6:
     small_size: 17
     medium_size: 20
     large_size: 20
     weight: 400
-    letter_spacing: 
+    letter_spacing:
     line_height: 1.6
   p:
     small_size: 16
     medium_size: 18
     large_size: 20
     weight: 400
-    letter_spacing: 
+    letter_spacing:
     line_height: 1.6
   blockquote:
     small_size: 25
@@ -146,7 +146,7 @@ font_settings:
     line_height: 1.6
   buttons:
     weight: 600
-    letter_spacing: 
+    letter_spacing:
 advanced_settings:
   ajax_loading: false
   analytics_code: ''
