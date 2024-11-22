@@ -105,5 +105,26 @@
       "path": "[[workspace]]/_projects"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.snippets.wrapper.enabled": false,
+  "frontMatter.content.snippets": {
+    "Picture Gallery": {
+      "description": "",
+      "body": "<div class=\"gallery\" data-columns=\"[[nb_columns]]\"><img src=\"[[&mediaUrl]]\" alt=\"[[&alt]]\"/></div>",
+      "isMediaSnippet": true,
+      "fields": [
+        {
+          "name": "nb_columns",
+          "title": "Number of columns",
+          "type": "number",
+          "default": 3
+        }
+      ]
+    },
+    "plop": {
+      "description": "",
+      "body": "test",
+      "fields": []
+    }
+  }
 }
