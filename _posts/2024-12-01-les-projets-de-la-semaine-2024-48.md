@@ -32,7 +32,7 @@ Si vous vous rappelez, j'en parlais dans le blogpost de la semaine dernière, [j
 
 ## Webinaire sur l'impact de l'IA
 
-J'ai animé un [webinaire sur l'impact de l'IA pour les développeurs](https://thibaultmilan.com/blog/2024/11/27/retex-llm4dev-transformez-la-performance-de-vos-%C3%A9quipes-avec-l'ia-gen/), un projet sur lequel je travaille depuis plus d'un an et une étude de six mois sur une population de développeurs·euses. Le replay est déjà disponible, mais j'essaie de garder mes week-ends sans emails du boulot. Update à venir de ce post avec le lien.
+J'ai animé un [webinaire sur l'impact de l'IA pour les développeurs](https://thibaultmilan.com/blog/2024/11/27/retex-llm4dev-transformez-la-performance-de-vos-%C3%A9quipes-avec-l'ia-gen/), un projet sur lequel je travaille depuis plus d'un an et une étude de six mois sur une population de développeurs·euses. Le [replay est déjà disponible en lgine et en français](https://smile.eu/fr/publications-et-evenements/replay-retex-llm4dev). N'hésitez pas à me faire vos retours directement dans les commentaires ou via mon formulaire de contact si le coeur vous en dis.
 
 ## J'arrète les soirées LGBTQ+
 
