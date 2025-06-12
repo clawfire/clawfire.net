@@ -41,6 +41,11 @@
           "title": "subtitle",
           "name": "subtitle",
           "type": "string"
+        },
+        {
+          "title": "fmContentType",
+          "name": "fmContentType",
+          "type": "string"
         }
       ]
     },
