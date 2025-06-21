@@ -2,7 +2,6 @@
 title: Pourquoi j'ai choisi le Chargemap Pass pour mes trajets
 description: Découvrez pourquoi le Chargemap Pass est devenu essentiel pour mes trajets en électromobilité, alliant économies et simplicité d'accès.
 date: 2025-06-12T20:24:14.840Z
-featured_image: ""
 tags:
   - Chargemap
   - Service Client
@@ -10,6 +9,7 @@ tags:
 layout: post
 subtitle: ""
 featured_image: images/article_images/2025/06/Chargemap-Pass-2.jpg
+lastmod: 2025-06-21T17:24:35.772Z
 ---
 Cela fait plusieurs années que j’utilise les services de [Chargemap](https://chargemap.com/), initialement pour leur cartographie collaborative des bornes de recharge. C’est un outil éprouvé, très utilisé dans la communauté électromobiliste, et qui m’a accompagné dans la quasi-totalité de mes trajets longue distance, du Luxembourg jusqu’à l’Andalousie. Ce n’est pourtant qu’après un changement de contexte énergétique que j’ai franchi le pas vers leur [Chargemap Pass](https://chargemap.com/pass/purchase), motivé par des considérations économiques et pratiques — et je ne l’ai pas regretté.
 
