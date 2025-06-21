@@ -1,7 +1,7 @@
 ---
 title: "Moi et les apps : entre fantasmes, fétiches et fragments d’humanité queer"
 description: Une interview introspective et ironique sur mon rapport aux apps de rencontre gay et fétiches — entre validation, exploration de soi et pressions invisibles.
-date: 2025-06-21T17:52:54.731Z
+date: 2025-06-23T17:52:54.000Z
 featured_image: /images/article_images/2025/06/Me_and_the_apps.png
 tags:
   - apps de rencontre
