@@ -1,14 +1,40 @@
-name: Daily Netlify Rebuild
+name: Trigger Netlify build if today matches
 
 on:
   schedule:
-    - cron: '5 0 * * *' # Tous les jours à 00:05 UTC
-  workflow_dispatch: # Permet de le lancer manuellement si besoin
+    - cron: '5 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  rebuild:
+  check-and-trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Netlify build hook
+      - uses: actions/checkout@v4
+
+      - name: Download next build date
+        uses: actions/download-artifact@v4
+        with:
+          name: next-build
+          path: .
+
+      - name: Trigger build if date matches
         run: |
-          curl -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
+          if [ ! -f next-build.txt ]; then
+            echo "No next-build.txt found"
+            exit 0
+          fi
+
+          NEXT=$(cat next-build.txt)
+          TODAY=$(date '+%Y-%m-%d')
+
+          if [ "$NEXT" == "none" ]; then
+            echo "Aucune build planifiée."
+            exit 0
+          fi
+
+          if [ "$NEXT" == "$TODAY" ]; then
+            echo "✅ Build Netlify déclenchée pour aujourd'hui."
+            curl -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
+          else
+            echo "⏳ Rien à faire aujourd’hui. Prochaine build le $NEXT."
+          fi
