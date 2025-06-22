@@ -1,0 +1,37 @@
+name: Prepare next Netlify build date
+
+on:
+  push:
+    paths:
+      - "_posts/**.md"
+
+jobs:
+  extract-next-build-date:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Extract future post date
+        run: |
+          TODAY=$(date '+%Y-%m-%d')
+          FUTURE_DATES=()
+          for FILE in $(git diff --name-only HEAD^ HEAD | grep '\.md$'); do
+            [ -f "$FILE" ] || continue
+            POST_DATE=$(grep '^date:' "$FILE" | head -n1 | sed -E 's/date: *"?([0-9]{4}-[0-9]{2}-[0-9]{2}).*/\1/')
+            if [[ "$POST_DATE" > "$TODAY" ]]; then
+              FUTURE_DATES+=("$POST_DATE")
+            fi
+          done
+
+          if [ ${#FUTURE_DATES[@]} -gt 0 ]; then
+            NEXT_DATE=$(printf "%s\n" "${FUTURE_DATES[@]}" | sort | head -n1)
+            echo "$NEXT_DATE" > next-build.txt
+          else
+            echo "none" > next-build.txt
+          fi
+
+      - name: Upload next build date
+        uses: actions/upload-artifact@v4
+        with:
+          name: next-build
+          path: next-build.txt
