@@ -2,6 +2,11 @@
 layout: post
 title: "(Ré)aménagement"
 date: '2011-03-28 14:35:04'
+tags: []
+categories:
+- Vie Quotidienne
+- Personnel
+
 ---
 
 <img src="https://farm6.static.flickr.com/5022/5558519004_60e137f8cd.jpg" alt="Nouvelle organisation de ma chambre bureau" />

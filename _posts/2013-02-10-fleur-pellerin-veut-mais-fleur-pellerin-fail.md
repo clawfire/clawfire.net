@@ -2,6 +2,10 @@
 layout: post
 title: Fleur Pellerin veut, mais Fleur Pellerin fail
 date: '2013-02-10 21:37:32'
+tags: []
+categories:
+- Personnel
+
 ---
 
 En rattrapant ma lecture des news que je n’ai pus lire cette semaine, devinez sur quoi je tombe ? Une news sur Fleur Pellerin. Et une fois n’est pas coutume-mais-en-fait-si je lis que notre belle ministre à envie de faire un truc bien mais s’y prends comme un manche. Une fois de plus. Ca deviens une habitude.

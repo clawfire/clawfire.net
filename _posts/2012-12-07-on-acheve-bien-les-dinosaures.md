@@ -3,9 +3,12 @@ layout: post
 title: On achève bien les dinosaures
 date: '2012-12-07 22:36:49'
 tags:
-- droit
-- internet
-- libertes
+- Droit
+- Web
+categories:
+- Tech
+- Société
+
 ---
 
 Oui je ne le foule pas sur le titre hein ? Y a du laisse allé. Mais comme en veux vous parler de <a href="http://owni.fr/2012/10/25/on-acheve-bien-les-dinosaures/">l'article éponyme parut</a> sur owni.fr vous ne m'en voudrais pas trop hein ?

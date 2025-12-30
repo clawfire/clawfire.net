@@ -4,9 +4,10 @@ title: Inspirer la confiance
 date: '2011-11-19 16:47:00'
 tags:
 - '99'
-- indignes
-- occupy
-- occupy-ladefence
+- Politique
+categories:
+- Société
+
 ---
 
 Quand cette campagne de publicité à démarré (comprendre quand elle a pointé son nez dans mon quotidien) j'ai d'abord trouver l'idée sympa. Sous forme de plusieurs écussons (c'est bien ça hein ?) l'armée (de terre ?) tente de faire un peu sa pub et d'attirer du monde dans ses campagnes de recrutements. Soit.<!--more-->

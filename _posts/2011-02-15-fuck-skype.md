@@ -2,6 +2,10 @@
 layout: post
 title: Fuck Skype
 date: '2011-02-15 12:41:45'
+tags: []
+categories:
+- Personnel
+
 ---
 
 Comme si cela ne suffisait pas de passer une journée de merde totale, de ne pas arriver à bosser au boulot, de commencer la journée en larmes , il faut que skype me notifie qu'un contact <strong>bloqué</strong> viens de se connecter en prenant soin de me montrer sa photo … un ex.

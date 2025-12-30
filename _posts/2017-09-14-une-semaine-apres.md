@@ -3,8 +3,10 @@ layout: post
 title: Une semaine après
 date: '2017-09-14 13:34:02 +0200'
 tags:
-  - me
-  - couple
+- Personnel
+categories:
+- Personnel
+
 ---
 
 Une semaine après je ne sais pas si tout va mieux. C'est plus calme en tout cas. L'orage est passé, on constate les dégats qu'il a fait et on se demande si l'on va pouboir réparer tout cela. Si cela vaut le coup ou non. Je parle d'orage mais c'était plutôt un séisme. Avec des répliques. Plus petites.

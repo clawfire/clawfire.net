@@ -3,8 +3,10 @@ layout: post
 title: The Message from the Lungs
 date: '2015-07-24 22:13:36'
 tags:
-- ads
-- prevention
+- Publicité
+categories:
+- Personnel
+
 ---
 
 Dans le genre des campagnes de pub qui te caresse la joue avec une bâte de baseball tellement elles sont fortes, je vous présente _The Message from the Lungs_ . 

@@ -1,12 +1,15 @@
 ---
 date: 2021-06-30T13:24:48.000+02:00
-tags:
-- créatif
-- apps
-- vidéos
 layout: post
 title: Les trucs créatifs de Juin 2021
 featured_image: "/images/article_images/2021/07/matthieu-comoy-koo_vyrlu_u-unsplash.jpeg"
+tags:
+- Applications
+- Créativité
+- Vidéo
+categories:
+- Culture
+- Tech
 
 ---
 Complètement inspiré par [Hellgy](https://weblog.redisdead.net), je me suis dis que ça me ferait du bien de noter quelque-part tout les trucs un peu sympa que j'ai fait pour ne pas perdre de vue tout cela #journaling.

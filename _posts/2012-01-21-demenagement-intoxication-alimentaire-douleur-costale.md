@@ -2,6 +2,10 @@
 layout: post
 title: Déménagement, Intoxication Alimentaire & Douleur Costale
 date: '2012-01-21 21:45:41'
+tags: []
+categories:
+- Personnel
+
 ---
 
 <p style="text-align: justify;">Retour il y a deux semaines bientôt, on est le 9 est l'appartement est remplis de carton. 9h direction le centre Leclerc le plus proche pour louer un 20m3 où entasser notre vie.</p>

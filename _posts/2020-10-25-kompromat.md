@@ -4,8 +4,10 @@ layout: post
 title: 'Kompromat '
 featured_image: "/images/article_images/2020/10/pxl_20201024_183932263-night.jpg"
 tags:
-- music
-- concert
+- Concert
+- Musique
+categories:
+- Culture
 
 ---
 Samedi dernier j'ai revu ma meilleure amie de l'université et ancienne colloc' pour aller voir Kompromat, association explosive de [Vitalic](https://fr.wikipedia.org/wiki/Vitalic) et [Rebeka Warrior](https://fr.wikipedia.org/wiki/Julia_Lano%C3%AB) (Sexy Sushi) qui avaient déjà travaillé ensemble sur le titre "La mort sur le Dancefloor" que j'aime tant.

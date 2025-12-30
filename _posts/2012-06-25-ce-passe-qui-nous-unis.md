@@ -2,6 +2,10 @@
 layout: post
 title: Ce passé qui nous unis
 date: '2012-06-25 14:36:20'
+tags: []
+categories:
+- Personnel
+
 ---
 
 Dure est la réalité, surtout quand vous ne voulez pas la voir en face mais qu'elle trouve le moyen de s'imposer à vous.

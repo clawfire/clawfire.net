@@ -3,11 +3,12 @@ layout: post
 title: Moelleux à la carotte
 date: '2011-02-21 19:37:14'
 tags:
-- cake
-- carotte
-- dukan
-- moelleux
-- recette
+- Cuisine
+- Régime
+categories:
+- Santé
+- Vie Quotidienne
+
 ---
 
 <p><img src="https://farm6.static.flickr.com/5053/5465877142_5f7e080d80.jpg" alt="Mouelleux à la carotte" />

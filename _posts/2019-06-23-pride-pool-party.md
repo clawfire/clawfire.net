@@ -2,9 +2,13 @@
 title: Pride Pool party
 date: 2019-06-23T21:00:00.000Z
 featured_image: /images/article_images/pano_20190619_203425.jpg
-tags:
-  - party
   - event
+tags:
+- Fête
+categories:
+- LGBT+
+- Culture
+
 ---
 
 Alors qu'on prépare tranquillement la soirée de cloture de la pride avec le collectif [We Are Family](http://weare.lu), on a été faire un tour avec toute la bande pour découvrir le [Red Sauna](http://redsauna.fr) à Uckange afin de faire le repérage pour la Pool Party qu'on organise le lendemain, dimanche 14. [Les tickets sont en vente en ligne](https://tickets.bears.lu/e/21/luxembourg-city-pride?ref=thibault), on a même organisé un service de bus 😜.

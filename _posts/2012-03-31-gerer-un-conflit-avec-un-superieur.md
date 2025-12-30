@@ -2,6 +2,10 @@
 layout: post
 title: Gérer un conflit avec un supérieur
 date: '2012-03-31 17:40:25'
+tags: []
+categories:
+- Personnel
+
 ---
 
 L'autre jour, le graphiste là où je bosse se fait remonter les bretelles par le big boss car il avait publié dans son book des logos (rejetés) comportant le nom d'un produit pas encore sur le marché. Erreur de sa part qu'il justifiera par un "je ne savais pas que c'était pas encore en ligne" et où l'on passera le fait que c'est déjà en ligne mais que la boite ne souhaite pas encore communiquer plus que cela dessus ... Sur le fond, qu'il se fasse recadrer, je trouve cela normal. Il a commis une faute et le boss le remets un peu en place bon ...

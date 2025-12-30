@@ -4,8 +4,11 @@ layout: post
 title: La crise du Coronavirus au Luxembourg - EP 01
 featured_image: "/images/article_images/2020/07/united-nations-covid-19-response-65z9_tx5es-unsplash.jpg"
 tags:
+- Covid19
 - Luxembourg
-- COVID-19
+categories:
+- Société
+- Vie Quotidienne
 
 ---
 La bêtise mondialisée autour du COVID-19 me donne envie d’écrire un petit peu sur comment, dans mon pays, nous vivons cela et essayons de gérer au mieux cette crise sanitaire sans précédent de mémoire de vivants.

@@ -2,10 +2,13 @@
 layout: post
 title: "Installer Google Drive Stream File sur macOS"
 date: "2018-05-03 11:38:23 +0200"
-tags:
-  - Astuce
-  - Nerdz
 featured_image: https://unsplash.com/photos/2wFRkQFDxS0/download
+tags:
+- Astuces
+- Tech
+categories:
+- Tech
+
 ---
 J'ai récemment eu un nouveau mac pour le taf, et bien que j'utilise homebrew pour tout installer rapidement sur mon mac, en plus qu'un petit dépot de code avec mes dotfiles, j'ai eu un petit soucis quand il est venu le temps de lancer l'outil de synchronisation Google Drive : Google Drive Stream File.
 

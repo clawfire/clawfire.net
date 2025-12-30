@@ -3,13 +3,12 @@ layout: post
 title: 'Evergig : TYP'
 date: '2013-02-03 19:17:35'
 tags:
-- christophe-willem
-- evergig
-- music
-- musique
-- typ
-- typ-band
-- wiklem
+- Musique
+- Projets
+categories:
+- Culture
+- Projets
+
 ---
 
 Je vous parlais l'autre jour de TYP, et bien j'ai découvert un super service lors de leur promotion de leur concert à Paris ( soit dit en passant, quand ils passeront un jour ici, j'irais jouer l'hystérique dans la fosse, <a href="https://twitter.com/romainmuller"><span>@<span>romainmuller</span></span></a> et <a href="https://twitter.com/erion57">@erion57</a> n'ont qu'à bien se tenir ).

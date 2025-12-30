@@ -2,6 +2,10 @@
 layout: post
 title: Comparacteur
 date: '2012-04-14 17:27:25'
+tags: []
+categories:
+- Personnel
+
 ---
 
 <p style="text-align: justify;">Il y a un peu plus de 2 semaines, je découvrais le <a href="http://comparacteur.politique.com/">comparacteur</a>, <del>petit site web</del> énorme travail d'un confrère à grand renforts de <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> qui permet de noter de -3 à +3 les propositions des candidats celons divers thèmes (ou divers candidats … comprendre qu'on peut exclure les plus improbables … Lepen &amp; Sarko c'est pour vous). Il est également possible de faire <strong>TOUTES</strong> les propositions de <strong>tout les candidats</strong> mais accrochez vous.</p>

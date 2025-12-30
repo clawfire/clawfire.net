@@ -2,10 +2,13 @@
 title: "State of Trance 1000 à Utrecht: Une célébration épique de la musique trance"
 date: 2023-03-25T15:13:33.146Z
 featured_image: /images/article_images/pxl_20230304_210320141.jpg
-tags:
-  - music
-  - festival
 layout: post
+tags:
+- Festival
+- Musique
+categories:
+- Culture
+
 ---
 Le 4 mars dernier, la ville d'Utrecht a été le théâtre d'une expérience musicale unique en son genre : la célébration du 1000ème épisode de l'émission de radio légendaire "A State of Trance" (ASOT), et ce avec quasiment un an de retard du au COVID19. Menée par le maestro de la trance, Armin van Buuren, cette soirée mémorable a rassemblé des milliers de fans venus du monde entier pour célébrer cette étape historique dans l'univers de la musique électronique.
 

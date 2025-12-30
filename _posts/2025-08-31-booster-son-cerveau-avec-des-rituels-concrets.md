@@ -3,12 +3,15 @@ title: Booster son cerveau avec des rituels concrets
 description: ""
 date: 2025-08-31T20:19:12.278Z
 featured_image: /images/article_images/2025/08/Screenshot-2025-08-31-17.39.02.jpg
-tags:
-  - ADHD
 layout: post
 subtitle: ""
 fmContentType: Post
 lastmod: 2025-09-01T06:59:46.420Z
+tags:
+- TDAH
+categories:
+- Santé
+
 ---
 
 Le jour, je fais le chef d’orchestre : réunions, stratégie, notifications Slack qui poppent plus vite qu’une armée de chats sur Internet. Le soir ? Je passe en mode freelance, entre sauvetages WordPress (coucou [thibaultmilan.com](https://thibaultmilan.com)) et bidouilles créatives du côté de [LetzPrint](https://letzprint.eu). Les titres changent, mais mon cerveau, lui, garde toujours ouvert… mille et un onglets (et jamais les bons).

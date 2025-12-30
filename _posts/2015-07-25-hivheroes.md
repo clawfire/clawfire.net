@@ -2,11 +2,13 @@
 layout: post
 title: "#HIVHeroes"
 date: '2015-07-25 00:02:03'
-tags:
-- hiv
-- prevention-2
-- hivheroes
 featured_image: /images/article_images/2015/07/IMG_2181--C--Julian-Behrenbeck.jpg
+tags:
+- Prévention
+- VIH
+categories:
+- Santé
+
 ---
 
 Je vous ai parlé la semaine dernière d'une campagne de pub qui m'avais marqué et bien cette semaine c'est [Vangardist](http://www.vangardist.com/) dont j'aimerais parler.

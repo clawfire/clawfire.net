@@ -2,6 +2,10 @@
 layout: post
 title: Bye bye Facebook
 date: '2011-07-25 06:23:07'
+tags: []
+categories:
+- Culture
+
 ---
 
 <p style="text-align: justify;">Avec l'arrivée de Google+ je savais qu'il y aurais un tournant , sinon majeur, important pour moi concernant les réseaux sociaux. Faute d'alternative viable à Facebook, et aussi parceque pour des raisons professionnelles il me fallait un compte j'avais gardé mon compte et appliqué une politique de sécurité tellement drastique que même mon homme n'arrivais pas à voir la liste de mes friends sans que j'arrive à changer cela part la suite ...<!--more--></p>

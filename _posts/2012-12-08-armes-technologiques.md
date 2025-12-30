@@ -3,9 +3,12 @@ layout: post
 title: Armes Technologiques
 date: '2012-12-08 21:08:03'
 tags:
-- arme
-- cyber-terrorisme
-- guerre
+- Cybersécurité
+- Société
+categories:
+- Tech
+- Personnel
+
 ---
 
 <p>Je reviens un peu tard sur les fleurs que <a href="http://reflets.info/vente-darmes-electroniques-la-fete-est-terminee/">reflets.info</a> et <a href="http://owni.fr/2012/11/08/le-parlement-europeen-soppose-aux-armes-de-surveillance/">owni.f</a>r lançaient à tout va récemment concernant une récente résolution de l'union européenne concernant l'exportation et la vente d'arme technologiques officiellement actuellement appelés "service ou produit technologique à double usage civil et militaire". Je parle de système capable d'intercepter et de bloquer tout ou partie des communications électroniques d'un pays : emails, appels, SMS, data, web, ... Comme la France a autorisé l'exportation en Syrie ce qui a conduis à un véritable génocide ( et je continue a penser que la France devrais être jugée pour crime de guerre pour cela ).</p>

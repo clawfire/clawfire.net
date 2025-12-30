@@ -2,12 +2,14 @@
 layout: post
 title: "Page blanche"
 date: "2017-01-12 15:37:18 +0100"
-tags:
-  - musique
-  - USA
-  - NYC
-  - Madonna
 featured_image: /images/article_images/2017/01/0vw4inac-ym-wladislaw-sokolowskij.jpg
+tags:
+- Musique
+- Voyage
+categories:
+- Culture
+- Vie Quotidienne
+
 ---
 
 J'ai hésité longtemps avec le titre de ce post. Au début je voulais l'appeler "J'ai besoin de changements", mais ce n'est pas très vrai. Je n'ai pas _besoin_ de changement, c'est juste que j'en ressent l'envie. Et comme j'ai la musique [Mon pays][mon pays] de [Yelle][yelle] dans la tête, j'ai voulus appeler cet article "Safari Disco Club". Ce qui vous aurais encore plus perdu ...

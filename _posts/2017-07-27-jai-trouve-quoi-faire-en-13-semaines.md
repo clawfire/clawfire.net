@@ -3,10 +3,13 @@ layout: post
 title: "J'ai trouvé quoi faire en 13 semaines"
 date: "2017-07-27 15:27:49 +0200"
 tags:
-  - Mr. Bear
-  - Bear Pride
-  - Lifegoals
-  - Luxembourg
+- BearPride
+- MrBear
+- Objectifs
+categories:
+- LGBT+
+- Projets
+
 ---
 
 Je l'avais [écris précédemment](/2017/07/13/13-semaines-a-un-an-pres.html), j'avais quelques petits soucis pour trouver quoi faire de mes 13 prochaines semaines avec mon [Self Journal](http://theselfjournal.com). Et bien j'ai trouvé 🙂

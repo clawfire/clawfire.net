@@ -2,6 +2,10 @@
 layout: post
 title: Je ne voterais pas pour la gauche aux présidentielles
 date: '2011-10-17 11:56:43'
+tags: []
+categories:
+- Personnel
+
 ---
 
 Sous ce titre à peine racoleur, se cache ma déception, intense, de voir que la parti socialiste aura pour candidat aux présidentielles M. Hollande. <!--more-->

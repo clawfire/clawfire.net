@@ -1,10 +1,14 @@
 ---
 title: Des stats respectueuses des lecteurs
 date: 2020-01-12T16:29:00.000Z
-tags:
-  - news
-  - privacy
 layout: post
+tags:
+- Actualité
+- ViePrivée
+categories:
+- Société
+- Personnel
+
 ---
 Alors que j'avais complètement abandonné l'idée de mettre des outils de stats sur mon blog, principalement pour éviter de participer au tracking mondial par une poignée d'acteurs (Google, Facebook, Snapchat...) j'ai vu passer plusieurs solutions de statistiques qui ne fliquent pas les utilisateurs. Alors j'ai décidé d'essayer.
 

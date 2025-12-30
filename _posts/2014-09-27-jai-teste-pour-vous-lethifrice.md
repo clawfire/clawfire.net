@@ -3,8 +3,10 @@ layout: post
 title: 'J''ai testé pour vous : l’Ethifrice'
 date: '2014-09-27 12:54:31'
 tags:
-- test
-- lush
+- Test
+categories:
+- Personnel
+
 ---
 
 Le quoi ? [L'éthifrice][éthifrice]. C'est un dentifrice solide, en pastille, commercialisé par [Lush][lush]. 

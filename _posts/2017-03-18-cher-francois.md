@@ -2,10 +2,13 @@
 layout: post
 title: "Cher François"
 date: "2017-03-18 13:59:28 +0100"
-tags:
-  - élection
-  - spam
 featured_image: /images/article_images/2017/03/elliott-stallion-105205.jpg
+tags:
+- Spam
+- Élections
+categories:
+- Société
+
 ---
 Comme je suis ce qu'on appelle pudiquement un "Français de l'étranger", je me ramasse une quantité assez incroyable de spam. Mon adresse email est publiée sur les _Listes consulaires électorales_ et les partis politiques n'hésitent pas à en abuser copieusement.
 

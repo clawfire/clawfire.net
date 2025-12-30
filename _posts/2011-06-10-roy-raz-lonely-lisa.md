@@ -3,9 +3,10 @@ layout: post
 title: Roy Raz - Lonely Lisa
 date: '2011-06-10 13:33:33'
 tags:
-- mylene-farmer
-- roy-raz
-- videoclip
+- Musique
+categories:
+- Culture
+
 ---
 
 Non je ne titrais pas "Mylène Farmer" vous seriez capable de me jeter la pierre. Cependant c'est tout de même grâce à elle, ou plutôt de son dernier clip que je découvre Roy Raz, metteur en scène le jour et DJ la nuit.<!--more-->

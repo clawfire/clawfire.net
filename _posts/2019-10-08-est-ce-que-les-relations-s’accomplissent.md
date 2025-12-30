@@ -1,10 +1,14 @@
 ---
 title: Est ce que les relations s’accomplissent ?
 date: 2019-08-10T22:00:00.000Z
-tags:
-  - news
-  - relations
 layout: post
+tags:
+- Actualité
+- Relations
+categories:
+- Société
+- Relations
+
 ---
 En regardant la dernière saison de Orange is the new Black, on y voit que l’on parle de la thématique des relations qui évoluent, changent, des attirances qui se déplacent et surtout, un épisode en particulier fini sur cette question “Est ce que les relations s’accomplissent ?”. 
 

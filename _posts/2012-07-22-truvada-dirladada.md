@@ -3,13 +3,12 @@ layout: post
 title: Truvada dirladada
 date: '2012-07-22 16:11:14'
 tags:
-- infection
-- ist
-- medicament
-- prevention
-- seropositivite
-- traitement
-- vih
+- Prévention
+- Santé
+- VIH
+categories:
+- Santé
+
 ---
 
 C'est officiel, la FDA (Food &amp; Drugs Administration) a donné son feu vert pour la commercialisation du Truvada aux USA. Le Truvada c'est quoi ?

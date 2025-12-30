@@ -3,8 +3,10 @@ layout: post
 title: Petit update de ma situation
 date: '2017-11-19 18:51:27 +0100'
 tags:
-  - me
-  - couple
+- Personnel
+categories:
+- Personnel
+
 ---
 
 Comme vous êtes encore quelques un a suivre ce blog, et que le dernier billet n'était pas très woop woop, je me fends d'une petite update concernant tout cela.

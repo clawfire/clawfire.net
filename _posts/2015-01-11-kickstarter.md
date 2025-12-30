@@ -2,11 +2,14 @@
 layout: post
 title: Kickstarter
 date: '2015-01-11 16:04:50'
-tags:
-- jeux-video
-- crowdfunding
-- kickstarter
 featured_image: /images/article_images/2015/01/kickstarter-logo-dark.png
+tags:
+- Financement
+- JeuxVidéo
+categories:
+- Culture
+- Personnel
+
 ---
 
 En 2014 j'ai essayé de supporter des projets via du [financement participatif](http://fr.wikipedia.org/wiki/Financement_participatif) (crowdfunding) sur la plateforme [Kickstarter](http://kickstarter.com) & [IndieGogo](https://www.indiegogo.com/i). Petite retour d'expérience.

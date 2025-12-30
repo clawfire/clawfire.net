@@ -4,8 +4,11 @@ layout: post
 title: La crise du Coronavirus au Luxembourg - EP 02
 featured_image: "/images/article_images/2020/07/united-nations-covid-19-response-nbed3yshj6w-unsplash.jpg"
 tags:
-- COVID-19
+- Covid19
 - Luxembourg
+categories:
+- Société
+- Vie Quotidienne
 
 ---
 Well, dans [l’épisode 1](https://clawfire.net/blog/2020/07/18/la-crise-du-coronavirus-au-luxembourg-ep-01) j’ai parlé de lockdown, la suite logique a été le déconfinement donc.  Sauf que ça c’est fait de manière assez progressive avec une ré-ouverture de certains commerces en premier (comme les coiffeurs) … 

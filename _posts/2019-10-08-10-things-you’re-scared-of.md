@@ -2,9 +2,12 @@
 title: 10 things you’re scared of
 date: 2019-07-23T22:00:00.000Z
 featured_image: /images/article_images/image-jpeg-8d1cc2aa83f2-1.jpeg
-tags:
-  - Edison10
 layout: post
+tags:
+- Projets
+categories:
+- Projets
+
 ---
 A première vue on pourrait penser que ce challenge est super simple, 10 trucs qui font flipper. Mais en fait ca nous amène à nous poser des questions un peu plus profonde que cela ... De quoi anis je vraiment peur ? Qu’est ce qui m’intimide ? Me terrifie ?
 

@@ -2,8 +2,10 @@
 layout: post
 title: Des choix discutables des homos
 date: '2014-12-18 09:43:40'
-tags:
-- reading
+tags: []
+categories:
+- LGBT+
+
 ---
 
 Aujourd'hui j'ai lu un [article du nouvel obs](http://tempsreel.nouvelobs.com/societe/20141208.OBS7279/mariage-homo-on-devrait-avoir-la-chance-d-etre-papas-avant-2017.html) sur un couple homo préoccupé par le retour de la droite pour leurs droits. 

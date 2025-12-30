@@ -2,12 +2,14 @@
 layout: post
 title: "#HackGenLor"
 date: '2014-10-19 15:28:23'
-tags:
-- grand-est-numerique
-- geek
-- code
-- hackathon
 featured_image: /images/article_images/2014/10/icone.png
+tags:
+- Développement
+- Tech
+categories:
+- Tech
+- Personnel
+
 ---
 
 La semaine dernière je participais à mon premier [hackathon](https://fr.wikipedia.org/wiki/Hackathon) à Metz organisé par l'association [Grand Est Numérique](http://grandestnumerique.org) que je tiens à féliciter pour le travail de titan qu'ils ont abbatut et pour l'encadrement vraiment top de l'évènement.

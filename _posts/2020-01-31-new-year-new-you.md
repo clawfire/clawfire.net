@@ -2,9 +2,11 @@
 title: New year, New you
 date: 2020-01-31T20:31:00.000+00:00
 featured_image: "/images/article_images/IMG_7890.JPG"
-tags:
-- news
 layout: post
+tags:
+- Actualité
+categories:
+- Société
 
 ---
 Un des trucs qui me rends un peu chèvre, c’est le classement de la paperasse. Non, mais que je n’aime pas ça, c’est juste que je crois que j’aime un peu *trop* ça. Du coup, je tombe dans la spirale à la course à l’optimisation du classement. 

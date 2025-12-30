@@ -2,12 +2,16 @@
 layout: post
 title: "Merci Facebook"
 date: "2016-10-20 07:01:21 +0200"
-tags:
-  - Bears
-  - Bear Pride
-  - Events
-  - Social Media
 featured_image: https://www.dropbox.com/s/5wajizsl7b1kltc/Alex%20Marte%20-%20originale.jpg?dl=1
+tags:
+- BearPride
+- Bears
+- RéseauxSociaux
+- Événements
+categories:
+- LGBT+
+- Culture
+
 ---
 
 Récemment j'ai été banni d'utilisation de Facebook pendant 24h autre qu'en lecture seule. C'est ce qu'on apelle un soft-ban dans le jargon. On ne banni pas l'utilisateur pour toujours mais pour un temps suffisant pour qu'il "se calme" par rapport à l'affront qu'il a pus faire.

@@ -2,6 +2,10 @@
 layout: post
 title: Perte de mémoire
 date: '2011-01-08 23:59:21'
+tags: []
+categories:
+- Personnel
+
 ---
 
 J'ai des trous de mémoire en ce moment. Mes journées sont elles à ce point quelconques pour que je ne me rappelle pas de ce que j'ai fait ? Est ce un effet secondaire de la dépression ?

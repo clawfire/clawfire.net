@@ -2,8 +2,11 @@
 layout: post
 title: Régime, une semaine après
 date: '2011-02-13 23:16:16'
-tags:
-- dukan
+tags: []
+categories:
+- Santé
+- Personnel
+
 ---
 
 <p><strong>Mercredi (-0.4Kg)</strong>

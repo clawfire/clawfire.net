@@ -3,13 +3,13 @@ layout: post
 title: Les commentaires sont de retour ( kind of )
 date: '2014-09-09 20:19:54'
 tags:
-- blog
-- ghost-tag
-- wordpress
-- commentaires
-- migration
-- geek
-- code
+- Blog
+- Tech
+- WordPress
+categories:
+- Tech
+- Personnel
+
 ---
 
 Les commentaires sont de retour \o/ via [Livefyre](http://livefyre.com). Mauvaise nouvelle : les `ids` des posts Wordpress & Ghost ne sont pas les même. J'ai donc essayé d'exporter tout mes articles, modifier les `ids` à la main ( ça m'as pris une bonne heure ) et me reportant aux `ids` utilisés par Livefyre ( en fait ceux que Wordpress lui à donné ) et j'ai ré-injecter le tout dans Ghost.

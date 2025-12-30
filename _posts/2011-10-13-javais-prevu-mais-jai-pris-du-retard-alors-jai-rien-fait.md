@@ -3,14 +3,15 @@ layout: post
 title: J'avais prévu ... mais j'ai pris du retard ... alors j'ai rien fait.
 date: '2011-10-13 11:13:29'
 tags:
-- desinformation
-- journalisme
-- lemonde
-- libre-arbitre
-- media
-- presse
-- primaire-socialiste
-- segolene-royale
+- Actualité
+- Journalisme
+- Médias
+- Philosophie
+- Élections
+categories:
+- Société
+- Personnel
+
 ---
 
 J'avais préparé un article sur les primaires et le guide qui semblait aller bien, qui partait sans doute de bonne attentions mais qui au final nous refilait un <a href="http://www.lemonde.fr/primaire-parti-socialiste/visuel/2011/10/04/primaire-ps-comparez-les-propositions-des-candidats_1581786_1471072.html#ens_id=1581803">tableau comparatif des programmes des candidats au premier tour des primaires PS</a> qui était plus qu'incomplet.<!--more-->

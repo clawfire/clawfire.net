@@ -2,6 +2,10 @@
 layout: post
 title: Bye bye Facebook - Step 2
 date: '2011-07-26 06:00:54'
+tags: []
+categories:
+- Culture
+
 ---
 
 <p style="text-align: justify;">Hier je vous parlais de la première phase consistant à exporter ses données et annoncer son départ, aujourd'hui on voit un autre point : La suppression du contenu.</p>

@@ -2,6 +2,10 @@
 layout: post
 title: Cake saumon fumé et poireaux
 date: '2011-02-19 13:19:51'
+tags: []
+categories:
+- Personnel
+
 ---
 
 <p><img src="https://farm6.static.flickr.com/5132/5458507526_e512433776.jpg" alt="Cake saumon fumé et poireaux de clawfire, sur Flickr" /><br />

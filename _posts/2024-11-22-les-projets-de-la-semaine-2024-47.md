@@ -3,10 +3,13 @@ title: Les projets de la semaine (2024-47)
 description: Les trucs que j'ai fait et qui semblent un peu cool que j'ai fait durant la semaine.
 date: 2024-11-22T22:50:28.673Z
 featured_image: /images/article_images/2024/11/PXL_20241118_144957388.jpg
-tags: []
 layout: post
 subtitle: ""
 fmContentType: Post
+tags: []
+categories:
+- Projets
+
 ---
 
 Salut ! Je voulais juste partager quelques activités de ma semaine. Pas de discours marketing—juste un aperçu de mes bricolages quotidiens. Il se trouve que j'ai une difficulté de voir tout les trucs cool que je fais et j'ai souvent l'impression d'être nul et de ne rien faire. ADHD much.

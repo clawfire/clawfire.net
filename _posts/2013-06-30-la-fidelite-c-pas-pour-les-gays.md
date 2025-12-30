@@ -3,10 +3,11 @@ layout: post
 title: La fidélité c pas pour les gays
 date: '2013-06-30 22:29:21'
 tags:
-- couple
-- fidelite
-- gay
-- homo
+- Gay
+- Relations
+categories:
+- LGBT+
+- Relations
 ---
 
 (citation lue sur <a href="http://peioblog.free.fr/dotclear/index.php?2013/06/27/1354-wish-list">le blog de peio</a>). Mon commentaire à ce blogpost étant tellement fourni, je préfère le poster ici à part pour développer à loisir le fond de ma pensée.<!--more-->

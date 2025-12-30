@@ -3,10 +3,13 @@ layout: post
 title: Les Beaux T-Shirt
 date: '2011-05-27 15:44:49'
 tags:
-- concours
-- promo
-- sponso
-- t-shirt
+- Promotion
+- Sponsorisé
+- Événements
+categories:
+- Projets
+- Personnel
+
 ---
 
 Ceux qui me connaissent savent que je fais rarement de la promo, mais il y a certaines boutiques / petits sites sur internet qui sont de véritables coup de coeur pour moi.

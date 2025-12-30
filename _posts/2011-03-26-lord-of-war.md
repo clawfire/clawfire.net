@@ -3,10 +3,11 @@ layout: post
 title: Lord of War
 date: '2011-03-26 23:40:21'
 tags:
-- art
-- film
-- movie
-- nicolas-cage
+- Art
+- Film
+categories:
+- Culture
+
 ---
 
 <p><img src="https://farm4.static.flickr.com/3093/3162604842_0587c590db.jpg" alt="IMG_0512 de joelogon, sur Flickr" />

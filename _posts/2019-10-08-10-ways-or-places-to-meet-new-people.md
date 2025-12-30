@@ -2,9 +2,13 @@
 title: 10 ways or places to meet new people
 date: 2019-07-29T07:24:00.000Z
 featured_image: /images/article_images/image-jpeg-251bace28395-1.jpeg
-tags:
-  - Edison10
 layout: post
+tags:
+- Projets
+categories:
+- Projets
+- Personnel
+
 ---
 1. Coworking space. Je trouve que c’est vraiment le truc qui permet de faire du lien dans notre modèle de travail actuel. 
 2. Meet-up. Encore une fois, c’est vraiment un super bon moyen de rencontrer des gens qui sont dans un bon mindset. 

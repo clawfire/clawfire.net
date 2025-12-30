@@ -2,6 +2,10 @@
 layout: post
 title: Rupture ( fin de la première saison )
 date: '2011-03-05 17:31:30'
+tags: []
+categories:
+- Relations
+
 ---
 
 Si la première saison de ce blog a été consacré à ma dépression, je pense qu'il est juste que ladite saison se termine avec cet événement survenu hier aux alentours de 3h du matin : la rupture.

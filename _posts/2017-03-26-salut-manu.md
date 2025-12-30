@@ -2,10 +2,13 @@
 layout: post
 title: "Salut Manu"
 date: "2017-03-26 19:52:39 -0700"
-tags:
-  - élection
-  - spam
 featured_image: /images/article_images/2017/03/elliott-stallion-105205.jpg
+tags:
+- Spam
+- Élections
+categories:
+- Société
+
 ---
 Faisant suite à mon post sur [le spam envoyé par François Fillon via la Liste Électorale Consulaire](/2017/03/18/cher-francois.html) voici une réponse que j'avais envoyé bien avant, à Emmanuel Macron. J'avais en effet reçu son spam au moment de [sa déclaration gerbante concernant les opposants au mariage homosexuel](http://www.huffingtonpost.fr/2017/02/16/les-anti-mariage-gay-ont-ete-humilies-durant-le-quinquennat-re/) qui auraient été humilié durant le quinquénat Hollande. 
 

@@ -2,9 +2,12 @@
 title: '10 places you want to visit and why '
 date: 2019-07-21T22:00:00.000Z
 featured_image: /images/article_images/image-jpeg-880e1f53dde7-1.jpeg
-tags:
-  - Edison10
 layout: post
+tags:
+- Projets
+categories:
+- Projets
+
 ---
 1. Grand Canyon : because of the magnificent of the place, the glass ring, the view ...
 2. Venise : Even if I went for one day, I want to have more time to enjoy the city and also have like my hotel in the city 😁 

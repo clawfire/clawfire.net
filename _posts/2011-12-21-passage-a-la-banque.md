@@ -3,8 +3,10 @@ layout: post
 title: Passage à la banque
 date: '2011-12-21 12:27:34'
 tags:
-- appartement
-- banque
+- Maison
+categories:
+- Vie Quotidienne
+
 ---
 
 Qui dit changement de vie &amp; de pays dis changement de Banque. Surtout que ma banque, je la déteste. Je ne la recommanderais pour rien au monde même à mes pires ennemis. <strong>Fuyez la Société Générale</strong>.

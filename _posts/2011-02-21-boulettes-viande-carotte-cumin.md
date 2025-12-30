@@ -3,10 +3,12 @@ layout: post
 title: Boulettes de viande carotte/cumin
 date: '2011-02-21 20:39:23'
 tags:
-- carotte
-- cumin
-- dukan
-- viande
+- Cuisine
+- Régime
+categories:
+- Santé
+- Vie Quotidienne
+
 ---
 
 <img src="https://farm6.static.flickr.com/5219/5465879288_fb6b297c74.jpg" alt="Boulettes de viande carotte/cumin" />

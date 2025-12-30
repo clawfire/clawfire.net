@@ -1,10 +1,14 @@
 ---
 title: Need to feel loved
 date: 2019-06-11T13:12:00.000Z
-tags:
-  - love
-  - me
 layout: post
+tags:
+- Amour
+- Personnel
+categories:
+- Relations
+- Personnel
+
 ---
 J'ai eu envie de commencer à écrire aujourd'hui, genre 10min avant ma séance avec ma psy parce que la chanson ["Need to Feel Loved" de Reflekt](https://music.youtube.com/watch?v=zXkbi-ddZXM&feature=share) passait à ce moment là dans mes oreilles et que ça m'as donné un sentiment de mélancolie, de tristesse sans être vraiment triste, de fatigue. Et en même temps, c'est peut être ses petits airs de Porcelain
 

@@ -3,11 +3,14 @@ layout: post
 title: Did i fall asleep ?  For a little while...
 date: '2011-06-03 13:21:53'
 tags:
-- dollhouse
-- implantation
-- insomnie
-- personnalite
-- serie
+- Personnalité
+- Projets
+- Santé
+- Série
+categories:
+- Santé
+- Culture
+
 ---
 
 Lors de mes (rares depuis quelques temps il faut l'avouer) insomnies, je ne trouve rien de mieux à faire que de découvrir de nouvelles séries. Je veux dire je pourrais bosser sur mes projets persos mais non, regarder des séries demande autrement moins d'efforts :) .

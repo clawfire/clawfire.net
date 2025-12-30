@@ -3,14 +3,18 @@ title: les projets de la semaine (2024-48)
 description: Les trucs que j'ai fait et qui semblent un peu cool que j'ai fait durant la semaine.
 date: 2024-12-01T19:52:52.170Z
 featured_image: /images/article_images/2024/11/Blogpost from Penn.png
-tags:
-  - Carrière
-  - Events
-  - Projets
-  - news
 layout: post
 subtitle: ""
 fmContentType: Post
+tags:
+- Actualité
+- Carrière
+- Projets
+- Événements
+categories:
+- Société
+- Projets
+
 ---
 Salut tout le monde! Cette semaine a été davantage consacrée à régler des détails et à prendre des décisions importantes concernant ma vie numérique, plutôt qu'à me lancer dans des projets créatifs. Voici un aperçu des coulisses :
 

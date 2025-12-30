@@ -2,6 +2,11 @@
 layout: post
 title: Luxembourg - 1 mois apres
 date: '2012-02-19 16:21:35'
+tags: []
+categories:
+- Vie Quotidienne
+- Personnel
+
 ---
 
 <p style="text-align: justify;">Cela fait un mois (un peu plus) qu'on est installé au Luxembourg. Si le déménagement à été un peu speed, la vie se passe paisiblement depuis. pouvoir se lever a 8h est un vrai régal et n'avoir que 4min de trajet pour rentrer le soir également. Je n'ai pas le moindre pb du genre "oui mais mon boulot est juste à coté alors je ne le quitte vraiment jamais" comme certains peuvent le craindre, par contre j'ai la fâcheuse tendance à être moins regardant sur mes heures de départ, surtout quand ma moitié ne m'attends pas à la maison.</p>

@@ -1,9 +1,12 @@
 ---
 title: En route pour la double nationalité
 date: 2020-01-07T18:46:00.000Z
-tags:
-  - news
 layout: post
+tags:
+- Actualité
+categories:
+- Société
+
 ---
 Sans être une résolution que j'ai prise, j'ai un peu creusé fin d'année dernière sur la nationalité Luxembourgeoise et sur son acquisition. Droit du sol, droit du sang, et patati et patata. Il se trouve que, se marier avec un·e luxembourgeois·e ne change rien au fait de comment on acquiert la nationalité, par rapport à ma situation de résident permanent. 
 

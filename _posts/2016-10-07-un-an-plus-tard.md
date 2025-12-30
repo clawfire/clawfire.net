@@ -3,9 +3,11 @@ layout: post
 title: Un an plus tard
 date: '2016-10-07 15:24:01 +0200'
 tags:
-  - Mr Bear
-  - bears
-  - life
+- Bears
+- MrBear
+categories:
+- LGBT+
+
 ---
 
 Cela fait plus d'un an que j'ai écris [This is the end](/2015/08/29/this-was-the-end.html). J'ai eu très peu de contact avec David, principalement car je ne pouvais supporter l'idée qu'il n'aille pas bien. Je me suis beaucoup réveiller en pleine nuit, me demandant s'il avait été expulsé de son appartement et s'il était sous un pont. Ce qui m'aurait été très difficile. J'aurais ressenti une responsabilité dans tout cela. Je pense que, quelque part, il le sait et me cache un peu les choses dans les rares contacts que l'on peut avoir. Il me préserve de cette facette de moi même qu'il connaît.

@@ -3,13 +3,14 @@ layout: post
 title: Depression
 date: '2011-01-03 10:00:33'
 tags:
-- abdo
-- cuisine
-- depression
-- marche
-- piscine
-- poids
-- sport
+- Cuisine
+- Fitness
+- Natation
+- Régime
+- SantéMentale
+categories:
+- Santé
+- Vie Quotidienne
 ---
 
 Je suis dépressif. Je l'accepte enfin. Tout du moins j'en ai bien l'impression. C'est ca ou un mega burn-out.

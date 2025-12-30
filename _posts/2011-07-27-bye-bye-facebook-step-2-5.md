@@ -3,11 +3,10 @@ layout: post
 title: Bye bye Facebook - Step 2.5
 date: '2011-07-27 06:00:37'
 tags:
-- facebook
-- facebook-apps
-- facebook-group
-- facebook-pages
-- quitter-facebook
+- Facebook
+categories:
+- Culture
+
 ---
 
 <p style="text-align: justify;">Continuons notre périple de suppression des données de Facebook dans l'optique d'une suppression totale de mon profil, je vais rapidement aborder aujourd'hui le point qui me concerne, mais que vous n'aurez sans doute jamais à vous soucier vous même : les applications et pages.<!--more--></p>

@@ -3,9 +3,12 @@ layout: post
 title: Un an plus tard ( part 2 )
 date: '2014-08-26 08:03:17'
 tags:
-- blog
-- hebergement
-- ghost-tag
+- Blog
+- Hébergement
+categories:
+- Culture
+- Tech
+
 ---
 
 Nous avons donc vu précédemment comment ce blog est tombé à l'abandon, voyons voir comment il a résucité sur un presque coup de pied au cul.

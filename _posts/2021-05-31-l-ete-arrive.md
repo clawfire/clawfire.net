@@ -4,7 +4,9 @@ layout: post
 title: L'été arrive
 featured_image: "/images/article_images/2021/05/matthew-cabret-s6kb8zr5_d8-unsplash.jpg"
 tags:
-- amour
+- Amour
+categories:
+- Relations
 
 ---
 L'été arrive et j'ai une atroce envie d'être amoureux. Non pas que je ne le sois pas en ce moment.

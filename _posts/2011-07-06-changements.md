@@ -2,6 +2,10 @@
 layout: post
 title: Changements
 date: '2011-07-06 13:58:08'
+tags: []
+categories:
+- Personnel
+
 ---
 
 On va finir par croire que 2011 est l'année du changement pour moi.

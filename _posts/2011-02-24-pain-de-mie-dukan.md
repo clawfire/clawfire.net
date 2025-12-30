@@ -2,6 +2,10 @@
 layout: post
 title: Pain de mie Dukan
 date: '2011-02-24 22:31:42'
+tags: []
+categories:
+- Personnel
+
 ---
 
 <p><img src="https://farm6.static.flickr.com/5097/5475005034_301f83d15e.jpg" alt="Pain de mie Dukan" />

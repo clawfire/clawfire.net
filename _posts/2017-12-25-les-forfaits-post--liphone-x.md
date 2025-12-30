@@ -3,9 +3,12 @@ layout: post
 title: Les forfaits POST & l'iPhone X
 date: '2017-12-25 17:39:48 +0100'
 featured_image: /images/article_images/2017/12/iPhoneX.png
-tags:
-  - geek
   - apple
+tags:
+- Tech
+categories:
+- Tech
+
 ---
 
 Comme c'est les fêtes, j'ai regardé le prix des iPhones X chez POST. J'ai un forfait qui arrive à expiration et un ours à la maison qui envisage de prendre son propre téléphone plutôt que juste celui de la société.

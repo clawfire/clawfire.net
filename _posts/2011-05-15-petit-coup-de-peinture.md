@@ -3,9 +3,10 @@ layout: post
 title: Petit coup de peinture ...
 date: '2011-05-15 13:18:27'
 tags:
-- changement
-- renouveau
-- separation
+- Vie
+categories:
+- Personnel
+
 ---
 
 et ça repart. Plein pot sur la saison 3 !

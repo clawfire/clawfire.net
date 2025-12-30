@@ -2,9 +2,12 @@
 title: 10 things you want to get better at
 date: 2019-07-25T22:00:00.000Z
 featured_image: /images/article_images/image-jpeg-416c1931ed9e-1.jpeg
-tags:
-  - Edison10
 layout: post
+tags:
+- Projets
+categories:
+- Projets
+
 ---
 1. Penser à moi d’abord. Faire passer mes intérêts avant ceux des autres. Parce que je prends beaucoup trop de décisions rationnelles ou sans prendre en compte ce qui serait bon pour moi avant ce que les autres voudraient
 2. Dire non

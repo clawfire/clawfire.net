@@ -3,17 +3,12 @@ layout: post
 title: Dernière semaine avant déménagement ?
 date: '2011-12-27 16:42:57'
 tags:
-- banque
-- changement-dadresse
-- cloture-compte
-- resiliation
-- resiliation-adsl
-- resiliation-assurance-habituation
-- resiliation-complementaire-sante
-- resiliation-electricite
-- resiliation-fixe
-- resiliation-mobile
-- uem-metz
+- Administratif
+- Finances
+categories:
+- Santé
+- Vie Quotidienne
+
 ---
 
 Oui parcequ'en fait on à pas encore arrêté de date précise pour le déménagement . Il faudrait d'ailleurs s'y mettre. Mais aujourd'hui c'est paperasse !<!--more-->

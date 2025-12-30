@@ -3,11 +3,14 @@ layout: post
 title: Un an plus tard ( Part 1 )
 date: '2014-08-24 16:25:23'
 tags:
-- blog
-- grand-est-numerique
-- cms
-- jekyll
-- ghost-tag
+- Blog
+- Jekyll
+- Tech
+- Web
+categories:
+- Culture
+- Tech
+
 ---
 
 Le [Grand Est Numérique](http://grandestnumerique.org) lance la [seconde édition](http://grandestnumerique.org/gen2) de son rendez-vous annuel consacré au numérique dans la Grande région autour de tables rondes & conférences d'acteurs locaux. Réussissant le pari de réunir ses derniers autour des journalistes et des politiques, mais aussi d'experts & d'entrepreneurs d'une plus grande portée, d'un plu grand rayonnement.

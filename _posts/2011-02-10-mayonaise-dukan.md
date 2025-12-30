@@ -2,6 +2,10 @@
 layout: post
 title: Mayonaise Dukan
 date: '2011-02-10 21:49:09'
+tags: []
+categories:
+- Personnel
+
 ---
 
 ou Mayonaise allégé, 0% MG tout cela tout cela ...

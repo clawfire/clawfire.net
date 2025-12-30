@@ -1,10 +1,12 @@
 ---
 title: When life gives you lemons ...
 date: 2019-06-17T20:00:00.000Z
-tags:
-  - me
-  - myself
 layout: post
+tags:
+- Personnel
+categories:
+- Personnel
+
 ---
 Un des trucs les plus frustrants que j'ai pus voir avec ma psy, et que j'ai le plus de mal à intégrer, c'est que ce n'est pas parce que ce n'est pas le résultat que j'espérais que ça n'en est pas moins un résultat. 
 

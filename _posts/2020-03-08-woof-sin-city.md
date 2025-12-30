@@ -2,9 +2,12 @@
 title: Woof Sin City
 date: 2020-03-08T15:57:32.122Z
 featured_image: /images/article_images/woof-18-sin-city-facebook-event.png
-tags:
-  - news
 layout: post
+tags:
+- Actualité
+categories:
+- Société
+
 ---
 Comme vous le savez peut être si vous suivez [mon Twitter](https://twitter.com/clawfire) ou [mon instagram](https://instagram.com/clawfire) mais j’organise une nouvelle édition de la soirée ::Woof, the men-only party:: à Luxembourg, ce Samedi 14 au Bar Rouge.
 

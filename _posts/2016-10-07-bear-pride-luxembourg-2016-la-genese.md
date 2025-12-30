@@ -2,12 +2,16 @@
 layout: post
 title: "Bear Pride Luxembourg 2016 - La genèse"
 date: "2016-10-07 17:16:30 +0200"
-tags:
-  - bears
-  - LGBTQ
-  - Pride
-  - Mr Bear
 featured_image: https://www.dropbox.com/s/ivnin7noj2bk8gt/Tumblr%20Cover.png?dl=1
+tags:
+- Bears
+- LGBT+
+- MrBear
+- Pride
+categories:
+- LGBT+
+- Vie Quotidienne
+
 ---
 
 **INFORMATION**

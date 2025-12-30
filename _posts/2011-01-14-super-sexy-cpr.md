@@ -3,15 +3,16 @@ layout: post
 title: Super Sexy CPR
 date: '2011-01-14 11:24:52'
 tags:
-- ads
-- black
-- blonde
-- campagne
-- explicit
-- lingerie
-- sexuel
-- video-2
-- vimeo
+- Mode
+- Musique
+- Politique
+- Publicité
+- Sexualité
+- Vidéo
+categories:
+- Culture
+- Société
+
 ---
 
 Hier je suis tombé au détour de mes visionages de vidéos sur viméo (c'est pour le boulot, je bosse sur leur api), sur cette vidéo, plutot fun et décallé.

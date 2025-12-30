@@ -4,8 +4,11 @@ layout: post
 title: Installer Caesar III sur macOS
 featured_image: "/images/article_images/2021/04/31294caesar3_12.PNG"
 tags:
-- macOS
-- jeu vidéo
+- JeuxVidéo
+- MacOS
+categories:
+- Culture
+- Tech
 
 ---
 Pour ceux qui ne le savent pas, Caesar III est disponible en abandonware (ou sur GoG pour ± 5€) mais, même si une version pour ordinateur de la marque à la pomme existait à l’origine, il n’est plus possible de la lancer de nos jours.

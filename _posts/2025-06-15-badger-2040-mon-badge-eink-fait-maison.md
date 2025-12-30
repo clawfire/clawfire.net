@@ -3,18 +3,21 @@ title: "Badger 2040: Mon Badge eInk Fait Maison"
 description: Découvrez comment j'ai transformé le Badger 2040 en un badge e-ink personnalisé et fonctionnel, alliant créativité et technologie DIY.
 date: 2025-06-15T20:27:58.417Z
 featured_image: /images/article_images/2025/06/PXL_20250621_114332317.MP~2.jpg
-tags:
-  - ADHD
-  - makers
-  - projets
-  - raspberry pi
-  - électronique
-  - bidouilles
 layout: post
 subtitle: ""
 fmContentType: Post
 keywords: []
 lastmod: 2025-06-21T12:42:21.528Z
+tags:
+- Projets
+- RaspberryPi
+- TDAH
+- Tech
+- Électronique
+categories:
+- Santé
+- Tech
+
 ---
 Il y a quelque temps, j’ai acheté un badge électronique appelé [Badger 2040](https://shop.pimoroni.com/products/badger-2040?variant=39752959852627), fabriqué par Pimoroni. C’est un petit écran noir et blanc à encre électronique (e-ink) alimenté par un Raspberry Pi Pico. Il consomme très peu d’énergie, ce qui en fait un excellent support pour des projets simples et autonomes.
 

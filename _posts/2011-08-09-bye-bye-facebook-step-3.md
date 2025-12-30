@@ -3,10 +3,11 @@ layout: post
 title: Bye Bye FAcebook - Step 3
 date: '2011-08-09 09:00:14'
 tags:
-- facebook
-- social-network
-- socialnetwork
-- supprimer
+- Facebook
+- RéseauxSociaux
+categories:
+- Culture
+
 ---
 
 <p style="text-align: justify;">Et nous voilà avec beaucoup de retard à la dernière étape : la désactivation puis la suppression de son compte Facebook. Comment ça fonctionne ? C'est plutôt simple en fait .<!--more--></p>

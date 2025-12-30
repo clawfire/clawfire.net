@@ -2,6 +2,10 @@
 layout: post
 title: "13 semaines (à un an près)"
 date: "2017-07-13 11:22:33 +0200"
+tags: []
+categories:
+- Personnel
+
 ---
 
 Le 11.07.2016 je commençais un [Self Journal](http://theselfjournal.com) et je me faisais la promesse de passer mon permis de conduire avant le 13 septembre 2016. Bon, au final ça aura pris un peu plus de temps que prévu. Je l’ai obtenu il y a quelques semaines, en juin 2017 :D

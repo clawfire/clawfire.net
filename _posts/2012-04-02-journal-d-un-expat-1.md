@@ -2,6 +2,10 @@
 layout: post
 title: 'Journal d''un expat #1'
 date: '2012-04-02 09:00:54'
+tags: []
+categories:
+- Personnel
+
 ---
 
 Mon <a href="http://clawfire.net/luxembourg-1-mois-apres/">précédent billet</a> ayant suscité un vif intérêt, je vous livre ici mon premier (et peut être seul) post "blog d'un expatrié".

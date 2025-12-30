@@ -3,12 +3,14 @@ layout: post
 title: Plaisirs oubliés
 date: '2013-10-16 19:16:55'
 tags:
-- gen1
-- grand-est-numerique
-- mode-de-vie
-- networking
-- social
-- socialisation
+- ModeDeVie
+- Networking
+- RéseauxSociaux
+- Tech
+categories:
+- Tech
+- Projets
+
 ---
 
 Oh que j’aime ça. Cela faisait si longtemps que je n’avais pas… que je n’avais pus. Il est 21:20, je reviens d’<a href="http://grandestnumerique.com/gen1">une journée de conférence</a> génialissime ou j’ai pus non seulement retrouver des amis de longue date mais aussi découvrir pleins de nouvelles personnes très interessante. J’ai retrouvé la sensation que ce dont je parle interesse les gens, succite leur interet, qu’ils veulent en savoir plus. Que cela génère de nouvelles rencontre et des discussions. Des connections.

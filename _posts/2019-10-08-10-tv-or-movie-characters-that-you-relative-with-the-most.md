@@ -2,9 +2,13 @@
 title: 10 TV or movie characters that you relative with the most
 date: 2019-07-22T22:00:00.000Z
 featured_image: /images/article_images/image-jpeg-28d72911a344-1.jpeg
-tags:
-  - Edison10
 layout: post
+tags:
+- Projets
+categories:
+- Culture
+- Projets
+
 ---
 1. The friendly neighbourhood Spider-Man. Because he got like nice power but always trapped into the imposter syndrome 
 2. Hermione Granger, because I’m always right. Especially with José 😁 

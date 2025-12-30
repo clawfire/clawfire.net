@@ -2,6 +2,10 @@
 layout: post
 title: I'm Still Rocky
 date: '2011-11-24 14:38:33'
+tags: []
+categories:
+- Personnel
+
 ---
 
 <a href="https://clawfire.net/wp-content/uploads/2011/11/mamyrock-e1322138243927.png"><img class="aligncenter  wp-image-651" title="mamyrock" src="https://clawfire.net/wp-content/uploads/2011/11/mamyrock-e1322138243927.png" alt="" width="580" /></a>

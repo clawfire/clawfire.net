@@ -3,15 +3,18 @@ title: Burning out
 description: ""
 date: 2024-07-27T00:24:54.454Z
 featured_image: /images/article_images/2024/07/burnout.png
-tags:
-  - burnout
-  - Luxembourg
-  - travail
-  - santé
-categories: []
 layout: post
 slug: burning-out
 type: Post
+tags:
+- Luxembourg
+- Santé
+- SantéMentale
+- Travail
+categories:
+- Santé
+- Projets
+
 ---
 
 Le burnout est un syndrome psychologique causé par un stress prolongé au travail, caractérisé par l'épuisement émotionnel, la dépersonnalisation et le manque d'accomplissement personnel. Il peut être influencé par des facteurs professionnels, personnels et de vie. La prise en charge du burnout implique souvent une approche combinée, incluant un soutien psychologique, des ajustements au travail et des pratiques de bien-être personnel.

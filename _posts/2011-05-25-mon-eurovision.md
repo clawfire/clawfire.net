@@ -2,6 +2,10 @@
 layout: post
 title: Mon eurovision
 date: '2011-05-25 11:59:55'
+tags: []
+categories:
+- Personnel
+
 ---
 
 Puisque je suis foutrement en retard par rapport à tout le monde, je vous épargnerais mon analyse de l'Eurovision 2011, surtout que j'ai live-twitté ça plus que de raison, pour me concentrer sur ceux que j'ai aimé et que j'aurais aimé voir gagner. Voici donc <strong>mon</strong> classement (rien qu'a moi parceque les autres sont des cons :p ).<!--more-->

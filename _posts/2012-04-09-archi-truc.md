@@ -3,9 +3,11 @@ layout: post
 title: Archi-truc
 date: '2012-04-09 19:39:29'
 tags:
-- archiduchesse
-- chausettes
-- shopping
+- Archiduchesse
+- Mode
+categories:
+- Vie Quotidienne
+
 ---
 
 <p style="text-align: justify;">J'avais envie de vous partager mon bon plan shopping du jour , puisque j'ai fais une nouvelle commande récemment … de chaussettes . Sur internet. Oui dis comme ça, ça peut paraitre un peu étrange …

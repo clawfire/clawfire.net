@@ -2,6 +2,10 @@
 layout: post
 title: Coming Soon
 date: '2011-01-02 17:53:04'
+tags: []
+categories:
+- Personnel
+
 ---
 
 Cuming Soon. Oui non définitivement ça fait mauvais genre...

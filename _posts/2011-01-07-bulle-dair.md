@@ -3,10 +3,13 @@ layout: post
 title: Bulle d'air
 date: '2011-01-07 12:15:16'
 tags:
-- depression
-- jeux-video
-- poids
-- suicide
+- JeuxVidéo
+- Régime
+- SantéMentale
+categories:
+- Santé
+- Culture
+
 ---
 
 Levé a pas d'heure encore une fois. MegaFail.

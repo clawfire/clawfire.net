@@ -3,9 +3,12 @@ layout: post
 title: This was the end
 date: '2015-08-29 21:26:00'
 tags:
-- sentiments
-- amour
-- love
+- Amour
+- Émotions
+categories:
+- Relations
+- Personnel
+
 ---
 
 J’ai quitté David. Il y a plus d’un mois. Peut-être deux. J’ai un peu perdu la notion du temps en ces dernières semaines, je ne saurais dire avec exactitude sans rechercher spécifiquement et je n’ai pas envie de me lancer là dedans à 0 h 28.

@@ -2,6 +2,10 @@
 layout: post
 title: Joyeuse St Valentin
 date: '2011-02-18 10:50:10'
+tags: []
+categories:
+- Personnel
+
 ---
 
 <p><img src="https://clawfire.net/wp-content/uploads/2265718036_5993df4700.jpg" alt="Coeur Rouge" />
