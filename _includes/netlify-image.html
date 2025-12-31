@@ -1,0 +1,49 @@
+{% comment %}
+  Netlify Image CDN URL generator with development fallback
+
+  Usage in templates:
+  {% include netlify-image.html src="/images/photo.jpg" width=800 height=600 fit="cover" quality=80 %}
+
+  Parameters:
+  - src (required): Image source path (relative or absolute)
+  - width: Target width in pixels
+  - height: Target height in pixels
+  - fit: Resize mode (cover, contain, fill) - default: cover
+  - quality: Image quality 1-100 - default: 80
+
+  Environment:
+  - In development (JEKYLL_ENV != "production"), returns original image path
+  - In production, returns Netlify Image CDN URL
+{% endcomment %}
+
+{% assign image_url = include.src %}
+
+{% if jekyll.environment == "production" %}
+  {% comment %}Production: Use Netlify Image CDN{% endcomment %}
+  {% assign params = "url=" | append: image_url %}
+
+  {% if include.width %}
+    {% assign params = params | append: "&w=" | append: include.width %}
+  {% endif %}
+
+  {% if include.height %}
+    {% assign params = params | append: "&h=" | append: include.height %}
+  {% endif %}
+
+  {% if include.fit %}
+    {% assign params = params | append: "&fit=" | append: include.fit %}
+  {% else %}
+    {% assign params = params | append: "&fit=cover" %}
+  {% endif %}
+
+  {% if include.quality %}
+    {% assign params = params | append: "&q=" | append: include.quality %}
+  {% else %}
+    {% assign params = params | append: "&q=80" %}
+  {% endif %}
+
+  /.netlify/images?{{ params }}
+{% else %}
+  {% comment %}Development: Return original image path{% endcomment %}
+  {{ image_url }}
+{% endif %}

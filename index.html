@@ -18,7 +18,9 @@ description:
 			</div>
 
 			{% if post.featured_image %}
-			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
+			{% comment %}Generate optimized image URL (800px wide for blog listing){% endcomment %}
+			{% capture optimized_image %}{% include netlify-image.html src=post.featured_image width=800 fit="cover" quality=80 %}{% endcapture %}
+			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ optimized_image | strip }});"></a>
 			{% endif %}
 
 			<div class="blog-post__content">

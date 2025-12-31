@@ -1,0 +1,54 @@
+# Netlify Configuration
+
+# Production builds (on Netlify servers)
+[build]
+  publish = "_site"
+  command = "JEKYLL_ENV=production bundle exec jekyll build"
+
+[build.environment]
+  JEKYLL_ENV = "production"
+
+# Local development with netlify dev
+[dev]
+  command = "bundle exec jekyll serve --watch --incremental --livereload"
+  targetPort = 4000
+  publish = "_site"
+  autoLaunch = false
+
+# Image CDN Configuration
+[images]
+  # Enable remote images if needed (currently only local images)
+  # remote_images = ["https://example.com/.*"]
+
+# Simplified Image CDN URLs via redirects
+# These create shorter, cleaner URLs for common image transformations
+
+# Thumbnail images (400x300, cover fit, quality 75)
+[[redirects]]
+  from = "/img/thumb/*"
+  to = "/.netlify/images?url=/:splat&w=400&h=300&fit=cover&q=75"
+  status = 200
+
+# Medium images (800px wide, quality 80)
+[[redirects]]
+  from = "/img/medium/*"
+  to = "/.netlify/images?url=/:splat&w=800&fit=cover&q=80"
+  status = 200
+
+# Large featured images (1200px wide, quality 80)
+[[redirects]]
+  from = "/img/large/*"
+  to = "/.netlify/images?url=/:splat&w=1200&fit=cover&q=80"
+  status = 200
+
+# Extra large images (1600px wide, quality 80)
+[[redirects]]
+  from = "/img/xlarge/*"
+  to = "/.netlify/images?url=/:splat&w=1600&fit=cover&q=80"
+  status = 200
+
+# Headers for source images
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

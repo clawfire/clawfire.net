@@ -19,12 +19,17 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | strip_html}}{% endif %}">
-	<meta name="twitter:image:src" content="{{ page.featured_image | absolute_url }}">
+	{% if page.featured_image %}
+		{% capture social_image %}{% include netlify-image.html src=page.featured_image width=1200 height=630 fit="cover" quality=85 %}{% endcapture %}
+		<meta name="twitter:image:src" content="{{ site.url }}{{ social_image | strip }}">
+	{% endif %}
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | strip_html}}{% endif %}" />
-	<meta property="og:image" content="{{ page.featured_image | absolute_url }}" />
+	{% if page.featured_image %}
+		<meta property="og:image" content="{{ site.url }}{{ social_image | strip }}" />
+	{% endif %}
 
 	{% if site.data.settings.font_settings.font_embed %}
 	<!-- Font Embed Code -->

@@ -27,7 +27,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 
-				<div class="portfolio-item__image" style="background-image: url({{ project.featured_image | relative_url }});"></div>
+				{% capture project_image %}{% include netlify-image.html src=project.featured_image width=600 height=400 fit="cover" quality=80 %}{% endcapture %}
+				<div class="portfolio-item__image" style="background-image: url({{ project_image | strip }});"></div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
