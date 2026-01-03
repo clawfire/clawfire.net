@@ -34,5 +34,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
 # Local Netlify folder
 .netlify
+
+# Claude: ne versionner que la config non sensible
+.claude/secrets.yml
+.claude/local/
+# Claude (local-only settings)
+.claude/settings.local.json
