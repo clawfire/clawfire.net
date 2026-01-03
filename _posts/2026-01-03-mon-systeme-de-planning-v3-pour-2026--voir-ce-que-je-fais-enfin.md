@@ -10,7 +10,7 @@ tags:
 layout: post
 subtitle: ""
 fmContentType: Post
-lastmod: 2026-01-03T21:32:13.421Z
+lastmod: 2026-01-03T23:45:37.821Z
 ---
 Il y a trois ans, j'ai découvert [les cartes Analog d'Ugmonk](https://ugmonk.com/collections/best-sellers/products/analog-starter-kit-black-steel-with-cards). Le concept était simple : une carte par jour, 10 tâches max par jour, un tracker discret et c'est tout. Pas d'app qui notifie, pas de liste infinie qui scroll. Juste du papier, un stylo, et l'illusion du contrôle.
 
@@ -185,10 +185,6 @@ Et surtout : est-ce que tu *vois* ce que tu accomplis, ou est-ce que tu as juste
 
 Si tu veux tester le système, je mets les cartes V3 en téléchargement libre ([licence CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)). Tu peux les imprimer, les adapter, les casser si ça ne marche pas pour toi.
 
-[Télécharger les cartes V3](#) *(lien à ajouter)*
+[Télécharger les cartes V3](https://cloud.thibau.lt/s/N6s2BtnoJkQN7t2)
 
 Rendez-vous dans deux semaines pour la suite.
-
----
-
-*Photo : [Insère ici une photo de tes cartes V3 + weekly planner sur ton bureau]*
