@@ -33,7 +33,7 @@
   {% if include.fit %}
     {% assign params = params | append: "&fit=" | append: include.fit %}
   {% else %}
-    {% assign params = params | append: "&fit=cover" %}
+    {% assign params = params | append: "&fit=contain" %}
   {% endif %}
 
   {% if include.quality %}

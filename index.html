@@ -19,7 +19,7 @@ description:
 
 			{% if post.featured_image %}
 			{% comment %}Generate optimized image URL (800px wide for blog listing){% endcomment %}
-			{% capture optimized_image %}{% include netlify-image.html src=post.featured_image width=800 fit="cover" quality=80 %}{% endcapture %}
+			{% capture optimized_image %}{% include netlify-image.html src=post.featured_image width=800 fit="contain" quality=80 %}{% endcapture %}
 			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ optimized_image | strip }});"></a>
 			{% endif %}
 

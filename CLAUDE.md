@@ -147,7 +147,7 @@ Use the `netlify-image.html` include to generate optimized image URLs:
 
 ```liquid
 {% capture optimized_url %}
-  {% include netlify-image.html src="/images/photo.jpg" width=800 height=600 fit="cover" quality=80 %}
+  {% include netlify-image.html src="/images/photo.jpg" width=800 height=600 fit="contain" quality=80 %}
 {% endcapture %}
 <img src="{{ optimized_url | strip }}" alt="Description">
 ```
