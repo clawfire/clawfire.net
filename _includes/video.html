@@ -1,0 +1,79 @@
+{% comment %}
+  Video Include Component
+
+  Usage:
+  {% include video.html
+    src_mp4="/assets/video/clip.mp4"
+    src_webm="/assets/video/clip.webm"
+    poster="/assets/video/clip.jpg"
+    tracks="/assets/video/clip.vtt"
+    desc="Soldering LED strip demo"
+  %}
+
+  Parameters:
+  - src_mp4 (required): Path to the MP4 video file.
+  - src_webm (optional): Path to the WebM video file (recommended for better performance).
+  - poster (required): Path to the poster image.
+  - tracks (optional): Path to the subtitles file.
+  - desc (required): Description of the video for accessibility.
+{% endcomment %}
+
+<figure class="video-container">
+  <video
+    class="video-player"
+    controls
+    playsinline
+    preload="metadata"
+    poster="{{ include.poster }}"
+    aria-label="{{ include.desc | escape }}"
+    onerror="this.style.display='none'; this.nextElementSibling.style.display='block';"
+  >
+    {% if include.src_webm %}
+      <source src="{{ include.src_webm }}" type="video/webm">
+    {% endif %}
+    {% if include.src_mp4 %}
+      <source src="{{ include.src_mp4 }}" type="video/mp4">
+    {% endif %}
+    {% if include.tracks %}
+      <track src="{{ include.tracks }}" kind="subtitles" srclang="en" label="English">
+    {% endif %}
+    Your browser does not support the video tag. You can
+    <a href="{{ include.src_mp4 }}">download the video</a> instead.
+  </video>
+  <div class="video-fallback" style="display: none;">
+    <p>Video could not be loaded. <a href="{{ include.src_mp4 }}">Download the video</a>.</p>
+  </div>
+  {% if include.desc %}
+    <figcaption class="video-caption">{{ include.desc }}</figcaption>
+  {% endif %}
+</figure>
+
+<style>
+  .video-container {
+    margin: 1rem auto;
+    position: relative;
+    max-width: 720px;
+  }
+
+  .video-player {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000;
+    border-radius: 8px;
+    display: block;
+  }
+
+  .video-fallback {
+    background: #f0f0f0;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  .video-caption {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+</style>
