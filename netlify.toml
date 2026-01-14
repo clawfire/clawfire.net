@@ -3,7 +3,7 @@
 # Production builds (on Netlify servers)
 [build]
   publish = "_site"
-  command = "JEKYLL_ENV=production bundle exec jekyll build"
+  command = "bundle install && JEKYLL_ENV=production bundle exec jekyll build"
 
 [build.environment]
   JEKYLL_ENV = "production"
