@@ -11,30 +11,35 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Download next build date
-        uses: actions/download-artifact@v7
-        with:
-          name: next-build
-          path: .
-
-      - name: Trigger build if date matches
+      - name: Check for posts scheduled for today
         run: |
-          if [ ! -f next-build.txt ]; then
-            echo "No next-build.txt found"
-            exit 0
-          fi
-
-          NEXT=$(cat next-build.txt)
           TODAY=$(date '+%Y-%m-%d')
+          echo "Checking for posts scheduled for: $TODAY"
 
-          if [ "$NEXT" == "none" ]; then
+          FUTURE_DATES=()
+
+          # Scan all posts for future dates
+          for FILE in _posts/*.md; do
+            [ -f "$FILE" ] || continue
+            POST_DATE=$(grep '^date:' "$FILE" | head -n1 | sed -E "s/date: *[\"']?([0-9]{4}-[0-9]{2}-[0-9]{2}).*/\1/")
+
+            if [[ -n "$POST_DATE" ]] && [[ "$POST_DATE" > "$(date -d yesterday '+%Y-%m-%d')" ]]; then
+              FUTURE_DATES+=("$POST_DATE")
+              echo "  Found future post: $FILE → $POST_DATE"
+            fi
+          done
+
+          if [ ${#FUTURE_DATES[@]} -eq 0 ]; then
             echo "Aucune build planifiée."
             exit 0
           fi
 
-          if [ "$NEXT" == "$TODAY" ]; then
+          NEXT_DATE=$(printf "%s\n" "${FUTURE_DATES[@]}" | sort | head -n1)
+          echo "Prochaine build planifiée le: $NEXT_DATE"
+
+          if [ "$NEXT_DATE" == "$TODAY" ]; then
             echo "✅ Build Netlify déclenchée pour aujourd'hui."
             curl -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK }}"
           else
-            echo "⏳ Rien à faire aujourd’hui. Prochaine build le $NEXT."
+            echo "⏳ Rien à faire aujourd'hui. Prochaine build le $NEXT_DATE."
           fi
