@@ -1,0 +1,560 @@
+---
+# Focus Sessions — bilingual landing page (Jekyll / Liquid)
+# Self-contained: no dependency on the site's base layout.
+# FR is the default (and the no-JS fallback); EN via the toggle or ?lang=en
+permalink: /focus/
+layout: none  # "none" (not null) bypasses the `layout: page` default from _config.yml
+
+# ---- Cal.com ----------------------------------------------------------
+calLink: "thibault-milan-amu8et/focus"
+brandColor: "#066464"
+
+# ---- Copy ---------------------------------------------------------------
+t:
+  fr:
+    htmlTitle: "Focus Sessions — travailler seul, mais pas tout seul"
+    metaDesc: "Sessions de body doubling en visio, gratuites. 5 min d'objectif, 50 min de focus, 5 min de check-out."
+    kicker: "Focus Sessions · body doubling 🐻"
+    h1a: "Travailler seul,"
+    h1b: "mais pas tout seul."
+    lead: "Une heure en visio avec une poignée de personnes qui, comme toi, ont un truc à abattre. On annonce son objectif, on coupe le micro, et la présence des autres fait le reste."
+    ctaBook: "Réserver une place →"
+    ctaHow: "Comment ça marche"
+    pills: ["Gratuit", "4 places max", "60 min", "En visio"]
+    whyKicker: "Pourquoi ça marche"
+    whyTitle: "Le collègue silencieux qui te manquait."
+    why:
+      - icon: "🪑"
+        h: "Un rendez-vous, pas une intention"
+        p: "« Je m'y mets demain matin » devient « j'ai une session à 8 h ». Le créneau fait le travail de volonté à ta place."
+      - icon: "👀"
+        h: "La présence, pas la surveillance"
+        p: "Personne ne regarde ton écran. Savoir que d'autres bossent en même temps suffit à rendre le scroll moins tentant."
+      - icon: "🎯"
+        h: "Un objectif dit à voix haute"
+        p: "L'annoncer en début de session, puis dire si c'est fait à la fin : la plus légère des responsabilités, et la plus efficace."
+    ritualKicker: "Le rituel"
+    ritualTitle: "5 · 50 · 5. Toujours pareil."
+    ritualCore: "50 min de focus"
+    ritual:
+      - n: "5 min"
+        p: "Bonjour, et chacun annonce son objectif en une phrase."
+      - n: "50 min"
+        p: "Caméra allumée, micro coupé. On bosse. C'est tout."
+      - n: "5 min"
+        p: "Check-out : fait, pas fait, à moitié ? Sans jugement."
+    slotsKicker: "Quand"
+    slotsTitle: "Les créneaux"
+    slots:
+      - day: "Lundi"
+        hours: "8 h – 17 h"
+        note: "Toute la journée : une session par heure."
+      - day: "Mardi → vendredi"
+        hours: "8 h – 10 h"
+        note: "Deux sessions pour bien lancer la journée."
+    rulesTitle: "Trois règles, pas une de plus"
+    rules:
+      - icon: "🕑"
+        h: "Inscription jusqu'à 30 min avant"
+        p: "Passé ce délai, la liste est figée. Pas d'inscrit, pas de session."
+      - icon: "🚪"
+        h: "La porte ferme à +5 min"
+        p: "Passé ce délai, on n'ouvre plus : le flow des autres passe avant. Rendez-vous à la suivante."
+      - icon: "🔁"
+        h: "Empêché·e ? Libère ta place"
+        p: "Un clic sur « Annuler » dans l'e-mail de confirmation. C'est la seule contrepartie demandée."
+    bookKicker: "Réserver"
+    bookTitle: "Choisis ton créneau."
+    bookIntro: "Tu reçois une invitation avec le lien de la visio et un rappel avant la session. Le compteur indique les places restantes."
+    fallbackQ: "Le calendrier ne s'affiche pas ?"
+    fallbackLink: "Ouvre-le directement sur Cal.com"
+    faqKicker: "FAQ"
+    faqTitle: "Les questions qu'on se pose avant la première fois"
+    faq:
+      - q: "C'est quoi, le body doubling ?"
+        a: "Travailler en présence de quelqu'un d'autre. Personne ne te surveille, personne ne te juge : la simple présence des autres suffit à rendre le démarrage plus facile et la distraction moins tentante."
+      - q: "Je dois parler ?"
+        a: "Juste au début (ton objectif, en une phrase, dans le chat ou à voix haute) et à la fin. Pendant les 50 minutes, micro coupé."
+      - q: "La caméra est obligatoire ?"
+        a: "Fortement conseillée : c'est elle qui crée l'effet « on est ensemble ». Personne ne regarde ton écran, juste ta présence."
+      - q: "Je peux bosser sur quoi ?"
+        a: "Tout ce qui demande de la concentration : un mémoire, des mails en retard, du code, ta compta, un tri de photos. Pas de jugement sur l'objectif."
+      - q: "Et si je suis en retard ?"
+        a: "La porte ferme 5 minutes après le début, pour ne pas casser le flow des autres. Inscris-toi à la session suivante, elle n'est jamais loin."
+      - q: "Quelles infos sont collectées, et qu'est-ce que tu en fais ?"
+        a: "Pour réserver, Cal.com te demande ton nom et ton e-mail. Ils servent uniquement à t'envoyer l'invitation, le lien de la visio et le rappel. Je n'en fais rien d'autre : pas de newsletter, pas de revente, pas de partage, et les autres participants ne voient pas ton adresse. Les sessions ne sont pas enregistrées. Tu veux que tes données soient supprimées ? Un message suffit."
+      - q: "Combien ça coûte ?"
+        a: "Rien, pour l'instant. Si tu ne peux plus venir, annule simplement ta place pour la libérer : c'est la seule « monnaie » demandée."
+    footer: "Animé par Thibault · inspiré par le principe du body doubling, en version maison et gratuite."
+
+  en:
+    htmlTitle: "Focus Sessions — work alone, but not on your own"
+    metaDesc: "Free online body doubling sessions. 5 min to set your goal, 50 min of focus, 5 min check-out."
+    kicker: "Focus Sessions · body doubling 🐻"
+    h1a: "Work alone,"
+    h1b: "but not on your own."
+    lead: "One hour on video with a handful of people who, like you, have something to get done. Share your goal, mute your mic, and let everyone else's presence do the rest."
+    ctaBook: "Book a seat →"
+    ctaHow: "How it works"
+    pills: ["Free", "4 seats max", "60 min", "Online"]
+    whyKicker: "Why it works"
+    whyTitle: "The quiet coworker you were missing."
+    why:
+      - icon: "🪑"
+        h: "An appointment, not an intention"
+        p: "“I'll get to it tomorrow morning” becomes “I've got a session at 8.” The time slot does the willpower work for you."
+      - icon: "👀"
+        h: "Presence, not surveillance"
+        p: "Nobody looks at your screen. Knowing others are working at the same time makes scrolling a lot less tempting."
+      - icon: "🎯"
+        h: "A goal said out loud"
+        p: "Share it at the start, say whether it's done at the end: the lightest form of accountability, and the most effective."
+    ritualKicker: "The ritual"
+    ritualTitle: "5 · 50 · 5. Every time."
+    ritualCore: "50 min of focus"
+    ritual:
+      - n: "5 min"
+        p: "Hi, and everyone shares their goal in one sentence."
+      - n: "50 min"
+        p: "Camera on, mic off. We work. That's it."
+      - n: "5 min"
+        p: "Check-out: done, not done, halfway? No judgment."
+    slotsKicker: "When"
+    slotsTitle: "Time slots"
+    slots:
+      - day: "Monday"
+        hours: "8 am – 5 pm"
+        note: "All day: one session every hour."
+      - day: "Tuesday → Friday"
+        hours: "8 am – 10 am"
+        note: "Two sessions to kick off the day."
+    rulesTitle: "Three rules, no more"
+    rules:
+      - icon: "🕑"
+        h: "Book up to 30 min before"
+        p: "After that, the list is locked. No sign-ups, no session."
+      - icon: "🚪"
+        h: "The door closes at +5 min"
+        p: "After that, nobody else gets in: everyone else's flow comes first. See you at the next one."
+      - icon: "🔁"
+        h: "Can't make it? Free up your seat"
+        p: "One click on “Cancel” in your confirmation email. That's the only thing asked in return."
+    bookKicker: "Book"
+    bookTitle: "Pick your slot."
+    bookIntro: "You'll get an invite with the video link and a reminder before the session. The counter shows how many seats are left."
+    fallbackQ: "Calendar not showing?"
+    fallbackLink: "Open it directly on Cal.com"
+    faqKicker: "FAQ"
+    faqTitle: "Questions people ask before their first session"
+    faq:
+      - q: "What is body doubling?"
+        a: "Working in the presence of someone else. Nobody's watching you, nobody's judging: simply having others around makes getting started easier and distractions less tempting."
+      - q: "Do I have to talk?"
+        a: "Only at the start (your goal, in one sentence, in the chat or out loud) and at the end. During the 50 minutes, mic off."
+      - q: "Is the camera mandatory?"
+        a: "Strongly recommended: it's what creates the “we're in this together” feeling. Nobody looks at your screen, just your presence."
+      - q: "What can I work on?"
+        a: "Anything that needs focus: a thesis, overdue emails, code, your accounting, sorting photos. No judgment on the goal."
+      - q: "What if I'm late?"
+        a: "The door closes 5 minutes after the start, so we don't break everyone else's flow. Book the next session, there's always one coming up."
+      - q: "What data is collected, and what do you do with it?"
+        a: "To book, Cal.com asks for your name and email. They're used only to send you the invite, the video link and the reminder. I don't do anything else with them: no newsletter, no reselling, no sharing, and other attendees can't see your address. Sessions aren't recorded. Want your data deleted? Just send me a message."
+      - q: "How much does it cost?"
+        a: "Nothing, for now. If you can't make it anymore, just cancel to free up your seat: that's the only “currency” asked."
+    footer: "Hosted by Thibault · inspired by body doubling, homemade and free."
+---
+{% assign langs = "fr,en" | split: "," %}
+<!doctype html>
+<html lang="fr" data-ui="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.t.fr.htmlTitle }}</title>
+  <meta name="description" content="{{ page.t.fr.metaDesc }}">
+  <meta property="og:title" content="{{ page.t.fr.htmlTitle }}">
+  <meta property="og:description" content="{{ page.t.fr.metaDesc }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500;700&family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <style>
+    /* ---------- Clawfire tokens ---------- */
+    :root {
+      --spring-wood: #F8F5F1;
+      --almond: #E8DDCB;
+      --tan: #CDB37F;
+      --mosque: #066464;
+      --blue-whale: #043649;
+      --midnight: #031734;
+
+      --bg: var(--spring-wood);
+      --surface: #FFFFFF;
+      --surface-2: var(--almond);
+      --text: var(--midnight);
+      --muted: #4a5a6a;
+      --accent: var(--mosque);
+      --accent-ink: #FFFFFF;
+      --line: rgba(3, 23, 52, .12);
+
+      --radius: 18px;
+      --wrap: 1040px;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: var(--midnight);
+        --surface: #072443;
+        --surface-2: var(--blue-whale);
+        --text: var(--spring-wood);
+        --muted: #b9c3cc;
+        --accent: #3fb0a5;
+        --accent-ink: var(--midnight);
+        --line: rgba(248, 245, 241, .14);
+      }
+    }
+
+    /* ---------- Language switching ---------- */
+    /* Each .i18n block carries a lang attribute; only the active one shows. */
+    html[data-ui="fr"] .i18n:not([lang="fr"]),
+    html[data-ui="en"] .i18n:not([lang="en"]) { display: none; }
+
+    .lang-switch {
+      position: fixed; top: 16px; right: 16px; z-index: 10;
+      display: flex; padding: 4px; gap: 2px;
+      background: var(--surface); border: 1px solid var(--line); border-radius: 999px;
+      box-shadow: 0 4px 16px rgba(3, 23, 52, .08);
+    }
+    .lang-switch button {
+      font: 700 .8rem/1 Dosis, sans-serif; letter-spacing: .1em;
+      border: 0; background: transparent; color: var(--muted);
+      padding: 8px 12px; border-radius: 999px; cursor: pointer;
+    }
+    .lang-switch button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+
+    /* ---------- Base ---------- */
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 400 17px/1.6 Inter, system-ui, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 16px; }
+    a { color: var(--accent); }
+    h1, h2, h3 { line-height: 1.15; margin: 0 0 .5em; letter-spacing: -.02em; }
+    h2 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); font-weight: 800; }
+    .kicker {
+      font-family: Dosis, sans-serif; font-weight: 700;
+      text-transform: uppercase; letter-spacing: .14em; font-size: .8rem;
+      color: var(--accent);
+    }
+    section { padding: 72px 0; border-top: 1px solid var(--line); }
+    .muted { color: var(--muted); }
+
+    .btn {
+      display: inline-flex; align-items: center; gap: .5em;
+      background: var(--accent); color: var(--accent-ink);
+      font-weight: 700; text-decoration: none;
+      padding: 14px 22px; border-radius: 999px;
+      transition: transform .15s ease, box-shadow .15s ease;
+    }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(6, 100, 100, .25); }
+    .btn.ghost { background: transparent; color: var(--text); border: 1.5px solid var(--line); }
+
+    /* ---------- Hero ---------- */
+    .hero { padding: 96px 0 72px; }
+    .hero h1 { font-size: clamp(2.4rem, 7vw, 4.6rem); font-weight: 800; max-width: 14ch; }
+    .hero h1 em { font-style: normal; color: var(--accent); }
+    .hero p.lead { font-size: clamp(1.05rem, 2.2vw, 1.3rem); color: var(--muted); max-width: 46ch; }
+    .hero .ctas { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+    .pills { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 28px; padding: 0; list-style: none; }
+    .pills li {
+      font-family: Dosis, sans-serif; font-weight: 500; font-size: .95rem;
+      background: var(--surface-2); padding: 6px 14px; border-radius: 999px;
+    }
+
+    /* ---------- Cards ---------- */
+    .grid { display: grid; gap: 16px; margin-top: 24px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+    .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; }
+    .card h3 { font-size: 1.15rem; }
+    .card p { margin: 0; color: var(--muted); }
+    .card .icon { font-size: 1.6rem; display: block; margin-bottom: 10px; }
+
+    /* ---------- Ritual timeline ---------- */
+    .ritual { display: grid; grid-template-columns: 1fr 10fr 1fr; gap: 6px; margin: 32px 0 24px; }
+    .ritual div {
+      border-radius: 12px; padding: 14px 12px; min-height: 64px;
+      font-family: Dosis, sans-serif; font-weight: 700; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center; text-align: center;
+    }
+    .ritual .edge { background: var(--tan); color: var(--midnight); }
+    .ritual .core { background: var(--accent); color: var(--accent-ink); font-size: 1.1rem; }
+    .ritual-legend strong { display: block; font-size: 1.6rem; color: var(--accent); }
+
+    /* ---------- Slots ---------- */
+    .slot .day { font-family: Dosis, sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: .1em; font-size: .85rem; color: var(--accent); }
+    .slot .hours { font-size: 2rem; font-weight: 800; margin: 4px 0 6px; }
+
+    /* ---------- Booking ---------- */
+    .booking-box {
+      background: var(--surface); border: 1px solid var(--line);
+      border-radius: var(--radius); padding: 8px; margin-top: 24px;
+      min-height: 560px; overflow: hidden;
+    }
+    .cal-inline { width: 100%; min-height: 540px; }
+    .fallback { text-align: center; padding: 48px 16px; }
+    .fallback-note { text-align: center; margin-top: 16px; font-size: .9rem; color: var(--muted); }
+
+    /* ---------- FAQ ---------- */
+    details { border-bottom: 1px solid var(--line); padding: 18px 0; }
+    summary { cursor: pointer; font-weight: 700; list-style: none; display: flex; justify-content: space-between; gap: 16px; }
+    summary::-webkit-details-marker { display: none; }
+    summary::after { content: "+"; color: var(--accent); font-weight: 800; transition: transform .2s; }
+    details[open] summary::after { transform: rotate(45deg); }
+    details p { margin: 10px 0 0; color: var(--muted); max-width: 65ch; }
+
+    footer { padding: 40px 0 56px; color: var(--muted); font-size: .9rem; border-top: 1px solid var(--line); }
+
+    @media (max-width: 560px) {
+      section { padding: 56px 0; }
+      .hero { padding: 72px 0 48px; }
+      .ritual { grid-template-columns: 1fr 6fr 1fr; }
+      .ritual div { font-size: .8rem; padding: 10px 6px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      .btn { transition: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Language toggle (hidden until JS runs, so no-JS visitors just get FR) -->
+  <div class="lang-switch" role="group" aria-label="Langue / Language" hidden>
+    <button type="button" data-set-lang="fr" aria-pressed="true">FR</button>
+    <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
+  </div>
+
+  {% comment %} ================= PART 1 — hero → booking intro (one block per language) ================= {% endcomment %}
+  {% for code in langs %}
+  {% assign c = page.t[code] %}
+  <div class="i18n" lang="{{ code }}">
+
+    <header class="hero">
+      <div class="wrap">
+        <p class="kicker">{{ c.kicker }}</p>
+        <h1>{{ c.h1a }} <em>{{ c.h1b }}</em></h1>
+        <p class="lead">{{ c.lead }}</p>
+        <div class="ctas">
+          <a class="btn" href="#reserver">{{ c.ctaBook }}</a>
+          <a class="btn ghost" href="#rituel-{{ code }}">{{ c.ctaHow }}</a>
+        </div>
+        <ul class="pills">
+          {% for pill in c.pills %}<li>{{ pill }}</li>{% endfor %}
+        </ul>
+      </div>
+    </header>
+
+    <section>
+      <div class="wrap">
+        <p class="kicker">{{ c.whyKicker }}</p>
+        <h2>{{ c.whyTitle }}</h2>
+        <div class="grid">
+          {% for card in c.why %}
+          <div class="card">
+            <span class="icon">{{ card.icon }}</span>
+            <h3>{{ card.h }}</h3>
+            <p>{{ card.p }}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+
+    <section id="rituel-{{ code }}">
+      <div class="wrap">
+        <p class="kicker">{{ c.ritualKicker }}</p>
+        <h2>{{ c.ritualTitle }}</h2>
+        <div class="ritual" aria-hidden="true">
+          <div class="edge">5</div>
+          <div class="core">{{ c.ritualCore }}</div>
+          <div class="edge">5</div>
+        </div>
+        <div class="grid ritual-legend">
+          {% for step in c.ritual %}
+          <div class="card">
+            <strong>{{ step.n }}</strong>
+            <p>{{ step.p }}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <p class="kicker">{{ c.slotsKicker }}</p>
+        <h2>{{ c.slotsTitle }}</h2>
+        <div class="grid">
+          {% for s in c.slots %}
+          <div class="card slot">
+            <div class="day">{{ s.day }}</div>
+            <div class="hours">{{ s.hours }}</div>
+            <p>{{ s.note }}</p>
+          </div>
+          {% endfor %}
+        </div>
+
+        <h2 style="margin-top:56px">{{ c.rulesTitle }}</h2>
+        <div class="grid">
+          {% for r in c.rules %}
+          <div class="card">
+            <span class="icon">{{ r.icon }}</span>
+            <h3>{{ r.h }}</h3>
+            <p>{{ r.p }}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+
+  </div>
+  {% endfor %}
+
+  {% comment %} ================= PART 2 — booking (embeds are shared by both languages) ================= {% endcomment %}
+  <section id="reserver">
+    <div class="wrap">
+      {% for code in langs %}
+      {% assign c = page.t[code] %}
+      <div class="i18n" lang="{{ code }}">
+        <p class="kicker">{{ c.bookKicker }}</p>
+        <h2>{{ c.bookTitle }}</h2>
+        <p class="muted" style="max-width:56ch">{{ c.bookIntro }}</p>
+      </div>
+      {% endfor %}
+
+      <div class="booking-box">
+        <div id="cal-focus" class="cal-inline">
+          <noscript><p class="fallback"><a class="btn" href="https://cal.com/{{ page.calLink }}">Cal.com →</a></p></noscript>
+        </div>
+      </div>
+
+      {% for code in langs %}
+      <p class="fallback-note i18n" lang="{{ code }}">
+        {{ page.t[code].fallbackQ }}
+        <a href="https://cal.com/{{ page.calLink }}">{{ page.t[code].fallbackLink }}</a>.
+      </p>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% comment %} ================= PART 3 — FAQ + footer ================= {% endcomment %}
+  {% for code in langs %}
+  {% assign c = page.t[code] %}
+  <div class="i18n" lang="{{ code }}">
+    <section>
+      <div class="wrap">
+        <p class="kicker">{{ c.faqKicker }}</p>
+        <h2>{{ c.faqTitle }}</h2>
+        <div style="margin-top:16px">
+          {% for item in c.faq %}
+          <details>
+            <summary>{{ item.q }}</summary>
+            <p>{{ item.a }}</p>
+          </details>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+    <footer>
+      <div class="wrap">
+        {{ c.footer }} · <a href="https://clawfire.net">clawfire.net</a>
+      </div>
+    </footer>
+  </div>
+  {% endfor %}
+
+  <!-- Language logic: ?lang= param > saved choice > browser language > FR -->
+  <script>
+    (function () {
+      var META = {
+        fr: { title: {{ page.t.fr.htmlTitle | jsonify }}, desc: {{ page.t.fr.metaDesc | jsonify }} },
+        en: { title: {{ page.t.en.htmlTitle | jsonify }}, desc: {{ page.t.en.metaDesc | jsonify }} }
+      };
+      var root = document.documentElement;
+      var switcher = document.querySelector(".lang-switch");
+
+      function store(key, val) {
+        try { if (val === undefined) return localStorage.getItem(key); localStorage.setItem(key, val); }
+        catch (e) { return null; }
+      }
+
+      function apply(lang) {
+        if (!META[lang]) lang = "fr";
+        root.setAttribute("data-ui", lang);
+        root.setAttribute("lang", lang);
+        document.title = META[lang].title;
+        var d = document.querySelector('meta[name="description"]');
+        if (d) d.setAttribute("content", META[lang].desc);
+        switcher.querySelectorAll("button").forEach(function (b) {
+          b.setAttribute("aria-pressed", String(b.dataset.setLang === lang));
+        });
+      }
+
+      var fromUrl = new URLSearchParams(location.search).get("lang");
+      var saved = store("focus-lang");
+      var browser = (navigator.language || "fr").toLowerCase().startsWith("fr") ? "fr" : "en";
+      apply(fromUrl || saved || browser);
+
+      switcher.hidden = false;
+      switcher.addEventListener("click", function (e) {
+        var lang = e.target.dataset && e.target.dataset.setLang;
+        if (!lang) return;
+        apply(lang);
+        store("focus-lang", lang);
+      });
+    })();
+  </script>
+
+  <!-- Cal.com inline embed (official loader) -->
+  <script>
+    (function (C, A, L) {
+      let p = function (a, ar) { a.q.push(ar); };
+      let d = C.document;
+      C.Cal = C.Cal || function () {
+        let cal = C.Cal; let ar = arguments;
+        if (!cal.loaded) {
+          cal.ns = {}; cal.q = cal.q || [];
+          d.head.appendChild(d.createElement("script")).src = A;
+          cal.loaded = true;
+        }
+        if (ar[0] === L) {
+          const api = function () { p(api, arguments); };
+          const namespace = ar[1];
+          api.q = api.q || [];
+          if (typeof namespace === "string") {
+            cal.ns[namespace] = cal.ns[namespace] || api;
+            p(cal.ns[namespace], ar);
+            p(cal, ["initNamespace", namespace]);
+          } else p(cal, ar);
+          return;
+        }
+        p(cal, ar);
+      };
+    })(window, "https://app.cal.com/embed/embed.js", "init");
+
+    /** Mount one inline Cal.com calendar in its own namespace. */
+    function mountCal(ns, selector, link) {
+      Cal("init", ns, { origin: "https://cal.com" });
+      Cal.ns[ns]("inline", { elementOrSelector: selector, calLink: link, config: { layout: "month_view" } });
+      Cal.ns[ns]("ui", {
+        styles: { branding: { brandColor: "{{ page.brandColor }}" } },
+        hideEventTypeDetails: true,
+        layout: "month_view"
+      });
+    }
+
+    mountCal("focus", "#cal-focus", "{{ page.calLink }}");
+  </script>
+</body>
+</html>
