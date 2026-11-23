@@ -19,7 +19,7 @@ Sur mon espace Sowefund, la ligne a changé de statut. Elle affiche maintenant *
 
 ## Avril 2022, cent euros
 
-J'ai adoré les podcasts de Binge. *Les Couilles sur la table*, *Le Cœur sur la table*, *Programme B* : le genre de catalogue qui donne l'impression qu'un média peut encore être fait par des gens qui aiment ce qu'ils font.
+J'ai adoré les podcasts de Binge. [*Les Couilles sur la table*](https://www.binge.audio/category/les-couilles-sur-la-table/), [*Le Cœur sur la table*](https://www.binge.audio/category/le-coeur-sur-la-table/), [*Programme B*](https://www.binge.audio/category/programme-b/) : le genre de catalogue qui donne l'impression qu'un média peut encore être fait par des gens qui aiment ce qu'ils font.
 
 Avant la levée de fonds, ils avaient déjà testé un format payant. J'y ai souscrit. Pendant un temps, puis j'ai arrêté, parce que ça devenait un peu nul. La sélection avait un goût de « on va tirer le plus qu'on peut de ce qu'on a déjà ». Je trouvais ça fainéant.
 
