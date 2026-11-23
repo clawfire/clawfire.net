@@ -19,7 +19,7 @@ Sur mon espace Sowefund, la ligne a changé de statut. Elle affiche maintenant *
 
 ## Avril 2022, cent euros
 
-J'ai adoré les podcasts de Binge. [*Les Couilles sur la table*](https://www.binge.audio/category/les-couilles-sur-la-table/), [*Le Cœur sur la table*](https://www.binge.audio/category/le-coeur-sur-la-table/), [*Programme B*](https://www.binge.audio/category/programme-b/) : le genre de catalogue qui donne l'impression qu'un média peut encore être fait par des gens qui aiment ce qu'ils font.
+J'ai adoré les podcasts de [Binge Audio](https://www.binge.audio/). [*Les Couilles sur la table*](https://www.binge.audio/category/les-couilles-sur-la-table/), [*Le Cœur sur la table*](https://www.binge.audio/category/le-coeur-sur-la-table/), [*Programme B*](https://www.binge.audio/category/programme-b/) : le genre de catalogue qui donne l'impression qu'un média peut encore être fait par des gens qui aiment ce qu'ils font.
 
 Avant la levée de fonds, ils avaient déjà testé un format payant. J'y ai souscrit. Pendant un temps, puis j'ai arrêté, parce que ça devenait un peu nul. La sélection avait un goût de « on va tirer le plus qu'on peut de ce qu'on a déjà ». Je trouvais ça fainéant.
 
@@ -45,7 +45,7 @@ Quand un reporting s'appelle soudain « Informations aux actionnaires », on sai
 
 ## Le studio continue, la holding s'éteint
 
-Le plus étrange, c'est que Binge Audio n'est pas mort. En redressement depuis l'été 2024, le studio a été repris début 2026 par Urbania, un groupe média montréalais, via un plan de cession validé par le tribunal. La presse spécialisée parle d'environ 30 000 euros pour l'ensemble.
+Le plus étrange, c'est que Binge Audio n'est pas mort. En redressement depuis l'été 2024, le studio a été repris début 2026 par [Urbania](https://urbania.fr/), un groupe média montréalais, via un plan de cession validé par le tribunal. La presse spécialisée parle d'environ 30 000 euros pour l'ensemble.
 
 Je fais le calcul malgré moi : la holding des auditeurs avait levé treize fois plus que le prix final de toute la maison.
 
